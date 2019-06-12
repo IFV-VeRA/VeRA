@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in bewaring nemen van informatieobjecten"
+    id="id-ef7c8c37553707ecc8c9ffa4f20df076"
+    documentation="Het ontvangen van informatieobjecten, controleren, aanvullen waar nodig en uitvoeren van alle benodigde voorbereidende handelingen om een object te genereren voor duurzame opslag.Bij objecten worden waar nodig een of meer aanvullende manifestaties c.q. representaties van die objecten plus metagegevens bewaard.&#xA;Aggregaties bundelen bij elkaar horende objecten zoals: meerdere versies van 'één' informatieobject;&#xA;meerdere manifestaties/representaties van een informatieobject (met manifestaties, ook wel representaties genoemd, worden meerdere fysieke vormen van inhoudelijk hetzelfde informatieobject bedoeld, zoals een PDF-bestand naast een Word-bestand van hetzelfde tekstdocument);&#xA;dossiers zoals zaakdossiers.">
+  <properties
+      key="Object ID"
+      value="Id-95409639-da55-4190-a974-41f78a62c4a7"/>
+</archimate:BusinessFunction>

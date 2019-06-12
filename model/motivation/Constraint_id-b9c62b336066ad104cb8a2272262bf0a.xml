@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COINS"
+    id="id-b9c62b336066ad104cb8a2272262bf0a">
+  <properties
+      key="Object ID"
+      value="02a2d005-9f10-9481-a0ec-26263f734a80,id-f3044d00456b96e51cf8970dfbabad9f"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="BIM uitwisselingsstandaard"/>
+  <properties
+      key="Link"
+      value="Forum:coins/bron"/>
+  <properties
+      key="GUID"
+      value="02a2d005-9f10-9481-a0ec-26263f734a80"/>
+  <properties
+      key="Organisatie"
+      value="BIM Loket"/>
+</archimate:Constraint>

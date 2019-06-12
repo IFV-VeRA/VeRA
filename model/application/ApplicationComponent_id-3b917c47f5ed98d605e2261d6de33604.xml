@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPM-engine-component"
+    id="id-3b917c47f5ed98d605e2261d6de33604"
+    documentation="Component voor opslag en uitvoering van vooraf geconfigureerde processen.">
+  <properties
+      key="Object ID"
+      value="Id-8a558906-58dc-4be1-8182-e5937004df5d"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

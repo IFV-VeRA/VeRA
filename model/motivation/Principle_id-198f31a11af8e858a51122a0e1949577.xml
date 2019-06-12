@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S.2. Gegevens worden tijdig gepresenteerd, en alleen gerelateerd aan het beoogde doel"
+    id="id-198f31a11af8e858a51122a0e1949577"
+    documentation="Gegevens worden op een begrijpelijke, consistente en herkenbare wijze gepresenteerd, overeenkomstig de daarvoor geldende richtlijnen. Dit gebeurt in lijn met de aard van de data, de context waarin deze worden gepresenteerd, en rekening houdend met de beoogde doelgroep. Het tijdig presenteren van de gegevens is een aanvulling die van specifiek belang is voor de veiligheids¬regio’s. Immers: hoe sneller de gegevens beschikbaar is des te beter kan een incident of crisis effectief bestreden worden.&#xA;Gebruikers zien in eerste instantie alleen die gegevens die voor hen van belang zijn voor de uitoefening van de functie of taak. Een gegevens overkill wordt hiermee vermeden. Een portal ondersteunt het geïntegreerd presenteren van gegevens, functionaliteiten en generieke functionaliteiten. Het zorgt voor integratie op het niveau van de presentatie. Gegevens en functionaliteit uit verschillende applicaties wordt dan geïntegreerd aan de gebruiker gepresenteerd.">
+  <properties
+      key="Object ID"
+      value="Id-1cb85ecf"/>
+</archimate:Principle>

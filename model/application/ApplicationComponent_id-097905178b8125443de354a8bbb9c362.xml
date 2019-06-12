@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieelbeheer component"
+    id="id-097905178b8125443de354a8bbb9c362"
+    documentation="Component voor het beheren en plannen van voorraden van materiaal en materieel, bijv. voertuigen en ademluchtmaskers.Bijv. voor het kunnen vastleggen van waar producten zich bevinden, hoeveel er van een bepaald product op voorraad zijn en het kunnen doen van bestellingen op basis van verwachte vraag.">
+  <properties
+      key="Object ID"
+      value="Id-1671c7ea-b747-49de-9956-6936dd4b5cae"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

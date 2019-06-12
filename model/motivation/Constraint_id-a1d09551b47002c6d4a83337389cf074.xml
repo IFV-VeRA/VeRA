@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMeF v1.3"
+    id="id-a1d09551b47002c6d4a83337389cf074">
+  <properties
+      key="Link"
+      value="Forum:smef-v13/bron"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Object ID"
+      value="E71641a8-8b78-5456-4d9a-900b0b0a7bb0,id-9829082abefa3d67e0a9e13624ae0084"/>
+  <properties
+      key="Beschrijving"
+      value="E-Facturatie"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="GUID"
+      value="E71641a8-8b78-5456-4d9a-900b0b0a7bb0"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://smef.t4smm.nl/#/"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+</archimate:Constraint>

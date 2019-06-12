@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestelling"
+    id="id-e473db8bf99c3a69900bc317663d5e59"
+    documentation="Het bestellen van een bepaald type goederen of diensten bij een leverancier.">
+  <properties
+      key="Object ID"
+      value="Id-a98472ae-07f7-4981-8b50-0c4088e18453"/>
+</archimate:BusinessFunction>

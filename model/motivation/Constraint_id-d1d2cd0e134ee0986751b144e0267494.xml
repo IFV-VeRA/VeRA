@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebDAV en CalDAV"
+    id="id-d1d2cd0e134ee0986751b144e0267494">
+  <properties
+      key="Object ID"
+      value="72462f55-0b2b-9d00-a6ff-3a7aa1df352a,id-5c1037de18c181760aa491884bccb5b3"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc4918, https://tools.ietf.org/html/rfc4791"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Beschrijving"
+      value="Delen en bewerken van documenten"/>
+  <properties
+      key="GUID"
+      value="72462f55-0b2b-9d00-a6ff-3a7aa1df352a"/>
+  <properties
+      key="Link"
+      value="Forum:webdav-en-caldav/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+</archimate:Constraint>

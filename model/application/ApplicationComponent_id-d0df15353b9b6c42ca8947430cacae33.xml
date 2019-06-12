@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet component"
+    id="id-d0df15353b9b6c42ca8947430cacae33"
+    documentation="Component voor het publiceren van informatie op een besloten website en het integreren van gespecialiseerde systemen. De hier bedoelde gespecialiseerde systemen worden hier beschouwd als onderdelen van het intranet-systeem.">
+  <properties
+      key="Object ID"
+      value="Id-e8c77add-24c5-49c1-83ce-8d03483b22c2"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

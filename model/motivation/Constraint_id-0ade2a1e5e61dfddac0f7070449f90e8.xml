@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCIM"
+    id="id-0ade2a1e5e61dfddac0f7070449f90e8">
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="GUID"
+      value="9a8e23a2-8975-9425-8142-899a67bd0e38"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/wg/scim/"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisseling identiteitsinformatie"/>
+  <properties
+      key="Object ID"
+      value="9a8e23a2-8975-9425-8142-899a67bd0e38,id-a0e1ce8bad97c3f4a635d6a5bd8b5c18"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:scim/bron"/>
+</archimate:Constraint>

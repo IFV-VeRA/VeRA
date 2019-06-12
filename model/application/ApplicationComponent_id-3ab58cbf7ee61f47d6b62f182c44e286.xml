@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Narrowcasting component"
+    id="id-3ab58cbf7ee61f47d6b62f182c44e286"
+    documentation="Component voor het via beeldschermen uitzenden van relevante informatie voor een (externe of interne) doelgroep. Voorbeelden van extern gebruik:&#xA;acties&#xA;(afwijkende) openingstijden&#xA;wachttijden&#xA;social media berichten&#xA;Voorbeelden van intern gebruik:&#xA;interne vacatures&#xA;voorstellen nieuw personeel&#xA;bewegwijzering&#xA;nieuwe diensten.">
+  <properties
+      key="Object ID"
+      value="Id-b2eb0c16-f1f2-42f1-ae84-0d92e41fffac"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

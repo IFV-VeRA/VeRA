@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCDR"
+    id="id-471b0d39c01e57ed86efda76cfcf5dba">
+  <properties
+      key="GUID"
+      value="3d26baf0-1c90-5ea4-56a5-0cb832d38e88"/>
+  <properties
+      key="Link"
+      value="Forum:jcdr/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Identificatie van en verwijzingen naar decentrale regelgeving"/>
+  <properties
+      key="Organisatie"
+      value="Werkmaatschappij-KOOP"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="3d26baf0-1c90-5ea4-56a5-0cb832d38e88,id-5c9e63ff77ef222852fbc4149aca244f"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://juriconnect.nl/implementatie.asp?subpagina=documentatie"/>
+</archimate:Constraint>

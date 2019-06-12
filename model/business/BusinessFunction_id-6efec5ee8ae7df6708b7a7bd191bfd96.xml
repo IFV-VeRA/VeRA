@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intern afvalbeheer"
+    id="id-6efec5ee8ae7df6708b7a7bd191bfd96"
+    documentation="Het ophalen en afvoeren van afval.">
+  <properties
+      key="Object ID"
+      value="Id-148395ac-57a9-4e14-aa27-505f4b18aa3b"/>
+</archimate:BusinessFunction>

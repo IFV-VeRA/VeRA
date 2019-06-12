@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico-inventarisatie en -evaluatie"
+    id="id-44aa3266e3b0a601eef794eb7f1dbf2d"
+    documentation="Functionaliteit waarmee ge-identificeerde risico's t.a.v. objecten, evenementen, etc. kunnen worden geregistreerd en ge-evalueerd.">
+  <properties
+      key="Object ID"
+      value="Id-7b41b32c"/>
+</archimate:ApplicationFunction>

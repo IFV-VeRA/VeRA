@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inningencomponent"
+    id="id-8a73a5658b78bc325d1e74b1518b3e35"
+    documentation="Component voor ondersteuning van het proces van innen, invorderen en kwijtschelden van publiekrechtelijke en eventueel ook privaatrechtelijke vorderingen.">
+  <properties
+      key="Object ID"
+      value="Id-905fc18d-0bda-4592-b5a9-7636f934f51e"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

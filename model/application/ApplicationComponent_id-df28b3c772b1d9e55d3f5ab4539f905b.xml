@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuur component"
+    id="id-df28b3c772b1d9e55d3f5ab4539f905b"
+    documentation="Component voor het ontwikkelen en bewaken van architectuur, processen, werkinstructies, e.d.">
+  <properties
+      key="Object ID"
+      value="Id-e41b9e21-f1a7-48ac-8c02-d2e722d4ff22"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

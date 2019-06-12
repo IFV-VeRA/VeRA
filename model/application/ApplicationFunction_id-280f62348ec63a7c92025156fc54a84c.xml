@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiele administratie"
+    id="id-280f62348ec63a7c92025156fc54a84c"
+    documentation="Functionaliteit waarmee budgetten, inkomsten en uitgaven, en verplichtingen worden geregistreerd en beheerd.">
+  <properties
+      key="Object ID"
+      value="Id-36367571"/>
+</archimate:ApplicationFunction>

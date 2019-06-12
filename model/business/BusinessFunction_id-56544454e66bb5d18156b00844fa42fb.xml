@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capaciteitsplanning"
+    id="id-56544454e66bb5d18156b00844fa42fb"
+    documentation="Het inroosteren van mensen en middelen. Bijvoorbeeld, het maken van een dekkingsplan, een materieelspreidingsplan, het invullen van piket.">
+  <properties
+      key="Object ID"
+      value="Id-d17776c4"/>
+</archimate:BusinessFunction>

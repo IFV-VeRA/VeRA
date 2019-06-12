@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cateringbeheer"
+    id="id-a735049ee458a6375b0d54c7f909f627"
+    documentation="Het verzorgen van catering. Bijv. in de vorm van bedrijfsrestaurants of door eten en drinken bij vergaderingen te verzorgen.">
+  <properties
+      key="Object ID"
+      value="Id-7a63089a-d008-4876-a639-5f6540342340"/>
+</archimate:BusinessFunction>

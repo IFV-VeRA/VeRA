@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer crisis-informatie"
+    id="id-f279d377b97dc6eac53faa3b976ab3ad"
+    documentation="Functionaliteit voor het ondersteunen van de crisisbeheersing en de rampenbestrijding door het registreren, beheren en uitwisselen van relevante informatie t.a.v. een crisis of ramp.">
+  <properties
+      key="Object ID"
+      value="Id-bf797fa1"/>
+</archimate:ApplicationFunction>

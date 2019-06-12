@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operationeel informatiemanagement component"
+    id="id-3c906d177b764d69f8b47f01cfe8c743"
+    documentation="Component voor het verkrijgen van alle voor de bestrijding van het incident relevante informatie en die actief beschikbaar stellen. De juiste informatie moet in de juiste vorm en op het juiste moment beschikbaar zijn voor degenen die deze nodig hebben. (bron: basisvereisten crisismanagement)">
+  <properties
+      key="Object ID"
+      value="Id-a2ccad86-c0b7-469c-b188-61a7f71bbfb2"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

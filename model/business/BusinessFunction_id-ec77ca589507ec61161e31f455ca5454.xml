@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieelbeheer"
+    id="id-ec77ca589507ec61161e31f455ca5454"
+    documentation="Alle voor hulpverlening noodzakelijk materieel en materiaal direct inzetbaar gereed houden. Hierbij valt te denken aan voertuigen, communicatiemiddelen, ademlucht, medicijnenkoffers, sigmatenten.">
+  <properties
+      key="Object ID"
+      value="Id-b8976485"/>
+</archimate:BusinessFunction>

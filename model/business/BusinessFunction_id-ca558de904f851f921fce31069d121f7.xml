@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algemeen beheer duurzame opslag informatieobjecten"
+    id="id-ca558de904f851f921fce31069d121f7"
+    documentation="Het beheren van de gebruikte systeemomgeving zodanig dat verantwoorde duurzame opslag is geborgd.Nodig zijn o.a. het documenteren en beheren van:&#xA;inrichtingsinformatie, toegangsbeheer, digitale koppelingen en&#xA;het monitoren van: ontwikkelingen rondom bestandsformaten,&#xA;gebruikersbehoeften,&#xA;functioneren van de voorziening.">
+  <properties
+      key="Object ID"
+      value="Id-656137a6-1f93-48ef-9bfc-65c1010406a3"/>
+</archimate:BusinessFunction>

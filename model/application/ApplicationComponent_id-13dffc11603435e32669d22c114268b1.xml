@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administratie opleidingen en oefeningen component"
+    id="id-13dffc11603435e32669d22c114268b1"
+    documentation="Component voor het vastleggen van gegevens rondom opleidingen en oefeningen. Deze administratie betreft zowel de inhoud (leerdoelen, etc) als de logistiek (planning, inschrijving, etc.) van opleidinge en oefeningen.">
+  <properties
+      key="Object ID"
+      value="Id-fc97491e-9fc3-4fc3-8628-90b075950cec"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

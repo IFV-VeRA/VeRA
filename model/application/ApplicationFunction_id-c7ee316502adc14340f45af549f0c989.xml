@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oproepen hulpverlening"
+    id="id-c7ee316502adc14340f45af549f0c989"
+    documentation="Functionaliteit voor de uitgifte van een melding gericht op het oproepen van de juiste hulpverlening. Voorbeelden van systemen waarin dergelijke functionaliteit wordt geboden zijn P2000 en C2000.">
+  <properties
+      key="Object ID"
+      value="Id-126de8fe"/>
+</archimate:ApplicationFunction>

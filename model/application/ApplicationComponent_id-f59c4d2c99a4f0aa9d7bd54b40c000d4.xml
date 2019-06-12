@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management informatie component"
+    id="id-f59c4d2c99a4f0aa9d7bd54b40c000d4"
+    documentation="Component voor het ontwikkelen, publiceren en uitvoeren van managementanalyses en rapportages.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-171a8a90-ad53-43d6-b784-f549e13f079c"/>
+</archimate:ApplicationComponent>

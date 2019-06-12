@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA.4. Gebruik open standaarden (voor gemeenschappelijke voorzieningen)"
+    id="id-8d58ad0d79b5058c32315958d36d68ad"
+    documentation="De Veiligheidsregio gebruikt zoveel mogelijk gemeenschappelijke voorzieningen die koppelvlakken bieden op basis van open standaarden of de facto standaarden. &#xA;De Veiligheidsregio hanteert open standaarden en richtlijnen om haar informatievoorziening in te richten. Open standaarden spelen een belangrijke rol in het verbinden van (modulaire) bedrijfsfuncties en applicatieve functies en maken uitwisseling (koppelvlakken) van gegevens eenvoudiger tussen veiligheidspartners. Het gebruik van open standaarden voorkomt dat elke veiligheidsregio afzonderlijk oplossingen bedenkt voor generieke vraagstukken. Open standaarden dragen tevens bij aan interoperabiliteit (uitwisselbaarheid). Open standaarden verbeteren de digitale communicatie tussen overheden onderling en ook tussen overheid, bedrijven en burgers. Daarnaast zorgen open standaarden ervoor dat keuzevrijheid is geborgd. Open standaarden zijn naar hun aard namelijk niet software specifiek en kunnen door iedere leverancier worden ingebouwd.&#xA;Het generieke koppelvlak dat voor in gebruik zijnde systemen toegang biedt tot de gemeenschappelijke informatievoorziening, biedt in ieder geval ook een ‘open’ toegangswijze. Systemen die al een koppelvlak hebben naar de overheid service bus moeten deze kunnen hergebruiken voor toegang tot de gemeenschappelijke informatievoorziening.">
+  <properties
+      key="Object ID"
+      value="Id-d89daba9"/>
+</archimate:Principle>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VCF"
+    id="id-27a3f059c3d73c3b3217ab2b2b6a56d2">
+  <properties
+      key="GUID"
+      value="29eb4d7e-77cc-5922-7690-083a8a38447a"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="29eb4d7e-77cc-5922-7690-083a8a38447a,id-vcf"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisseling van contactgegevens"/>
+  <properties
+      key="Link"
+      value="Forum:vcf/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc6350"/>
+</archimate:Constraint>

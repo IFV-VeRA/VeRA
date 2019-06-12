@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOAP"
+    id="id-14c85d808d7be65924a77c9305701564">
+  <properties
+      key="GUID"
+      value="8a4f0e2f-6c8f-5cf1-92f9-7a52197e4cfd"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:soap/bron"/>
+  <properties
+      key="Object ID"
+      value="8a4f0e2f-6c8f-5cf1-92f9-7a52197e4cfd,id-14aa630df6271cba78fb70ca37160963"/>
+  <properties
+      key="Beschrijving"
+      value="Berichtenuitwisseling"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/soap/, https://forumstandaardisatie.archiefweb.eu/#archive"/>
+</archimate:Constraint>

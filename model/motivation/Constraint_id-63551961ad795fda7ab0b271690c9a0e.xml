@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SVG"
+    id="id-63551961ad795fda7ab0b271690c9a0e">
+  <properties
+      key="Object ID"
+      value="5941ddd3-03ea-451c-8a82-1697f52a274f,id-08c9319c63ff29358f5908ca968d0e6a"/>
+  <properties
+      key="GUID"
+      value="5941ddd3-03ea-451c-8a82-1697f52a274f"/>
+  <properties
+      key="Beschrijving"
+      value="Grafische afbeeldingen"/>
+  <properties
+      key="Link"
+      value="Forum:svg/bron"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/Graphics/SVG/"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract beheer component"
+    id="id-c53d63973d23f3e26d7e9c624f48ec43"
+    documentation="De component ondersteunt het vastleggen en beheren van contracten met leveranciers en klanten. De component ondersteunt ondermeer de automatische signalering van de afloop van contracttermijnen zodat tijdig actie kan worden ondernomen.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-3f77f767-e0fe-4e1f-8bd8-7e1432b81eba"/>
+</archimate:ApplicationComponent>

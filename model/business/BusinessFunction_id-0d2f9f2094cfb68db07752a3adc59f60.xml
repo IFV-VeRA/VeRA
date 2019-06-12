@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische advisering"
+    id="id-0d2f9f2094cfb68db07752a3adc59f60"
+    documentation="Het geven van juridisch advies.">
+  <properties
+      key="Object ID"
+      value="Id-16e7501a-d99e-45d2-b245-ff942f5de26e"/>
+</archimate:BusinessFunction>

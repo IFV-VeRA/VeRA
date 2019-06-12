@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kantoorwerkzaamheden ondersteuning"
+    id="id-7f2cdf4460760371027579bbd035d69e"
+    documentation="Het ondersteunen van kantoorwerkzaamheden via het beschikbaarstellen van, vaak elektronische, middelen. Bijv. door voor kantwoorwerkers elektronische voorzieningen beschikbaar te stellen voor beheer van agenda's of het kunnen maken van teksten of spreadsheets.">
+  <properties
+      key="Object ID"
+      value="Id-66f3303f-6c17-4139-b527-ca5dfb9d8aba"/>
+</archimate:BusinessFunction>

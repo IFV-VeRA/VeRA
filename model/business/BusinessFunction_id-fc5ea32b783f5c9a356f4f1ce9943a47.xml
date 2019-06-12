@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiseringsmanagement"
+    id="id-fc5ea32b783f5c9a356f4f1ce9943a47"
+    documentation="Het ervoor zorgen dat informatiebehoeften bekend zijn en zijn vertaald naar gewenste functionaliteiten van de informatievoorziening.">
+  <properties
+      key="Object ID"
+      value="Id-2dd4ba9c-f738-492e-aaf5-ba1e2b2110b0"/>
+</archimate:BusinessFunction>

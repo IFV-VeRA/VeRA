@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTP"
+    id="id-51168a41267a112cd5850624e7d09916">
+  <properties
+      key="Link"
+      value="Forum:ftp/bron"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="GUID"
+      value="6b9a9934-1b8a-3d61-89e9-30584f646653"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="6b9a9934-1b8a-3d61-89e9-30584f646653,id-7febfffd8c9d4c9cbfc32b421a10d2b4"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/rfc959/"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Bestandsuitwisseling"/>
+</archimate:Constraint>

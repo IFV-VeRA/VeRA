@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mijn VR component"
+    id="id-25136e796b03fea6ec7084cab1e56af1"
+    documentation="Component die toegang biedt tot gepersonaliseerde digitale dienstverlening van de organisatie.">
+  <properties
+      key="Object ID"
+      value="Id-04d0fe7496d3784d23ac613acfbc3938"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop- en contract-management"
+    id="id-79065f595189cfa5fff380c528d42d28"
+    documentation="Functionaliteit voor de registratie van inkooporders, gereedmelding van orders en vastlegging van contractuele afspraken.">
+  <properties
+      key="Object ID"
+      value="Id-3b0cc425"/>
+</archimate:ApplicationFunction>

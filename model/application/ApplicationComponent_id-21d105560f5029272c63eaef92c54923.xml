@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-objectencomponent"
+    id="id-21d105560f5029272c63eaef92c54923"
+    documentation="Component voor het beheren van hard- en softwarecomponenten. De component ondersteunt het vastleggen van gegevens over IT-gerelateerde gegevens en ondersteunt de IT-beheerorganisatie bij het beheren van de betreffende componenten. Conform de ITIL-terminologie worden componenten vaak aangeduid als &quot;configuratie items&quot; en wordt de verzameling opgeslagen gegevens benoemd als &quot;Configuration Management DataBase&quot;.">
+  <properties
+      key="Object ID"
+      value="Id-de2cd412-077d-4f06-874f-208f8aea7af4"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

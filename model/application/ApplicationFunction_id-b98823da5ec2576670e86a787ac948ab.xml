@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijdregistratie"
+    id="id-b98823da5ec2576670e86a787ac948ab"
+    documentation="Functionaliteit om de tijdsbesteding te registreren.">
+  <properties
+      key="Object ID"
+      value="Id-4c43f086"/>
+</archimate:ApplicationFunction>

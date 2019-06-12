@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsproces beheer (BPM) component"
+    id="id-c5b4e61f6d932fbe879e73195a3219b6"
+    documentation="Component voor het definieren, monitoren en analyseren van bedrijfsprocessen.">
+  <properties
+      key="Object ID"
+      value="Id-f3dede8a-eef9-438c-8538-14a412025b25"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

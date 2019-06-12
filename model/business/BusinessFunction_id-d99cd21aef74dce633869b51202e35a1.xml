@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractbeheer"
+    id="id-d99cd21aef74dce633869b51202e35a1"
+    documentation="Het tot stand brengen en bewaken van contracten met leveranciers. Bijv. om te zorgen dat tijdig actie wordt ondernomen om contract op te zeggen voordat er automatisch verlening plaatsvindt.">
+  <properties
+      key="Object ID"
+      value="Id-d29eee9a-1cf7-45cf-b5e2-94b9b9fea7f0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLRS"
+    id="id-fbd50e0005c86960eb715735cefe8a67">
+  <properties
+      key="Object ID"
+      value="208a51f1-5481-17c8-3f75-d6ddcc03a52a,id-dfff363c57f46ca58c8875af98247d7a"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.revitstandards.org/downloads/"/>
+  <properties
+      key="Organisatie"
+      value="Stichting Revit Standards"/>
+  <properties
+      key="Link"
+      value="Forum:nlrs/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisseling van bouwinformatie"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="GUID"
+      value="208a51f1-5481-17c8-3f75-d6ddcc03a52a"/>
+</archimate:Constraint>

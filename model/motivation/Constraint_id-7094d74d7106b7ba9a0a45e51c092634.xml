@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLCIUS"
+    id="id-7094d74d7106b7ba9a0a45e51c092634">
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.stpe.nl/media/stpe.nl-gebruiksinstructie-basisfactuur-v1.0.pdf, https://www.stpe.nl/"/>
+  <properties
+      key="Object ID"
+      value="B5f7b41e-674a-766d-83a4-96f9d7b695d5,id-fc75586bdb6ba892ecdc330f41b9617a"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Link"
+      value="Forum:nlcius/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="GUID"
+      value="B5f7b41e-674a-766d-83a4-96f9d7b695d5"/>
+  <properties
+      key="Beschrijving"
+      value="Electronische factureren"/>
+</archimate:Constraint>

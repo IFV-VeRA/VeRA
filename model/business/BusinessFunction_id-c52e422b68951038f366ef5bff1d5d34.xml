@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hulpverlening"
+    id="id-c52e422b68951038f366ef5bff1d5d34"
+    documentation="Hulp die geboden wordt in het kader van het beheersen van incidenten in de vorm van repressie of het verlenen van acute zorg. Bijvoorbeeld bestrijden brand, verzorgen van slachtoffers, transport van patienten.">
+  <properties
+      key="Object ID"
+      value="Id-fe8558fb"/>
+</archimate:BusinessFunction>

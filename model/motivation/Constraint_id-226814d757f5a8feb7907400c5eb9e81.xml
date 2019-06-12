@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL"
+    id="id-226814d757f5a8feb7907400c5eb9e81">
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.iso.org/iso/home/store/catalogue tc/catalogue detail.htm?csnumber=53681"/>
+  <properties
+      key="Beschrijving"
+      value="Databasetaal"/>
+  <properties
+      key="Link"
+      value="Forum:sql/bron"/>
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="Object ID"
+      value="5827a82a-30f7-5346-5729-c38bb5637c78,id-e14c68bee2080238d0f54ada412a4fb7"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="GUID"
+      value="5827a82a-30f7-5346-5729-c38bb5637c78"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

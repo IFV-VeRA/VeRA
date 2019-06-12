@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Navigatie"
+    id="id-e597b1892f6af378dfeae017cb8c1b01"
+    documentation="Functionaliteit voor het navigeren naar een incidentlocatie in een hulpverleningsvoertuig.">
+  <properties
+      key="Object ID"
+      value="Id-3e08e244"/>
+</archimate:ApplicationFunction>

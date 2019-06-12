@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiebeheer"
+    id="id-943412a682cd074a1f6fc9c59d8ae8f8"
+    documentation="Het uitvoeren van beheertaken m.b.t. bedrijfsapplicaties en de bijbehorende gegevensverzamelingen. Bijv. het instellen van bepaalde applicatiefunctionaliteiten en het mede zorg dragen voor correcte updates van de applicatie.">
+  <properties
+      key="Object ID"
+      value="Id-92e9839b-9d2c-4b87-9103-0e5a41acaf96"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XSL"
+    id="id-580d75f6542e06b24a48e0021985a9db">
+  <properties
+      key="Beschrijving"
+      value="Transformeren XML berichten"/>
+  <properties
+      key="Object ID"
+      value="2b346b1f-220c-886e-375a-2b4739b955de,id-caeb5f66d2a82addd148e213a0b48e46"/>
+  <properties
+      key="GUID"
+      value="2b346b1f-220c-886e-375a-2b4739b955de"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/style/xsl"/>
+  <properties
+      key="Link"
+      value="Forum:xsl/bron"/>
+</archimate:Constraint>

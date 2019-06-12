@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediamonitor- en webcare component"
+    id="id-cbfa3cd7aabed8ea162fc4970bc2957e"
+    documentation="component monitort diverse soorten media (bijvoorbeeld social media, websites, nieuwsgroepen) en verzamelt aan de hand van ingestelde configuratiegegevens relevante berichten">
+  <properties
+      key="Object ID"
+      value="Id-2d0c6f75-07de-46ef-940e-5bcb77ba1995"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

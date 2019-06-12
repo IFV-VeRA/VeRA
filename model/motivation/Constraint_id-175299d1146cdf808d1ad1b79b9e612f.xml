@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEPA"
+    id="id-175299d1146cdf808d1ad1b79b9e612f">
+  <properties
+      key="Link"
+      value="Forum:sepa/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Betalingsgegevens"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.europeanpaymentscouncil.eu/"/>
+  <properties
+      key="Organisatie"
+      value="European Payments Council"/>
+  <properties
+      key="Object ID"
+      value="9d36fd9e-4326-12ea-6cf6-5c78683c15d9,id-bbefd626ae0a91218bed0ab60f5a6e7d"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="GUID"
+      value="9d36fd9e-4326-12ea-6cf6-5c78683c15d9"/>
+</archimate:Constraint>

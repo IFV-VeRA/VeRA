@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UDP"
+    id="id-62bae0859475dc0ce74c8df1fd02e64a">
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="D08c2595-005a-8209-9945-6c85c0926472,id-5ac03c6bbd3d4744ae5c74ad22f674a0"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:udp/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc768"/>
+  <properties
+      key="Beschrijving"
+      value="Netwerkprotocol op transportniveau"/>
+  <properties
+      key="GUID"
+      value="D08c2595-005a-8209-9945-6c85c0926472"/>
+</archimate:Constraint>

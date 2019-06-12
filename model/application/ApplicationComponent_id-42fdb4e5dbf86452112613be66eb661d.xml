@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Navigatie component"
+    id="id-42fdb4e5dbf86452112613be66eb661d"
+    documentation="Een component voor het navigeren naar een locatie.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-5400c91e-6d81-41fe-aef6-402bc77f4080"/>
+</archimate:ApplicationComponent>

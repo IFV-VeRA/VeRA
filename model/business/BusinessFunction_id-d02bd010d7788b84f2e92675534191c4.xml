@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activabeheer"
+    id="id-d02bd010d7788b84f2e92675534191c4"
+    documentation="Het financieel administreren van de bezittingen van de organisatie.">
+  <properties
+      key="Object ID"
+      value="Id-0cc5f004-ef19-4436-bb1f-65f2a9a2bb0a"/>
+</archimate:BusinessFunction>

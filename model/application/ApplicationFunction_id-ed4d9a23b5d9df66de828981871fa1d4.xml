@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning materieel en personeel"
+    id="id-ed4d9a23b5d9df66de828981871fa1d4"
+    documentation="Functionaliteit voor het plannen (roosteren) van de beschikbaarheid van hulpverleners en van het benodigde materieel. Belangrijke aspecten ten aanzien van het materieel zijn voorraadbeheer, eigenschappen van de middelen, inzet- en onderhoudsplanning.">
+  <properties
+      key="Object ID"
+      value="Id-2b1339b0"/>
+</archimate:ApplicationFunction>

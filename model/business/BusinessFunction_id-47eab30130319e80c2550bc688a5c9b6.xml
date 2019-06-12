@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schoonmaak"
+    id="id-47eab30130319e80c2550bc688a5c9b6"
+    documentation="Het schoonmaken van gebouwen, ruimtes en meubilair.">
+  <properties
+      key="Object ID"
+      value="Id-cdcb2dae-112b-47d1-bc83-157e148c0e35"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrotingbeheer"
+    id="id-fe1ed15c20db9592e0661ef1b0c66716"
+    documentation="Het vaststellen van de beschikbare financiële middelen en de daaruit voortvloeiende budgetten.">
+  <properties
+      key="Object ID"
+      value="Id-3a4ce46f-2b46-48a3-b472-144141bc3aa7"/>
+</archimate:BusinessFunction>

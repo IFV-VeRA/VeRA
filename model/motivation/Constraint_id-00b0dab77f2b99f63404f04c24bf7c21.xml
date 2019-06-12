@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL LOM"
+    id="id-00b0dab77f2b99f63404f04c24bf7c21">
+  <properties
+      key="Beschrijving"
+      value="Vindbaarheid van leermaterialen"/>
+  <properties
+      key="Link"
+      value="Forum:nl-lom/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="GUID"
+      value="74dd333b-18bc-7bae-a62b-23918e6e12be"/>
+  <properties
+      key="Object ID"
+      value="74dd333b-18bc-7bae-a62b-23918e6e12be,id-dbf94b2443e3f9348c9f583dc983d92d"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.edustandaard.nl/standaard afspraken/nl-lom/nl-lom-versie-1-01/"/>
+  <properties
+      key="Organisatie"
+      value="EduStandaard"/>
+</archimate:Constraint>

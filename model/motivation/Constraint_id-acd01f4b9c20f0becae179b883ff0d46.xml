@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JSON"
+    id="id-acd01f4b9c20f0becae179b883ff0d46">
+  <properties
+      key="Object ID"
+      value="90fb20bb-7bd3-89de-9fab-108d9d1a4b6f,id-4f03ad67278835b00ede8a310e1700ea"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Link"
+      value="Forum:json/bron"/>
+  <properties
+      key="GUID"
+      value="90fb20bb-7bd3-89de-9fab-108d9d1a4b6f"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc7159"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisselen van datastructuren"/>
+</archimate:Constraint>

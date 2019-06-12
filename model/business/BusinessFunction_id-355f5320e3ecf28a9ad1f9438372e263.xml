@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkeradministratie"
+    id="id-355f5320e3ecf28a9ad1f9438372e263"
+    documentation="Het administreren van gegevens van medewerkers. Bijv. naam-, functie- en salarisgegevens.">
+  <properties
+      key="Object ID"
+      value="Id-7f0b236e-6de0-474a-b6f7-42eabe968d03"/>
+</archimate:BusinessFunction>

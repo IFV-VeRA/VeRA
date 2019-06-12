@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AES"
+    id="id-66d8c4943d59797b5d202f100acd56ec">
+  <properties
+      key="Link"
+      value="Forum:aes/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="NIST"/>
+  <properties
+      key="Beschrijving"
+      value="Versleutelingstechniek"/>
+  <properties
+      key="GUID"
+      value="19f38a85-5de8-9156-129e-dccab04d6518"/>
+  <properties
+      key="Object ID"
+      value="19f38a85-5de8-9156-129e-dccab04d6518,id-33e96034371df78c6af2c24aa4bce234"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

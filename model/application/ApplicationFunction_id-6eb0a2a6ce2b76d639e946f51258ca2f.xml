@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huisvesting-beheer"
+    id="id-6eb0a2a6ce2b76d639e946f51258ca2f"
+    documentation="Functionaliteit voor de beheer van de huisvesting. Deze functionaliteit omvat diverse aspecten van het beheer van de huisvesting zoals het beheersen van meldingen en vragen, beheersen van onderhoudsactiviteiten, registratie van de verschillende onderdelen van de huisvesting (zoals gebouwen, installaties, vergaderruimtes, meubilair, etc.).">
+  <properties
+      key="Object ID"
+      value="Id-1a8af87b"/>
+</archimate:ApplicationFunction>

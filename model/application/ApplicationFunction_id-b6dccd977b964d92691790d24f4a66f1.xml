@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie vakbekwaamheid"
+    id="id-b6dccd977b964d92691790d24f4a66f1"
+    documentation="Functionaliteit voor het registreren van de vakbekwaamheid van (operationele) medewerkers.">
+  <properties
+      key="Object ID"
+      value="Id-ece4da04"/>
+</archimate:ApplicationFunction>

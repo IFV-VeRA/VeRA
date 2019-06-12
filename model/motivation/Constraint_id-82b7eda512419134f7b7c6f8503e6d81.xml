@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="URN"
+    id="id-82b7eda512419134f7b7c6f8503e6d81">
+  <properties
+      key="Object ID"
+      value="2b25e764-3a7c-05df-1f1c-aa1ffd3b1e1b,id-0eea79c91f434f4bef4a2cfb2e69637c"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="GUID"
+      value="2b25e764-3a7c-05df-1f1c-aa1ffd3b1e1b"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Link"
+      value="Forum:urn/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.ietf.org/rfc/rfc2141.txt"/>
+  <properties
+      key="Beschrijving"
+      value="Netwerkprotocol voor identificatie van informatie"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hulpverlening oproep component"
+    id="id-4d25b2cdd705b78c22ca62fe2c04867a"
+    documentation="Component voor de uitgifte van een melding gericht op het oproepen van de juiste hulpverlening.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-b83e9e4c-c133-41a1-911d-afe3ec9ffcc0"/>
+</archimate:ApplicationComponent>

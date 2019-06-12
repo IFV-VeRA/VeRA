@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeels-registratie"
+    id="id-d966d3e7161fc96f95f8661ebc895311"
+    documentation="Functionaliteit voor de registratie van personeelsgegevens">
+  <properties
+      key="Object ID"
+      value="Id-a40c0b52"/>
+</archimate:ApplicationFunction>

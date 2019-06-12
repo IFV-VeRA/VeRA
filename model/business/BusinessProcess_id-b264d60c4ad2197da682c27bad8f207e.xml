@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer en onderhoud brandweer &amp; geneeskundig specifieke hulpmiddelen"
+    id="id-b264d60c4ad2197da682c27bad8f207e"
+    documentation="Het gaat hier met name om onderhoud van 'rollend' materieel (dus niet om vastgoed) zoals voertuigen, ademlucht, etc.">
+  <properties
+      key="Object ID"
+      value="Id-7e76f347"/>
+</archimate:BusinessProcess>

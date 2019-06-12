@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIP"
+    id="id-bc6a23685869a6f5a6a1af05a7062912">
+  <properties
+      key="Beschrijving"
+      value="Communicatie via IP"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc3261, https://forumstandaardisatie.archiefweb.eu/#archive"/>
+  <properties
+      key="Link"
+      value="Forum:sip/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="1589097a-6f06-1735-7c8b-4f684ae546af,id-2ee2361c65f27b9fd48a73bb5013f2ee"/>
+  <properties
+      key="GUID"
+      value="1589097a-6f06-1735-7c8b-4f684ae546af"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-analyse component"
+    id="id-39b35b6fcd246a75503e98fee550d1f6"
+    documentation="Component voor het combineren en analyseren van data met specifieke functionaliteit voor patroonherkenning (ook geo-data).">
+  <properties
+      key="Object ID"
+      value="Id-4744bc91275894e51d7c9c01961fbbae"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

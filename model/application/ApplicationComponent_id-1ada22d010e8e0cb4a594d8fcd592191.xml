@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingscomponent"
+    id="id-1ada22d010e8e0cb4a594d8fcd592191"
+    documentation="Component voor het op afstand, onafhankelijk van elkaar, geco�rdineerd samen werken aan een gemeenschappelijk doel.">
+  <properties
+      key="Object ID"
+      value="Id-090811d8f76b0ba727b52b54529e2a9b"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

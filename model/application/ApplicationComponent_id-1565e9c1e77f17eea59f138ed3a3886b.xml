@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salaris administratie en -verwerking component"
+    id="id-1565e9c1e77f17eea59f138ed3a3886b"
+    documentation="Component waarmee personeels- en salarisgegevens kunnen worden bijgehouden en salarisverwerking kan plaatsvinden conform geldende wet- en regelgeving.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-8304d9dd-4a29-46c5-bd3f-c7db65432275"/>
+</archimate:ApplicationComponent>

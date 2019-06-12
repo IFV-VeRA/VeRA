@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancebeheer"
+    id="id-adc5bbe20bdf2a894b32584d5ff80e7e"
+    documentation="Het controleren of het functioneren van de organisatie in lijn is met wet- en regelgeving.">
+  <properties
+      key="Object ID"
+      value="Id-c082b229-7811-48ed-9d6c-0b29040dfdbf"/>
+</archimate:BusinessFunction>

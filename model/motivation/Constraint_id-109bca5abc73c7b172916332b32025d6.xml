@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UBL"
+    id="id-109bca5abc73c7b172916332b32025d6">
+  <properties
+      key="Object ID"
+      value="8abae595-5179-7b81-8979-81dbae9026e4,id-a4eb7dc3cab9e9bf3407043f307fb339"/>
+  <properties
+      key="GUID"
+      value="8abae595-5179-7b81-8979-81dbae9026e4"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:ubl/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html"/>
+  <properties
+      key="Beschrijving"
+      value="Factuurformaat"/>
+</archimate:Constraint>

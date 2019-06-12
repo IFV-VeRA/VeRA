@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roosterbeheer component"
+    id="id-7b7ec79880bd8dee08d6892105827b07"
+    documentation="Component voor het beheren en plannen van de inzet van medewerkers en materieel. &#x9;Bijv. door ondersteuning te bieden om op basis van medewerkersgegevens en een aantal parameters bij het maken van een planning voor een bepaalde periode.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="Id-3457934f-4d8c-4477-9abd-96f28cfddabb"/>
+</archimate:ApplicationComponent>
