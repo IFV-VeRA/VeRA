@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helpdesk component"
+    id="id-08aaab423c931629432fbb7c13c2f5e5"
+    documentation="Component voor het registreren en afhandelen van door medewerkers gemelde incidenten, problemen en verzoeken.">
+  <properties
+      key="Object ID"
+      value="4fc3f4959d024260d048f1a6bc2560b8"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

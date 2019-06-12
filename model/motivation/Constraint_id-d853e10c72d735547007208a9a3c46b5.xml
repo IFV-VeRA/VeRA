@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MTOM"
+    id="id-d853e10c72d735547007208a9a3c46b5">
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:mtom/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/soap12-mtom/"/>
+  <properties
+      key="Object ID"
+      value="515477d9-018f-4f02-7981-0b0eda502c38,id-1a7ba95090bc177a84a6304cc1faf0ad"/>
+  <properties
+      key="GUID"
+      value="515477d9-018f-4f02-7981-0b0eda502c38"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

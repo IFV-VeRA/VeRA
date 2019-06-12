@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturering"
+    id="id-9f39da9c74bb42940036b60f22039f32"
+    documentation="Het kenbaar maken van openstaande vorderingen aan debiteuren.">
+  <properties
+      key="Object ID"
+      value="20968a38-3a11-463f-a702-6f1781bd2760"/>
+</archimate:BusinessFunction>

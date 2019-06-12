@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WDO Datamodel"
+    id="id-eaa610ccbda25354fc1c50a4f4288f19">
+  <properties
+      key="GUID"
+      value="A30a1261-268f-4533-1ee0-e2d664252663"/>
+  <properties
+      key="Object ID"
+      value="A30a1261-268f-4533-1ee0-e2d664252663,id-875aca288b0d6ae8864a9229177d8cf0"/>
+  <properties
+      key="Beschrijving"
+      value="Douane-informatie"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="Wereld Douane Organisatie"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Link"
+      value="Forum:wdo-datamodel/bron"/>
+</archimate:Constraint>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv6 en IPv4"
+    id="id-6ca05d9e899c1546c8906b0cc1a4e8e9">
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Adressering van ICT-systemen binnen een netwerk"/>
+  <properties
+      key="GUID"
+      value="B9d43806-471f-725d-4ed1-4b9c4451279d"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:ipv6-en-ipv4/bron"/>
+  <properties
+      key="Object ID"
+      value="B9d43806-471f-725d-4ed1-4b9c4451279d,id-c34778479292173b156e6b7b37a38795"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://datatracker.ietf.org/doc/rfc791/, http://datatracker.ietf.org/doc/rfc2460/"/>
+</archimate:Constraint>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NTA9040"
+    id="id-d0830ecae19eef0f03e472d1121bbdf5">
+  <properties
+      key="Link"
+      value="Forum:nta9040/bron"/>
+  <properties
+      key="Object ID"
+      value="6cc933d0-206a-4943-029f-5c2a416aa2f0,id-3b2e5203240a80becfbcececdc85538a"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="GUID"
+      value="6cc933d0-206a-4943-029f-5c2a416aa2f0"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Beschrijving"
+      value="Ondernemingsdossier"/>
+</archimate:Constraint>

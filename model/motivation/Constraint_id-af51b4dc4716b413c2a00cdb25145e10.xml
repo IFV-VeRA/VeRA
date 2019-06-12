@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO 3166-1"
+    id="id-af51b4dc4716b413c2a00cdb25145e10">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NENENISO-316612014-en.htm, https://www.iso.org/iso/home/store/catalogue ics/catalogue detail ics.htm?csnumber=63545"/>
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="GUID"
+      value="E619b3b8-9fda-9694-22b5-43c970411b4f"/>
+  <properties
+      key="Object ID"
+      value="E619b3b8-9fda-9694-22b5-43c970411b4f,id-62deea979ed775414aaec0ce1c93ed19"/>
+  <properties
+      key="Beschrijving"
+      value="Codes voor landnamen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:iso-3166-1/bron"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijdregistratie component"
+    id="id-6790aa3fe9f9e4691b1cc3ba95eca6ab"
+    documentation="Component voor het registreren van gewerkte tijdseenheden bijv. per activiteit of project.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="2ca21e93-e4d5-46f9-9ee7-c8c226ef4b97"/>
+</archimate:ApplicationComponent>

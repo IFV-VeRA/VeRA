@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SHA-2"
+    id="id-9baa4c2caf91e523fc112309a9f3b57c">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Authenticatie en integriteitscontrole"/>
+  <properties
+      key="GUID"
+      value="6ad56560-a671-3891-30e2-a19ef8ad3059"/>
+  <properties
+      key="Link"
+      value="Forum:sha-2/bron"/>
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="Object ID"
+      value="6ad56560-a671-3891-30e2-a19ef8ad3059,id-5276740dd54035f62a8c36359e959eef"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.iso.org/iso/home/store/catalogue ics/catalogue detail ics.htm?csnumber=67116, http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf"/>
+</archimate:Constraint>

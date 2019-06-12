@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Software Development"
+    id="id-4e43fc16c290158582eff6398cc07159">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.cip-overheid.nl/category/producten/secure-software/"/>
+  <properties
+      key="GUID"
+      value="C56f75bb-7511-7847-2fed-db41d0c61006"/>
+  <properties
+      key="Beschrijving"
+      value="Ontwikkeling van veilige software"/>
+  <properties
+      key="Object ID"
+      value="C56f75bb-7511-7847-2fed-db41d0c61006,id-9339c3237b6340bb569a599dc70576a7"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Organisatie"
+      value="CIP"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:secure-software-development/bron"/>
+</archimate:Constraint>

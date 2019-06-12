@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSV"
+    id="id-cca7771ccfef3273213c95cb1e5e8f78">
+  <properties
+      key="Beschrijving"
+      value="Tabelbestanden"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc4180"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="GUID"
+      value="7efe4ba1-03d0-3e9b-91f9-692bf81e3573"/>
+  <properties
+      key="Link"
+      value="Forum:csv/bron"/>
+  <properties
+      key="Object ID"
+      value="7efe4ba1-03d0-3e9b-91f9-692bf81e3573,id-25406407296b0ee1f36296bd9def347a"/>
+</archimate:Constraint>

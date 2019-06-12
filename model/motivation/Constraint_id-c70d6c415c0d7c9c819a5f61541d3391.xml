@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IP Sec"
+    id="id-c70d6c415c0d7c9c819a5f61541d3391">
+  <properties
+      key="Link"
+      value="Forum:ip-sec/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Beschrijving"
+      value="Beveiligde IP verbindingen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc4301, http://tools.ietf.org/html/rfc4309, https://tools.ietf.org/html/rfc6040, https://tools.ietf.org/html/rfc7619"/>
+  <properties
+      key="GUID"
+      value="D9b3c514-570a-7ffc-3845-0f8e7db93fcd"/>
+  <properties
+      key="Object ID"
+      value="D9b3c514-570a-7ffc-3845-0f8e7db93fcd,id-5695ac4c7f877e71234992b013cc7052"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

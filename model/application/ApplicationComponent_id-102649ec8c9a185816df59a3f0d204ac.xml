@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel component"
+    id="id-102649ec8c9a185816df59a3f0d204ac"
+    documentation="Component voor financieel management, administratie en budgetbeheersing">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="1fc0bdb6-5210-4003-b120-6a66fd4da5ac"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth"
+    id="id-88079abf0161d749c98f022e447cb2a7">
+  <properties
+      key="Beschrijving"
+      value="API Autorisatiestandaard"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc6749"/>
+  <properties
+      key="GUID"
+      value="89559584-325d-1d2c-70c2-80bec84216e2"/>
+  <properties
+      key="Lijst status"
+      value="In behandeling"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="89559584-325d-1d2c-70c2-80bec84216e2,id-2197f0aaa64a67d176c569bf1df7258e"/>
+  <properties
+      key="Link"
+      value="Forum:oauth/bron"/>
+</archimate:Constraint>

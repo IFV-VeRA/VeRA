@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digikoppeling"
+    id="id-c847daab6b62b28ef6778c4b1de6d300">
+  <properties
+      key="GUID"
+      value="Ea4af46f-61d1-9ce1-034e-25f0803c6752"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.logius.nl/standaarden/digikoppeling/architectuur-en-koppelvlakstandaarden/"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="Ea4af46f-61d1-9ce1-034e-25f0803c6752,id-3d78610d77ad8ac338e3214909bee89f"/>
+  <properties
+      key="Beschrijving"
+      value="Veilige berichtenuitwisseling"/>
+  <properties
+      key="Organisatie"
+      value="Logius"/>
+  <properties
+      key="Link"
+      value="Forum:digikoppeling/bron"/>
+</archimate:Constraint>

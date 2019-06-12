@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WSDL"
+    id="id-9330d2beb87e3d67623db29d9f247524">
+  <properties
+      key="Object ID"
+      value="1226b1ae-306d-62a9-8c2d-03052a9f3710,id-wsdl"/>
+  <properties
+      key="Link"
+      value="Forum:wsdl/bron"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/2007/REC-wsdl20-primer-20070626/"/>
+  <properties
+      key="Beschrijving"
+      value="Interface van Webservices"/>
+  <properties
+      key="GUID"
+      value="1226b1ae-306d-62a9-8c2d-03052a9f3710"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

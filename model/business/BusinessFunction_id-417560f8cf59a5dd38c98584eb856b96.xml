@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatievoorziening"
+    id="id-417560f8cf59a5dd38c98584eb856b96"
+    documentation="Het leveren van de informatievoorzieningsdiensten, waaronder het aansluiten van de ICT-inrichting op de bedrijfsdoelstellingen ('business alignment') en het management en beheer van het Informatieplan en alle activiteiten die hieruit voortkomen. Het ontwerpen, beschrijven en plegen van onderhoud op bedrijfsprocessen en het bewaken van de consistentie met de administratieve organisatie en de informatievoorzieningsarchitectuur. Beheer van alle gegevens, informatie, kennis, informatie resources en middelen (bijv. telefonie, bibliotheek, automatiseringsmiddelen en -diensten) en de coördinatie, allocatie en gebruik van alle communicatiemiddelen. (bron: MARIJ)">
+  <properties
+      key="Object ID"
+      value="7cd06e9c"/>
+</archimate:BusinessFunction>

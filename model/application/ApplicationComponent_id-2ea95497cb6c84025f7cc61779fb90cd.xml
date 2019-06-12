@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectmanagement component"
+    id="id-2ea95497cb6c84025f7cc61779fb90cd"
+    documentation="Component voor het beheren van projecten, programma's en portfolio's. Projectbeheer kent ondersteuning ten behoeve van het voorbereiden, plannen, uitvoeren en afronden van een individueel project. Bijv. door alle activiteiten en resources te beschrijven en overschrijdingen te signaleren.&#xA;Voor programmamanagement is ondersteuning om een aantal gerelateerde projecten in samenhang te kunnen managen. Bijv. door onderlinge afhankelijkheden tussen projecten in beeld te brengen en knelpunten (bijv. in bemensing) te kunnen signaleren.&#xA;Projectportfolio-management wordt ondersteund het totaal aan projecten te kunnen managen om strategische organisatiedoelen te bereiken. Bijv. door de juiste projecten te selecteren, prioriteren en uit te voeren.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="a0785f63-c70e-48ea-a0de-7ff4936ba733"/>
+</archimate:ApplicationComponent>

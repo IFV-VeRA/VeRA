@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aquo-standaard"
+    id="id-03ebb850f45d307a2351f2e404e116c2">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="GUID"
+      value="7277b64a-0d66-1709-97ec-91c60d042476"/>
+  <properties
+      key="Link"
+      value="Forum:aquo-standaard/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.aquo.nl/download 2"/>
+  <properties
+      key="Organisatie"
+      value="Informatiehuis Water"/>
+  <properties
+      key="Object ID"
+      value="7277b64a-0d66-1709-97ec-91c60d042476,id-08dafa19ff89bf46c350b844b7b0d5ef"/>
+  <properties
+      key="Beschrijving"
+      value="Watermanagement informatie"/>
+</archimate:Constraint>

@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDAP"
+    id="id-3177ccffe7d363bc36de9fd4ad092e87">
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="E422bc36-80a4-3a84-4e43-4afb759d421f,id-d92c4660d3c54d1e5373d9238113e292"/>
+  <properties
+      key="Beschrijving"
+      value="Netwerkprotocol"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="GUID"
+      value="E422bc36-80a4-3a84-4e43-4afb759d421f"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc4510, https://archief13.archiefweb.eu/archives/archiefweb/20151009034634/https://www.forumstandaardisatie.nl/fileadmin/os/Consultatiedocumenten/WPA2-Enterprise - Reacties uit openbare consultatie.pdf"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:ldap/bron"/>
+</archimate:Constraint>

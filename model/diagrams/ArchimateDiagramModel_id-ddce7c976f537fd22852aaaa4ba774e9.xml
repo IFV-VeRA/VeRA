@@ -1,0 +1,151 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisplaat bedrijfsfuncties"
+    id="id-ddce7c976f537fd22852aaaa4ba774e9">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e7b95c961ec0e7011ee4c67f2e356bb5"
+      font="1|Segoe UI|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#aad5ff"
+      content="Contacten">
+    <bounds
+        x="24"
+        y="24"
+        width="181"
+        height="553"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7acf9965fb33ad56823519d56f2e7510"
+      font="1|Segoe UI|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffa275"
+      content="Besturende functies">
+    <bounds
+        x="216"
+        y="24"
+        width="493"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-13aec1ed9122851d665cde426189047f"
+      name="Primaire functies (waarde toevoegen)"
+      font="1|Segoe UI|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffa275">
+    <bounds
+        x="216"
+        y="144"
+        width="493"
+        height="301"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9afb2707a21d299a029fc53f7c61b365"
+        font="1|Segoe UI|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="36"
+          width="253"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-ff609bafcbec3967edb1de63623d03cb.xml#id-ff609bafcbec3967edb1de63623d03cb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1eb4aa16a62fea994fc8b9d779e81f9d"
+        font="1|Segoe UI|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="120"
+          width="253"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-cb8d3a7d619edf98babb7408a2394df6.xml#id-cb8d3a7d619edf98babb7408a2394df6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-40951f05265721b7897575230016300f"
+        font="1|Segoe UI|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffd5aa">
+      <bounds
+          x="12"
+          y="36"
+          width="181"
+          height="237"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-132a5d3710af89193b5b380bc2d9bed9.xml#id-132a5d3710af89193b5b380bc2d9bed9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f83393a27eef9bd248d9ffa07f804ce6"
+        font="1|Segoe UI|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="204"
+          width="252"
+          height="69"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-7d5c2cfa8f3162d3e707e4d4179cdc3f.xml#id-7d5c2cfa8f3162d3e707e4d4179cdc3f"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2cd84ff0ff674a0e3d81a7855483c55f"
+      font="1|Segoe UI|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffa275"
+      content="Secundaire functies (ondersteunen en beheren)">
+    <bounds
+        x="216"
+        y="468"
+        width="493"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cf34d524c601df87544e1b4333ca696d"
+      font="1|Segoe UI|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#d2d7d7"
+      content="Bron">
+    <bounds
+        x="720"
+        y="24"
+        width="181"
+        height="553"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online"/>
+  <properties
+      key="Object ID"
+      value="Id-dab60cae"/>
+</archimate:ArchimateDiagramModel>

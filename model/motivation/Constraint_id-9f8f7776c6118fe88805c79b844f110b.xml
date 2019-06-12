@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digikoppeling 1.0"
+    id="id-9f8f7776c6118fe88805c79b844f110b">
+  <properties
+      key="Object ID"
+      value="01298987-7b20-6e37-1a8b-df79d9ab1ca1,id-9c156f0c324b44249d36117fc412e5ec"/>
+  <properties
+      key="Link"
+      value="Forum:digikoppeling-10/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.logius.nl/diensten/digikoppeling/"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Veilige berichtuitwisseling"/>
+  <properties
+      key="Organisatie"
+      value="Logius"/>
+  <properties
+      key="GUID"
+      value="01298987-7b20-6e37-1a8b-df79d9ab1ca1"/>
+</archimate:Constraint>

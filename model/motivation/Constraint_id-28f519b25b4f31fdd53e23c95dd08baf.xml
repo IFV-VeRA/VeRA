@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMeF 2.0"
+    id="id-28f519b25b4f31fdd53e23c95dd08baf">
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Object ID"
+      value="D4f8fe2f-a20f-4230-5bf3-e7f5c0410763,id-a2b33d67d9cb997d90034d34c54552d5"/>
+  <properties
+      key="GUID"
+      value="D4f8fe2f-a20f-4230-5bf3-e7f5c0410763"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://smef.t4smm.nl/#/Standard/SMEF Standard 00001"/>
+  <properties
+      key="Beschrijving"
+      value="Elektronische facturen (binnekort vervangen door NLCIUS!)"/>
+  <properties
+      key="Link"
+      value="Forum:smef-20/bron"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+</archimate:Constraint>

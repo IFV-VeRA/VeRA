@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveranciersbeheer"
+    id="id-a263544a07a2081fece83ad29d216350"
+    documentation="Het verwerven, beheren en monitoren van leveranciers.">
+  <properties
+      key="Object ID"
+      value="cf8cf259-6c37-47fa-a1f2-f3dbb6cbb9dc"/>
+</archimate:BusinessFunction>

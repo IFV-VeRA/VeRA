@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post-verwerking"
+    id="id-de5779b3f596995e49b6ec2778802da4"
+    documentation="Functionaliteit waarmee inkomende en uitgaande informatie geautomatiseerd naar het gewenste formaat, medium en vorm gebracht kan worden.">
+  <properties
+      key="Object ID"
+      value="ff1f8440"/>
+</archimate:ApplicationFunction>

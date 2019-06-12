@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alarmeren bevolking component"
+    id="id-47da3d84d3606fc15294aa6e667a9d0a"
+    documentation="Functionaliteit waarmee de bevolking gewaarschuwd kan worden voor situaties die de volksgezondheid bedreigen. Een voorbeeld van een systeem waarmee landelijk dergelijke functionaliteit wordt geboden is NL Alert.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e3337e90-0e9b-49a0-bafc-a892bd0ae3c3"/>
+</archimate:ApplicationComponent>

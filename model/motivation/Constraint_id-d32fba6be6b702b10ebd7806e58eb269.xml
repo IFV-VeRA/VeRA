@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPF"
+    id="id-d32fba6be6b702b10ebd7806e58eb269">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc7208"/>
+  <properties
+      key="Object ID"
+      value="E9af3265-3732-3536-92ac-278205030c03,id-5314928f7a424ad6f59ad8d2116e10fe"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Link"
+      value="Forum:spf/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Bescherming tegen e-mailphishing"/>
+  <properties
+      key="GUID"
+      value="E9af3265-3732-3536-92ac-278205030c03"/>
+</archimate:Constraint>

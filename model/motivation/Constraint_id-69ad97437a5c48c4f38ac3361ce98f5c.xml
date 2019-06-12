@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OData"
+    id="id-69ad97437a5c48c4f38ac3361ce98f5c">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="0e512dd8-108b-8b51-8d72-7b867aa08259,id-95076d1041ad5471bf157e124cdbad2c"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://docs.oasis-open.org/odata/odata/v4.0/errata03/os/odata-v4.0-errata03-os.zip"/>
+  <properties
+      key="Link"
+      value="Forum:odata/bron"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+  <properties
+      key="GUID"
+      value="0e512dd8-108b-8b51-8d72-7b867aa08259"/>
+  <properties
+      key="Beschrijving"
+      value="Bevraging van REST APIs"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

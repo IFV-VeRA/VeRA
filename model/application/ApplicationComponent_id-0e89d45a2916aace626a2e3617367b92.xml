@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice logging component"
+    id="id-0e89d45a2916aace626a2e3617367b92"
+    documentation="Component waarmee (telefonische) gesprekken worden geregistreerd en opgeslagen.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="afaf23ad-f990-4038-94d9-fcb6b5faa0d3"/>
+</archimate:ApplicationComponent>

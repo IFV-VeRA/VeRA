@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IFC"
+    id="id-f59e7b85694d615a6f08a00c26576852">
+  <properties
+      key="Link"
+      value="Forum:ifc/bron"/>
+  <properties
+      key="Object ID"
+      value="A8d73528-7de7-1db1-86d4-b590a0350012,id-7ed807cf5a5aaed614d10f14750c7562"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Bestandsformaat voor bouwwerkinformatiemodellen"/>
+  <properties
+      key="GUID"
+      value="A8d73528-7de7-1db1-86d4-b590a0350012"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.buildingsmart.org/standards/standards-tools-services/"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="BuildingSMART"/>
+</archimate:Constraint>

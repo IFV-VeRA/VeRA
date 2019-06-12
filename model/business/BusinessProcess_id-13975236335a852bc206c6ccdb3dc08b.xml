@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlenen van adviezen"
+    id="id-13975236335a852bc206c6ccdb3dc08b"
+    documentation="Gericht op ...&#xA;&#xA;Aangeroepen bedrijfsfuncties:&#xA;- Risico analyse&#xA;- Advisering&#xA;- Netwerkmanagement">
+  <properties
+      key="Object ID"
+      value="2e99e865"/>
+</archimate:BusinessProcess>

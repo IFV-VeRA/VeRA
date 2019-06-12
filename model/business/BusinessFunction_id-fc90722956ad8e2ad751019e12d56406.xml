@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risicoanalyse"
+    id="id-fc90722956ad8e2ad751019e12d56406"
+    documentation="Proactief inventariseren van de risico’s in het verzorgingsgebied. Dit kan het regionale risicoprofiel zijn, of een risicoanalyse van objecten met bovengemiddeld risico (risicogevende en risico-ontvangende objecten).">
+  <properties
+      key="Object ID"
+      value="043d12f2"/>
+</archimate:BusinessFunction>

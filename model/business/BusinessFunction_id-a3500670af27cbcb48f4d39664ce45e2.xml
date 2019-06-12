@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding intake"
+    id="id-a3500670af27cbcb48f4d39664ce45e2"
+    documentation="Het aannemen, beoordelen en het verwerken van meldingen over incidenten en verzoeken tot ondersteuning (zoals medisch transport en technische ondersteuning).">
+  <properties
+      key="Object ID"
+      value="7f05bc83"/>
+</archimate:BusinessFunction>

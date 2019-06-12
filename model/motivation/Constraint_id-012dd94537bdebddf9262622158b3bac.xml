@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIKB0101"
+    id="id-012dd94537bdebddf9262622158b3bac">
+  <properties
+      key="GUID"
+      value="16c8f84a-6971-0fff-1953-c6c35dc57d20"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="16c8f84a-6971-0fff-1953-c6c35dc57d20,id-e899cbbe50d0d61df6fb1c161f7fb23f"/>
+  <properties
+      key="Beschrijving"
+      value="Bodeminformatie"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.sikb.nl/datastandaarden/richtlijnen/sikb0101"/>
+  <properties
+      key="Organisatie"
+      value="SIKB"/>
+  <properties
+      key="Link"
+      value="Forum:sikb0101/bron"/>
+</archimate:Constraint>

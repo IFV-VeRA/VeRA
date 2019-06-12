@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ades Baseline Profiles"
+    id="id-7cc53790d683054f391d52f73096abb2">
+  <properties
+      key="GUID"
+      value="95520dc1-16e5-21e2-8410-7636e6451b3f"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Organisatie"
+      value="ETSI"/>
+  <properties
+      key="Object ID"
+      value="95520dc1-16e5-21e2-8410-7636e6451b3f,id-d00a0d665dee3cd138ee44d858725023"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Geavanceerde en gekwalificeerde digitale handtekeningen."/>
+  <properties
+      key="Link"
+      value="Forum:ades-baseline-profiles/bron"/>
+</archimate:Constraint>

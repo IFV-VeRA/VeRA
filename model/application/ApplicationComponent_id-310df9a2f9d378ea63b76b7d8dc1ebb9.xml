@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo-gegevensbeheer component"
+    id="id-310df9a2f9d378ea63b76b7d8dc1ebb9"
+    documentation="Component voor het inwinnen van geometrie van locaties en het verwerken van locatiegebonden informatie.">
+  <properties
+      key="Object ID"
+      value="43e8a8ae-cdd1-4b11-b07b-5fe538c95883"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

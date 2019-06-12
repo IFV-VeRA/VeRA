@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCP/IP"
+    id="id-d96c5d9a6cb699286f13e2546c65652f">
+  <properties
+      key="GUID"
+      value="3592feb7-5985-67f9-4543-f4c1b06f04fa"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Beschrijving"
+      value="Netwerkcommunicatie"/>
+  <properties
+      key="Link"
+      value="Forum:tcpip/bron"/>
+  <properties
+      key="Object ID"
+      value="3592feb7-5985-67f9-4543-f4c1b06f04fa,id-ce90873939878e4e0951ef183fad9c57"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.ietf.org/rfc/rfc0675.txt, http://www.ietf.org/rfc/rfc791.txt"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>
