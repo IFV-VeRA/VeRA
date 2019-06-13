@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAA"
+    id="id-146ae9b402b7dbebab0b6c64865f53bb">
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/pdf/rfc6844.pdf"/>
+  <properties
+      key="Object ID"
+      value="ff65c06c-8c6d-8eff-839a-c59748e10202"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Beschrijving"
+      value="Controle over uitgifte van digitale certificaten"/>
+  <properties
+      key="Link"
+      value="Forum:caa/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="In behandeling"/>
+</archimate:Constraint>

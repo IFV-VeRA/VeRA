@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VISI"
+    id="id-875ccb0f137a4ac37ede7b6e97d3279a">
+  <properties
+      key="Organisatie"
+      value="CROW"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Bouwprocesinformatie"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="7975f998-4bde-7694-50f1-f3e34f5e5b35"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.crow.nl/vakgebieden/contracteren/visi-communicatie-in-de-bouw"/>
+  <properties
+      key="Link"
+      value="Forum:visi/bron"/>
+</archimate:Constraint>

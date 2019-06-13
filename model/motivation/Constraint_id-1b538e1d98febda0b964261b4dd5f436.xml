@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ASN.1"
+    id="id-1b538e1d98febda0b964261b4dd5f436">
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="Beschrijving"
+      value="Data structuren"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NENISOIEC-882412015-en.htm"/>
+  <properties
+      key="Object ID"
+      value="93379667-3213-311b-3c7f-e5e7d9444745"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:asn1/bron"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

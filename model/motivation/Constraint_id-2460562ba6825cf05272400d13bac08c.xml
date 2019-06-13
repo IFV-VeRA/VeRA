@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTPS en HSTS"
+    id="id-2460562ba6825cf05272400d13bac08c">
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/rfc2818/, https://tools.ietf.org/html/rfc6797"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="45e21f37-a605-829a-3796-37d210df6a30"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Link"
+      value="Forum:https-en-hsts/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Beveiligde websiteverbinding"/>
+</archimate:Constraint>

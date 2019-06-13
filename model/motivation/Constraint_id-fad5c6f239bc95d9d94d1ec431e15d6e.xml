@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principe Universeel"
+    id="id-fad5c6f239bc95d9d94d1ec431e15d6e">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.digitoegankelijk.nl/documenten/publicaties/2011/07/01/webrichtlijnen-versie-2"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Organisatie"
+      value="Logius"/>
+  <properties
+      key="Link"
+      value="Forum:principe-universeel/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Bouwkwaliteit websites"/>
+  <properties
+      key="Object ID"
+      value="517bbb53-1200-8fe1-9bfc-9a499fc816be"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwinstallatie component"
+    id="id-8416cd4cd1ec163c0c927e9146363414"
+    documentation="Component om de binnen een gebouw aanwezige installaties (regelingen), met name de elektrische en werktuigbouwkundige (E&amp;W) installaties, centraal aan te sturen (reguleren), bedienen en laten samenwerken (communiceren).">
+  <properties
+      key="Object ID"
+      value="f8c175ca-a351-44d0-ac9c-cea88a0ff121"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMTP"
+    id="id-2befb889eecb79fa12146ee0bf4c9d41">
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:smtp/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Versturen van e-mail"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc5321, https://tools.ietf.org/html/rfc2487, https://forumstandaardisatie.archiefweb.eu/#archive"/>
+  <properties
+      key="Object ID"
+      value="e9cff1c9-295a-2f5d-3330-8a0a4d5d56bb"/>
+</archimate:Constraint>

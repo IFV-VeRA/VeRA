@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitair reserveer- en uitleen component"
+    id="id-b429b43790fdbaf5fcd06df5c1d1e311"
+    documentation="Component voor het reserveren en administreren van facilitaire middelen.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="f2713a7a-5ade-4658-aacd-55a74581542e"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennis beheer component"
+    id="id-38d5e7477bc71674f9ee013b96f851ec"
+    documentation="Component voor het tonen en bewerken van informatie en kennis door medewerkers.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="9b8d1c9b-80fa-4d1d-9c6a-76f3006fb7e8"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X509"
+    id="id-51a8f2622911f9105a4f2d9cd7376a7b">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Beschrijving"
+      value="Authenticatie (PKI Certificaten)"/>
+  <properties
+      key="Link"
+      value="Forum:x509/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/rfc5280/, https://datatracker.ietf.org/doc/rfc6818/"/>
+  <properties
+      key="Object ID"
+      value="f5a89851-10c9-968b-1174-b855466fa5b3"/>
+</archimate:Constraint>

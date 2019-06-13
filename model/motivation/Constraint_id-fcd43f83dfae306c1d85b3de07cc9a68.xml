@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WPA2 Enterprise"
+    id="id-fcd43f83dfae306c1d85b3de07cc9a68">
+  <properties
+      key="Object ID"
+      value="9ae35499-1ec7-34f1-5abb-32d2bd048a53"/>
+  <properties
+      key="Organisatie"
+      value="IEEE-ISTO"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://standards.ieee.org/standard/802 11i-2004.html"/>
+  <properties
+      key="Link"
+      value="Forum:wpa2-enterprise/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Beveiligde WiFi-netwerken"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

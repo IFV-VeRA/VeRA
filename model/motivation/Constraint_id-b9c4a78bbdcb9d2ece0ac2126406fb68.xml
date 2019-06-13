@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NNTP"
+    id="id-b9c4a78bbdcb9d2ece0ac2126406fb68">
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="24911bd0-1954-1720-50e0-03748c37396d"/>
+  <properties
+      key="Beschrijving"
+      value="Ophalen van nieuwsberichten"/>
+  <properties
+      key="Link"
+      value="Forum:nntp/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc3977"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

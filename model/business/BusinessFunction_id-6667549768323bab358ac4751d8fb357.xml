@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operationeel informatiemanagement"
+    id="id-6667549768323bab358ac4751d8fb357"
+    documentation="Het verkrijgen van alle voor de bestrijding van het incident relevante informatie en die actief beschikbaar stellen. De juiste informatie moet in de juiste vorm en op het juiste moment beschikbaar zijn voor degenen die deze nodig hebben. (bron: basisvereisten crisismanagement)">
+  <properties
+      key="Object ID"
+      value="a7e3934f"/>
+</archimate:BusinessFunction>

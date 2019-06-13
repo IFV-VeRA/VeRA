@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B.1. Zorg voor systemen die in alle omstandigheden bruikbaar zijn"
+    id="id-b89258b9c95bef831d6b733abf845111"
+    documentation="De veiligheidspartners gebruiken onder normale en bijzondere omstandigheden (crisissituatie) dezelfde systemen. Op deze manier zullen gebruikers voldoende ervaring hebben in het gebruik van systemen doordat zij de systemen onder normale omstandigheden en dus vaker gebruiken.&#xA;Dit principe betekent dat dezelfde informatiesystemen zowel in koude als warme situaties gebruikt moeten worden. Informatiesystemen en bijbehorende beheerorganisaties zijn hiervoor 24x7 beschikbaar. Dit stimuleert ketenintegratie tussen bedrijfsvoering, preparatie en crisisbeheersing.">
+  <properties
+      key="Object ID"
+      value="06f11d01"/>
+</archimate:Principle>

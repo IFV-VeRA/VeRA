@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiefregistratie component"
+    id="id-50ab7cdb5e40de2365c1000e3ded2a93"
+    documentation="Component dat functioneert als een digitale archiefbewaarplaats voor blijvend en langdurig te bewaren informatieobjecten. De component ondersteunt het zorgvuldig omgaan met informatieobjecten zodat deze duurzaam toegankelijk blijven en te zijner tijd vernietigd worden als dit gewenst is. Informatieobjecten zijn zelfstandige eenheden van informatie die kunnen worden verwerkt en bewerkt (bijv. bestanden, documenten, databasegegevens en de daarbij behorende metagegevens). Het borgen van duurzame toegankelijkheid vereist soms speciale maatregelen zoals het eenmalig of vaker converteren van gegevens naar een duurza(a)m(er) opslagformaat. Het gaat hier om blijvend en langdurig te bewaren informatieobjecten. Denk aan naturalisatiebesluiten (110 jaar voor BCG-vaccinatiegegevens, 40 jaar voor de gegevens van personeel dat in aanraking is geweest met gevaarlijke stoffen, etc. ). In die langdurige periode spelen dezelfde problemen m.b.t. digitale duurzaamheid als bij blijvend te bewaren informatieobjecten.">
+  <properties
+      key="Object ID"
+      value="267f88b8-0884-4450-8841-fe365feb6d2c"/>
+  <properties
+      key="GEMMA status"/>
+  <properties
+      key="GEMMA type"/>
+</archimate:ApplicationComponent>

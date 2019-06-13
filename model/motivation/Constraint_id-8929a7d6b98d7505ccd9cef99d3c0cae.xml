@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SETU"
+    id="id-8929a7d6b98d7505ccd9cef99d3c0cae">
+  <properties
+      key="Beschrijving"
+      value="Inhuur van flexibele arbeidskrachten"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://standaard.setu.nl"/>
+  <properties
+      key="Object ID"
+      value="6abae752-0e8f-20d2-2ef0-fef935047f8e"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Link"
+      value="Forum:setu/bron"/>
+  <properties
+      key="Organisatie"
+      value="SETU"/>
+</archimate:Constraint>

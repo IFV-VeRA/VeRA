@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sociale media"
+    id="id-7972b4fdbeba7c5bde00e3ec87375556"
+    documentation="Een verzamelnaam voor alle functionaliteit waarmee het mogelijk is om informatie met elkaar te delen, te verbinden en te becommentariëren.  Het betreft niet alleen informatie in de vorm van tekst (nieuws, artikelen). Ook geluid (podcasts, muziek) en beeld (fotografie, video) worden gedeeld via social media. Deze functionaliteit kan zowel intern als extern (bijvoorbeeld met burgers tijdens een incident, ramp of crisis) worden ingezet.">
+  <properties
+      key="Object ID"
+      value="956b2902"/>
+</archimate:ApplicationFunction>

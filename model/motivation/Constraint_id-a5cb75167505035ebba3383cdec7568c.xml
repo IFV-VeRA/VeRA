@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CMIS"
+    id="id-a5cb75167505035ebba3383cdec7568c">
+  <properties
+      key="Beschrijving"
+      value="Content-uitwisseling tussen CMS-/DMS-systemen"/>
+  <properties
+      key="Link"
+      value="Forum:cmis/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://docs.oasis-open.org/cmis/CMIS/v1.0/os/cmis-spec-v1.0.html, http://docs.oasis-open.org/cmis/CMIS/v1.1/cs01/CMIS-v1.1-cs01.html"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="Cf981bae-a2e6-2ab5-5387-a114015e3dbf"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+</archimate:Constraint>

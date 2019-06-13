@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="S/MIME"
+    id="id-04cc78119bae17278920f82f57ffeeac">
+  <properties
+      key="Beschrijving"
+      value="E-mail beveiliging"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc5751"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:smime/bron"/>
+  <properties
+      key="Object ID"
+      value="227e796b-a7b0-117c-5938-659c9b5e3ff3"/>
+</archimate:Constraint>

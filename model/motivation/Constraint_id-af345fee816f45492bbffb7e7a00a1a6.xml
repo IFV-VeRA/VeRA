@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webrichtlijnen"
+    id="id-af345fee816f45492bbffb7e7a00a1a6">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.digitoegankelijk.nl/documenten/publicaties/2011/07/01/webrichtlijnen-versie-2"/>
+  <properties
+      key="Link"
+      value="Forum:webrichtlijnen/bron"/>
+  <properties
+      key="Organisatie"
+      value="Logius"/>
+  <properties
+      key="Object ID"
+      value="60f6632f-163d-3e88-0bb2-82a67d2d1a12"/>
+  <properties
+      key="Beschrijving"
+      value="Vervangen door DigiToegankelijk (EN 301 549 met daarin opgenomen WCAG 2.0)"/>
+  <properties
+      key="Object ID"
+      value="60f6632f-163d-3e88-0bb2-82a67d2d1a12,id-webrichtlijnen"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

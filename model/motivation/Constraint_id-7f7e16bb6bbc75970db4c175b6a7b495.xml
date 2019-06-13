@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STABU2"
+    id="id-7f7e16bb6bbc75970db4c175b6a7b495">
+  <properties
+      key="Lijst status"
+      value="In behandeling"/>
+  <properties
+      key="Object ID"
+      value="e388d6f0-5bb5-1256-5591-e885c921622d"/>
+  <properties
+      key="Beschrijving"
+      value="Besteksystematiek voor Burger en Utiliteitsbouw (B&amp;U)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.stabu.org/downloads/#1529919915792-557a3ac4-4b1d"/>
+  <properties
+      key="Organisatie"
+      value="Stichting STABU"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:stabu2/bron"/>
+</archimate:Constraint>

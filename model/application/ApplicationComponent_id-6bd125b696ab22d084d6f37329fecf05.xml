@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rittenregistratie en verwerking component"
+    id="id-6bd125b696ab22d084d6f37329fecf05"
+    documentation="Een component voor registratie en verwerking van (patient)gegevens met betrekking tot ritten.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="53de74d7-f8f8-495f-a54c-baab3e3be60d"/>
+</archimate:ApplicationComponent>

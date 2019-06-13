@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EML_NL"
+    id="id-a56fe9d66086699bb53e4634c2b959c8">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.kiesraad.nl/verkiezingen/inhoud/osv-en-eml/eml-standaard"/>
+  <properties
+      key="Link"
+      value="Forum:emlnl/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Verkiezingsgegevens"/>
+  <properties
+      key="Organisatie"
+      value="Kiesraad"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="4751ded4-487f-1734-a3d9-4eab2e3a880c"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

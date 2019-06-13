@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging en privacycomponent"
+    id="id-b1d6ed12044793fcf4faec2ad42f3e8f"
+    documentation="Component voor het vastleggen, implementeren en beheren van informatiebeveiligings- en privacymaatregelen. Bijv. voor het bewaken en uitvoeren van een informatiebeveiligingsplan aan de hand van een &quot;Control Framework&quot; met de complete set van benodigde maatregelen, processen en procedures incl. acties voor de betreffende medewerkers.">
+  <properties
+      key="Object ID"
+      value="54371e08-c31f-456e-b3db-7bd71bcaab7e"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

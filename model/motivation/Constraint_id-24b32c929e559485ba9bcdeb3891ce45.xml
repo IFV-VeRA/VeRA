@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAI-PMH"
+    id="id-24b32c929e559485ba9bcdeb3891ce45">
+  <properties
+      key="Beschrijving"
+      value="Vindbaarheid van leermaterialen"/>
+  <properties
+      key="Link"
+      value="Forum:oai-pmh/bron"/>
+  <properties
+      key="Organisatie"
+      value="Open Archives Initiative"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="2e1c97eb-7b58-8628-1369-8c570ffc53bb"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.openarchives.org/OAI/openarchivesprotocol.html"/>
+</archimate:Constraint>

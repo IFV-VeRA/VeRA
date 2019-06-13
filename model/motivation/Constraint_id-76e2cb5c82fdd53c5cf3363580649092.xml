@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SHACL"
+    id="id-76e2cb5c82fdd53c5cf3363580649092">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/shacl/"/>
+  <properties
+      key="Beschrijving"
+      value="Kwaliteitscriteria op linked data"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Link"
+      value="Forum:shacl/bron"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="13de6d98-212b-7a4f-9fbb-f19866c23b68"/>
+</archimate:Constraint>

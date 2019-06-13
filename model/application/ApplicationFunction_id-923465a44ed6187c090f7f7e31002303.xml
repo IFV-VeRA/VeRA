@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice logging"
+    id="id-923465a44ed6187c090f7f7e31002303"
+    documentation="Functionaliteit waarmee (telefonische) gesprekken worden geregistreerd en opgeslagen.">
+  <properties
+      key="Object ID"
+      value="5dbf6770"/>
+</archimate:ApplicationFunction>

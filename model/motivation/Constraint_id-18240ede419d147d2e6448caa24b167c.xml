@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DMARC"
+    id="id-18240ede419d147d2e6448caa24b167c">
+  <properties
+      key="Object ID"
+      value="b175fab1-6c05-8d80-7dcc-92374ead96ba"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Bescherming tegen e-mailphishing"/>
+  <properties
+      key="Link"
+      value="Forum:dmarc/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/rfc7489/"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Constraint>

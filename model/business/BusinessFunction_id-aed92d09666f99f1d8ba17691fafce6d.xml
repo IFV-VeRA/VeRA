@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwen- en ruimtebeveiliging"
+    id="id-aed92d09666f99f1d8ba17691fafce6d"
+    documentation="Het ervoor zorgdragen dat alleen geautoriseerde personen toegang hebben tot ruimten.">
+  <properties
+      key="Object ID"
+      value="751f973e-811f-4843-a686-e78cb4aa25c9"/>
+</archimate:BusinessFunction>

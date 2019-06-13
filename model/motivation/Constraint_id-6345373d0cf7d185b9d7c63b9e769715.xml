@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF"
+    id="id-6345373d0cf7d185b9d7c63b9e769715">
+  <properties
+      key="Organisatie"
+      value="KING"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="23666ef6-8b5c-6d10-9686-dcfa46e31305"/>
+  <properties
+      key="Link"
+      value="Forum:stuf/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.softwarecatalogus.nl/standaard/stuf-bg"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisseling administratieve overheidsgegevens"/>
+</archimate:Constraint>

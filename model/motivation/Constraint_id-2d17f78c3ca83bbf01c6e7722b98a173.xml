@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stosag"
+    id="id-2d17f78c3ca83bbf01c6e7722b98a173">
+  <properties
+      key="Beschrijving"
+      value="Afvalinzameling- en verwerking"/>
+  <properties
+      key="Link"
+      value="Forum:stosag/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.stosag.nl/nl/downloads"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="62b2ad07-3b43-165b-a30a-295599d1552c"/>
+  <properties
+      key="Organisatie"
+      value="STOSAG / NVRD"/>
+</archimate:Constraint>

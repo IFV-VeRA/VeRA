@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vakbekwaamheid registratie component"
+    id="id-977b1ea18a3a771f46f318f7dd843355"
+    documentation="Component voor het registereren van de vakbekwaamheid (vakbekwaam worden en blijven) van (operationele) medewerkers">
+  <properties
+      key="Object ID"
+      value="bd15f718-f985-4850-94bf-32eeaf765519"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

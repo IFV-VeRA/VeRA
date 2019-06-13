@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TLS"
+    id="id-9aefabbedbdc97eb9f9d3c5644ed45aa">
+  <properties
+      key="Beschrijving"
+      value="Beveiligde internetverbinding"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/"/>
+  <properties
+      key="Object ID"
+      value="9c79b41f-1903-6e88-6304-5bbb5f4582ba"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Link"
+      value="Forum:tls/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+</archimate:Constraint>

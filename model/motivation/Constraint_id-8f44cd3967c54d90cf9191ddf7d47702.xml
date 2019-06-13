@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPP"
+    id="id-8f44cd3967c54d90cf9191ddf7d47702">
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:ipp/bron"/>
+  <properties
+      key="Object ID"
+      value="443fc78e-a76a-4d6a-6308-c4c81c23522c"/>
+  <properties
+      key="Organisatie"
+      value="IEEE-ISTO"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Printen via een netwerk"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc2910, http://tools.ietf.org/html/rfc2911"/>
+</archimate:Constraint>

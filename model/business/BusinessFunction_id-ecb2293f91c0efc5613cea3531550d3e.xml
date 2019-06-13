@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezwaar- en beroepafhandeling"
+    id="id-ecb2293f91c0efc5613cea3531550d3e"
+    documentation="De behandeling van bezwaren en beroepen van burgers en/of bedrijven">
+  <properties
+      key="Object ID"
+      value="cc2e9263-9220-4170-922c-a376fbd30226"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning en controlcomponent"
+    id="id-e7052d6949a58a8311979733ef63a7af"
+    documentation="Component om om planning- en controlcycli beheersbaar en effectief te ondersteunen en om informatie flexibel te kunnen publiceren.">
+  <properties
+      key="Object ID"
+      value="b5a7e5aa-4ffc-44ad-9c84-2c6d90c50879"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

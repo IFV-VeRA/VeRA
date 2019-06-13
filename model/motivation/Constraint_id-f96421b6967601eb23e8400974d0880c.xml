@@ -1,0 +1,23 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-ISO 4217"
+    id="id-f96421b6967601eb23e8400974d0880c">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NENISO-42172015-en.htm, http://www.iso.org/iso/home/standards/currency codes.htm"/>
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="Object ID"
+      value="e03e5563-2a5b-53ff-317a-df3e42f516f7"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:nen-iso-4217/bron"/>
+</archimate:Constraint>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="URL"
+    id="id-9fa3b30370ed5091927f1492850ba057">
+  <properties
+      key="Link"
+      value="Forum:url/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.ietf.org/rfc/rfc2718.txt"/>
+  <properties
+      key="Beschrijving"
+      value="Standaard voor de identificatie van bronnen van informatie op het Internet"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Object ID"
+      value="f8fa9850-442b-0c4c-3c16-573ef30784c8"/>
+</archimate:Constraint>

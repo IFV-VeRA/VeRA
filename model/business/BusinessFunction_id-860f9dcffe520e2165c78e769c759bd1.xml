@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerbeoordeling"
+    id="id-860f9dcffe520e2165c78e769c759bd1"
+    documentation="Het beoordelen van de prestaties van medewerkers en het nemen van passende maatregelen. Maatregelen kunnen bijv. zijn belonen, promoveren, ontslaan of demoveren.">
+  <properties
+      key="Object ID"
+      value="398a434e-db30-45f1-98a0-b43ecfeeabe1"/>
+</archimate:BusinessFunction>
