@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sociale-media-component"
+    id="id-60ea8f37560e27863cd437f84da83670"
+    documentation="Component voor het ontvangen en versturen van berichten binnen sociale media waarbij met persoonlijke voorkeuren rekening wordt gehouden.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="8c9cc072-c0e4-4304-979a-8201497635d6"/>
+</archimate:ApplicationComponent>

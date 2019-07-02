@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NTP"
+    id="id-917fd674d869b783bb5d6bf065fdc6b5">
+  <properties
+      key="Object ID"
+      value="d3f8e769-709e-928a-66d9-372973545db2"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:ntp/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc5906"/>
+  <properties
+      key="Beschrijving"
+      value="Synchroniseren van tijd"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

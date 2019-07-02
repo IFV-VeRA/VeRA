@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EI-standaarden"
+    id="id-9d4d991b871b8f7bd66016f4854b6cf6">
+  <properties
+      key="Beschrijving"
+      value="Declaratieverkeer zorgverzekeraars en zorgverleners"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://ei.vektis.nl/WespStandaardenOverzicht.aspx"/>
+  <properties
+      key="Object ID"
+      value="7d80c43f-33d2-2361-2b03-3a52800994c3"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:ei-standaarden/bron"/>
+  <properties
+      key="Organisatie"
+      value="Vektis"/>
+</archimate:Constraint>

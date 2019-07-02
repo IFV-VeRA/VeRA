@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieel-beheer"
+    id="id-0658f11a67ee5699e236ba05ef2e1eb1"
+    documentation="Functionaliteit voor het beheren van het materieel (voertuigen, hulpmiddelen, etc.) dat wordt ingezet bij de hulpverlening.">
+  <properties
+      key="Object ID"
+      value="f37e4b4d"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDFa"
+    id="id-390f5ff42d2318a7fa685799a400318f">
+  <properties
+      key="Beschrijving"
+      value="Indexeren en verzamelen van geautomatiseerde content"/>
+  <properties
+      key="Object ID"
+      value="0a805c8f-62b1-2699-2585-9706c81b7aa6"/>
+  <properties
+      key="Link"
+      value="Forum:rdfa/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/rdfa-in-html/"/>
+</archimate:Constraint>

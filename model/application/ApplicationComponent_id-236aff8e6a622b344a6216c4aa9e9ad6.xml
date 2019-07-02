@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ketenpartner-portaal component"
+    id="id-236aff8e6a622b344a6216c4aa9e9ad6"
+    documentation="Component voor het toegang geven van ketenpartners tot voor hen bestemde diensten (risicobeheersing).">
+  <properties
+      key="Object ID"
+      value="27a32c0c-883e-46bb-90df-8d8011b1690c"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+</archimate:ApplicationComponent>

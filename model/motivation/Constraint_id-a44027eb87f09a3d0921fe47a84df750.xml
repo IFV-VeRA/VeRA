@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODF"
+    id="id-a44027eb87f09a3d0921fe47a84df750">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.oasis-open.org/committees/tc home.php?wg abbrev=office"/>
+  <properties
+      key="Object ID"
+      value="d5c1298d-a2d4-11fd-7a34-91088cbe1d11"/>
+  <properties
+      key="Beschrijving"
+      value="Formaat documentbewerking"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:odf-/bron"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+</archimate:Constraint>

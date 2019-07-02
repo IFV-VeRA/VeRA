@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiten van informatieobjecten"
+    id="id-36cf864efddb888230e0070e22445cbb"
+    documentation="Het ontsluiten van in opslag zijnde informatieobjecten in de vorm van reproducties voor verschillende vormen van gebruik. Opgeslagen objecten moeten vindbaar, beschikbaar en toegankelijk zijn voor gebruik. Gebruik kan weergave of reproductie van informatieobjecten betreffen, door ambtenaren of burgers. Ontsluiten is ook nodig voor beheerdoelen zoals het overdragen van objecten voor opslag in een andere voorziening. Gezien vanuit gebruikers zal de functie voor het ontsluiten van informatieobjecten vaak door verschillende applicatiecomponenten worden ingevuld. Zoekvraag en opvraagvraag zullen vaak via een ander systeem worden gedaan dat vervolgens communiceert met de component die zorgt voor ontsluiting van informatieobjecten waarbij rekening wordt gehouden met geldende authenticatie- en autorisatieeisen.">
+  <properties
+      key="Object ID"
+      value="465fb74c-065f-45df-8bcf-605a0d75d580"/>
+</archimate:BusinessFunction>

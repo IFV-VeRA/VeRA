@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF"
+    id="id-6427cbd6aefb016a6868b1386e449f29">
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:rdf/bron"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/standards/techs/rdf#w3c all"/>
+  <properties
+      key="Beschrijving"
+      value="Publicatie gestructureerde gegevens"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Object ID"
+      value="792ee9dc-713e-601e-8148-1748389a4750"/>
+</archimate:Constraint>

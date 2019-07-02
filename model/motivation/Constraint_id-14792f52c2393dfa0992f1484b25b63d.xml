@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTML"
+    id="id-14792f52c2393dfa0992f1484b25b63d">
+  <properties
+      key="Beschrijving"
+      value="Opmaak van webpagina's."/>
+  <properties
+      key="Object ID"
+      value="d8ca0509-a39a-26d0-a31d-616e50cd22f5"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/html5/"/>
+  <properties
+      key="Link"
+      value="Forum:html/bron"/>
+</archimate:Constraint>

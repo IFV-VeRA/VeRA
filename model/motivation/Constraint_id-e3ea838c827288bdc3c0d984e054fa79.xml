@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STARTTLS en DANE"
+    id="id-e3ea838c827288bdc3c0d984e054fa79">
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="3f7aa81e-78d8-239f-4aeb-cefd65089967"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc3207, https://tools.ietf.org/html/rfc7672"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Link"
+      value="Forum:starttls-en-dane/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Beveiligde verbinding tussen mailservers"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

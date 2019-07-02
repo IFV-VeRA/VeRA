@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administratie opleidingen en oefeningen"
+    id="id-aa0714e46c9a4888ec401ee3db1e3d66"
+    documentation="Functionaliteit om de opleidingen en oefeningen te administreren. Deze administratie betreft zowel de inhoud (leerdoelen, etc.) als de logistiek (planning, inschrijving, etc.) van opleidingen en oefeningen">
+  <properties
+      key="Object ID"
+      value="dcf8781a"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systeembeheer"
+    id="id-c4fdb194d408a446bf5bf0b98e4b969f"
+    documentation="Het uitvoeren van beheertaken m.b.t. IT-infrastructuur, systeemprogrammatuur en applicaties. Biijv. het installeren van hardware, systeemprogrammatuur en applicaties en het verzorgen van back-up's en restores.">
+  <properties
+      key="Object ID"
+      value="eda2c234-7537-48d2-b299-809d50ed063f"/>
+</archimate:BusinessFunction>

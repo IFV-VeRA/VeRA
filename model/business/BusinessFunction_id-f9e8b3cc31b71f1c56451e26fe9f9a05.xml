@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administratieve ondersteuning"
+    id="id-f9e8b3cc31b71f1c56451e26fe9f9a05"
+    documentation="Het bieden van ondersteuning bij administratieve taken.">
+  <properties
+      key="Object ID"
+      value="3cd2c294-55ac-46c7-aa2f-7235f11cfaff"/>
+</archimate:BusinessFunction>

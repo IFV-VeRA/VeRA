@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RTP"
+    id="id-dc7b812f87898718da29c4e36e9d016f">
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc3550"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Beschrijving"
+      value="Media streaming"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="b58ffaa7-033f-2e09-1c2b-a5d0d84d57fa"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:rtp/bron"/>
+</archimate:Constraint>

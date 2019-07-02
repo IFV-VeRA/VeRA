@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatie beheer component (CRM)"
+    id="id-7b62c27f29212d4bbfb8c35866ec91fb"
+    documentation="Component voor het onderhouden van relaties met klanten of organisaties.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="aa516be4-6754-49d8-96ef-7fadf99acebb"/>
+</archimate:ApplicationComponent>

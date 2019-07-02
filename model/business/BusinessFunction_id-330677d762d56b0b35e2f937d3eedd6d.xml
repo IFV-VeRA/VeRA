@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteurenbeheer"
+    id="id-330677d762d56b0b35e2f937d3eedd6d"
+    documentation="Het verwerken van inkomende facturen.">
+  <properties
+      key="Object ID"
+      value="16fa2831-b726-41f4-a9b7-e013e675fb0c"/>
+</archimate:BusinessFunction>

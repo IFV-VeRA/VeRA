@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OWMS"
+    id="id-8e8266ecf119b0dca475d4143b045908">
+  <properties
+      key="Externe verwijzing"
+      value="Http://standaarden.overheid.nl/owms/4.0/doc/NormatievespecificatieOWMS4.0v1.0.1.pdf"/>
+  <properties
+      key="Link"
+      value="Forum:owms/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Metadata overheidsinformatie"/>
+  <properties
+      key="Organisatie"
+      value="Werkmaatschappij-KOOP"/>
+  <properties
+      key="Object ID"
+      value="b512bcad-8928-6512-974b-925fb88a95af"/>
+</archimate:Constraint>

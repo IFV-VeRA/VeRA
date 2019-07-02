@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheids management component"
+    id="id-2c5c39527bd93651fbe907c90c68b7f4"
+    documentation="Component voor het in beeld brengen van potentiele veiligheidsrisico's ten aanzien van personen.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="5fe541d4-590b-4451-8179-4e34ade931a5"/>
+</archimate:ApplicationComponent>

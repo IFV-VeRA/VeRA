@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelsmanagement"
+    id="id-eec28fbb9ae683a5496f985a4643c7c7"
+    documentation="Beheer van alle gegevens, informatie en kennis over medewerkers, inclusief werving &amp; selectie van nieuwe medewerkers, tijdregistratie, ziekte- en verlofadministratie, afvloeiings- en ontslag gerelateerde activiteiten en diverse andere activiteiten zoals: training, carrièreplanning, beheer functiegebouw, formatieplanning salariëring, e.d.">
+  <properties
+      key="Object ID"
+      value="d60a5270"/>
+</archimate:BusinessFunction>

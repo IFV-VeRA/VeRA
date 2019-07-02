@@ -1,0 +1,23 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ECLI"
+    id="id-086916937f01a30fe197107dff4d687f">
+  <properties
+      key="Link"
+      value="Forum:ecli/bron"/>
+  <properties
+      key="Object ID"
+      value="cae66227-a3c7-44b3-8bde-5c7a03f9685a"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="Juriconnect"/>
+  <properties
+      key="Beschrijving"
+      value="Verwijzing naar rechterlijke uitspraken in Europa"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie verrichtingen"
+    id="id-73343ebd9354192770150c775c804ece"
+    documentation="Functionaliteit voor het vastleggen van daadwerkelijk gerealiseerde verrichtingen zoals bijvoorbeeld een uitruk.">
+  <properties
+      key="Object ID"
+      value="727c800e"/>
+</archimate:ApplicationFunction>

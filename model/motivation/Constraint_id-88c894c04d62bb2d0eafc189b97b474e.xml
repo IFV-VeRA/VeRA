@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DKIM"
+    id="id-88c894c04d62bb2d0eafc189b97b474e">
+  <properties
+      key="Object ID"
+      value="72e533b2-9c4b-3b3e-7002-f640f8281134"/>
+  <properties
+      key="Beschrijving"
+      value="Bescherming tegen e-mailphishing"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:dkim/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc6376"/>
+</archimate:Constraint>

@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STIX en TAXII"
+    id="id-ae3903dc2f10333aa1acd5d38190df09">
+  <properties
+      key="Link"
+      value="Forum:stix-en-taxii/bron"/>
+  <properties
+      key="Object ID"
+      value="1ecb55ba-9d3b-2f58-76dd-0af229ac3408"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://docs.oasis-open.org/cti/stix/v1.2.1/, http://docs.oasis-open.org/cti/taxii/v1.1.1/"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Uitwisseling van cyber dreigingsinformatie"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

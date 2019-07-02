@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-ISO/IEC 27002"
+    id="id-682773421b3e449191cf2f1f9e8b58c6">
+  <properties
+      key="Beschrijving"
+      value="Informatiebeveiliging richtlijn"/>
+  <properties
+      key="Object ID"
+      value="a3964f58-6ee3-2e6f-1673-9a75f3416d20"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NENENISOIEC-270022017-en.htm, https://lees-rijk.nl/"/>
+  <properties
+      key="Link"
+      value="Forum:nen-isoiec-27002/bron"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

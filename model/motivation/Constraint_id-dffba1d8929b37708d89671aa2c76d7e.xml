@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EPUB"
+    id="id-dffba1d8929b37708d89671aa2c76d7e">
+  <properties
+      key="Object ID"
+      value="bcf51943-600e-a5f4-715e-972488107136"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.idpf.org/epub/301/spec/epub-overview.html"/>
+  <properties
+      key="Beschrijving"
+      value="E-bookformaat"/>
+  <properties
+      key="Organisatie"
+      value="IDPF"/>
+  <properties
+      key="Link"
+      value="Forum:epub/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

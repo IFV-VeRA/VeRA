@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="URI en IRI"
+    id="id-1962100d9d79e7900b460f76f166819f">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:uri-en-iri/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Standaard voor de identificatie van online bronnen van informatie"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.ietf.org/rfc/rfc3986.txt, https://tools.ietf.org/html/rfc3987"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Object ID"
+      value="07a6469b-44cd-3a7a-2448-1be6e7346392"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

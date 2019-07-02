@@ -1,0 +1,23 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo-Standaarden"
+    id="id-012a91c082e4b110c60a31bd129f661e">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="bea93ed4-0d72-2978-8324-12219a4b5157"/>
+  <properties
+      key="Link"
+      value="Forum:geo-standaarden/bron"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Geografische informatie"/>
+  <properties
+      key="Organisatie"
+      value="Geonovum"/>
+</archimate:Constraint>

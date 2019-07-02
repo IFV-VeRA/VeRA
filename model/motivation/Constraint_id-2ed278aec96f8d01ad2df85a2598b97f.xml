@@ -1,0 +1,23 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPM"
+    id="id-2ed278aec96f8d01ad2df85a2598b97f">
+  <properties
+      key="Beschrijving"
+      value="Publiceren van vergunningen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://koop.overheid.nl/sites/koop.wmrijk.nl/files/attachments/page/ipm-vergunningen-4-0-1--review-aug-2009-.pdf"/>
+  <properties
+      key="Object ID"
+      value="d2720839-314a-89aa-2a3d-f86f62e402b0"/>
+  <properties
+      key="Lijst status"
+      value="Archief"/>
+  <properties
+      key="Link"
+      value="Forum:ipm/bron"/>
+</archimate:Constraint>

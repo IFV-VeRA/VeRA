@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genericode"
+    id="id-ec8b098d89a0921d71e04a32d3d4b403">
+  <properties
+      key="Externe verwijzing"
+      value="Http://docs.oasis-open.org/codelist/cs-genericode-1.0/doc/oasis-code-list-representation-genericode.pdf"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+  <properties
+      key="Link"
+      value="Forum:genericode/bron"/>
+  <properties
+      key="Object ID"
+      value="d47b3839-487a-489b-3d17-a5bed9a18b60"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Beschrijving"
+      value="Definiëren van Codelijsten"/>
+</archimate:Constraint>

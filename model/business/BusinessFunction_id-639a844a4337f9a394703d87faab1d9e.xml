@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatie"
+    id="id-639a844a4337f9a394703d87faab1d9e"
+    documentation="Beheer van alle organisatorische gegevens, waar onder beschrijving van de bedrijfsfuncties, organisatiestructuur (organogram), functionele scope van de sectoren en afdelingen, TVB schema's (Taken, Verantwoordelijkheden en Bevoegdheden), e.d.">
+  <properties
+      key="Object ID"
+      value="849d83a9"/>
+</archimate:BusinessFunction>

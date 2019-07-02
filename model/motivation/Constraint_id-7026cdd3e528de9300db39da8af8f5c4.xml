@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMAP"
+    id="id-7026cdd3e528de9300db39da8af8f5c4">
+  <properties
+      key="Beschrijving"
+      value="E-mail synchronisatie"/>
+  <properties
+      key="Object ID"
+      value="d7abcdd7-0556-6847-157a-99fba9df4022"/>
+  <properties
+      key="Link"
+      value="Forum:imap/bron"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://tools.ietf.org/html/rfc3501, https://tools.ietf.org/html/rfc8314"/>
+</archimate:Constraint>

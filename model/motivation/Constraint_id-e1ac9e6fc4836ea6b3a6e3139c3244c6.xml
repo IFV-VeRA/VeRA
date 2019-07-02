@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BWB"
+    id="id-e1ac9e6fc4836ea6b3a6e3139c3244c6">
+  <properties
+      key="Organisatie"
+      value="Werkmaatschappij-KOOP"/>
+  <properties
+      key="Object ID"
+      value="e25598b4-2a1b-8c2a-088b-bae21d301366"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.forumstandaardisatie.nl/sites/bfs/files/atoms/files/Juriconnect Standaard BWB 1 3 1 1.pdf"/>
+  <properties
+      key="Beschrijving"
+      value="Identificatie van en verwijzing naar wet- en regelgeving"/>
+  <properties
+      key="Link"
+      value="Forum:bwb/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kantoorautomatisering component"
+    id="id-5d6c45b146e4f9e5c0fd571aee6569d2"
+    documentation="Component voor het ondersteunen van kantoorwerkzaamheden zoals tekstverwerking, persoonlijke email en agenda. De component wordt vaak geleverd in de vorm van een suite met programma's met een bepaalde functie (bijv. Microsoft Office of Open Office).">
+  <properties
+      key="Object ID"
+      value="fa0127a9-b836-4664-8e58-0af1e5496a2d"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

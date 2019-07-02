@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeels informatie component"
+    id="id-39f5ae663794aa891b8e58ecd90fec93"
+    documentation="Component voor het administreren en managen van medewerkers. Bijv. via het ondersteuning diverse HR-processen zoals werving en aanstelling, beoordelen en belonen, bijhouden van verzuim en verlof en overzichten met managementinformatie. Ook kunnen personeelsleden steeds vaker online inzicht krijgen in persoonsgebonden gegevens.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e6c730eb-778e-4cb9-9ba7-8e752cc0e2eb"/>
+</archimate:ApplicationComponent>

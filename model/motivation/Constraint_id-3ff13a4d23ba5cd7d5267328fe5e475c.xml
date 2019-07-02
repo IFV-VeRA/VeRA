@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenAPI Specification"
+    id="id-3ff13a4d23ba5cd7d5267328fe5e475c">
+  <properties
+      key="Externe verwijzing"
+      value="Https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md"/>
+  <properties
+      key="Link"
+      value="Forum:openapi-specification/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Beschrijven van REST APIs"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="c9cbc05c-431f-1102-0f14-1ed114503d3a"/>
+  <properties
+      key="Organisatie"
+      value="OpenAPI Initiative"/>
+</archimate:Constraint>
