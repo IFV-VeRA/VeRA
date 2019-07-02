@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviesaanvraag"
+    id="id-c8e65861f733c6b4e5b3d0ac2fbcecfb"
+    documentation="Het ontvangen van een aanvraag voor advies in het kader van Wabo (brandveiligheid), evenement, crisisplan.">
+  <properties
+      key="Object ID"
+      value="056570aa"/>
+</archimate:BusinessFunction>

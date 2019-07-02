@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop component"
+    id="id-e5064df193fcf1c388fb91d2798a0ed2"
+    documentation="Component voor ondersteuning van het inkopen van producten.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="68c63ad9-5fcc-4f02-86af-263a3ac1ab32"/>
+</archimate:ApplicationComponent>

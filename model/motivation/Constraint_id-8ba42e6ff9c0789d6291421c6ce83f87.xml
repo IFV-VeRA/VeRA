@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitoegankelijk (EN 301 549 met WCAG 2.1)"
+    id="id-8ba42e6ff9c0789d6291421c6ce83f87">
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Link"
+      value="Forum:digitoegankelijk-en-301-549-met-wcag-21/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Toegankelijkheid websites"/>
+  <properties
+      key="Object ID"
+      value="107fe356-4b7a-07ee-a699-f88a8d3f332f"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="ETSI"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.etsi.org/deliver/etsi en/301500 301599/301549/02.01.02 60/en 301549v020102p.pdf, http://www.w3.org/TR/WCAG21/"/>
+</archimate:Constraint>

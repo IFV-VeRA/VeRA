@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCalendar"
+    id="id-82210d5de3882bad49a1a20c7a515ce7">
+  <properties
+      key="Externe verwijzing"
+      value="Http://tools.ietf.org/html/rfc2445"/>
+  <properties
+      key="Link"
+      value="Forum:icalendar/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Kalendergegevens"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="799e362d-4650-6587-150e-abbb4d9583f7"/>
+</archimate:Constraint>

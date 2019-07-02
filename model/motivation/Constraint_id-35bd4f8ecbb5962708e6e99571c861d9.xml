@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCAT"
+    id="id-35bd4f8ecbb5962708e6e99571c861d9">
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Object ID"
+      value="47b693c3-417b-3987-1013-0455e82b058c"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/vocab-dcat/"/>
+  <properties
+      key="Beschrijving"
+      value="Beschrijven van datasets"/>
+  <properties
+      key="Link"
+      value="Forum:dcat/bron"/>
+</archimate:Constraint>

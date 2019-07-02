@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UDDI"
+    id="id-2c4a7ce5f3fbde785435875daa9a38de">
+  <properties
+      key="Beschrijving"
+      value="Register voor webservices"/>
+  <properties
+      key="Organisatie"
+      value="OASIS"/>
+  <properties
+      key="Link"
+      value="Forum:uddi/bron"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="d159f4d1-352e-3455-5ef1-815e129327e0"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.oasis-open.org/committees/tc home.php?wg abbrev=uddi-spec"/>
+</archimate:Constraint>

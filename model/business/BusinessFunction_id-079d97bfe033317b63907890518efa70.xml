@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijdregistratie"
+    id="id-079d97bfe033317b63907890518efa70"
+    documentation="Het registreren van de hoeveelheid en het doel waar tijd van medewerkers aan is besteed. Doel kan bijv. zijn om de fysieke aanwezigheid van medewerkers of de inzet op verschillende projecten te meten.">
+  <properties
+      key="Object ID"
+      value="5ad8bb19-4603-40e3-b605-bf8de63dfc1f"/>
+</archimate:BusinessFunction>

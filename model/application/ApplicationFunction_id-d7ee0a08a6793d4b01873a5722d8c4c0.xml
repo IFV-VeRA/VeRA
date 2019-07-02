@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alarmeren bevolking"
+    id="id-d7ee0a08a6793d4b01873a5722d8c4c0"
+    documentation="Functionaliteit waarmee de bevolking gewaarschuwd kan worden voor situaties die de volksgezondheid bedreigen. Een voorbeeld van een systeem waarmee landelijk dergelijke functionaliteit wordt geboden is NL Alert.">
+  <properties
+      key="Object ID"
+      value="4aa2a032"/>
+</archimate:ApplicationFunction>

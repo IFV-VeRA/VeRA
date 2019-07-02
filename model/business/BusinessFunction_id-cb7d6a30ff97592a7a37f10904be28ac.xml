@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitenbeheer"
+    id="id-cb7d6a30ff97592a7a37f10904be28ac"
+    documentation="Het beheren en beschikbaar stellen van gegevens van gebruikers van IT-voorzieningen en hun autorisaties. Autorisaties kunnen via verschillende mechanismen worden toegekend. Bijv. op basis van afdeling, functie, rol, etc.">
+  <properties
+      key="Object ID"
+      value="7093cff9-9b76-4f2a-b986-2386053b60b4"/>
+</archimate:BusinessFunction>

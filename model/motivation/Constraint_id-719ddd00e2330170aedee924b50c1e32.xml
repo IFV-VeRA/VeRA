@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Portfolio NL"
+    id="id-719ddd00e2330170aedee924b50c1e32">
+  <properties
+      key="Link"
+      value="Forum:e-portfolio-nl/bron"/>
+  <properties
+      key="Object ID"
+      value="9c1a5cd4-49f7-375a-7eeb-c199e1b41b8c"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NEN-20352014-nl.htm"/>
+  <properties
+      key="Beschrijving"
+      value="Onderwijs en Ontwikkeling"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+</archimate:Constraint>

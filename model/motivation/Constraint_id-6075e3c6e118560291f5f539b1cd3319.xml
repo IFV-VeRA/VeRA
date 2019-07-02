@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-ISO/IEC 27001"
+    id="id-6075e3c6e118560291f5f539b1cd3319">
+  <properties
+      key="Externe verwijzing"
+      value="Https://www.nen.nl/NEN-Shop/Norm/NENENISOIEC-270012017-en.htm, https://lees-rijk.nl"/>
+  <properties
+      key="Object ID"
+      value="72809055-804a-2853-9673-8dbd2b8b4064"/>
+  <properties
+      key="Organisatie"
+      value="NEN"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Beschrijving"
+      value="Informatiebeveiliging richtlijn"/>
+  <properties
+      key="Link"
+      value="Forum:nen-isoiec-27001/bron"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP.1 Gegevens moeten worden uitgewisseld, tenzij…"
+    id="id-a5caca4e2eea4e0a074c52ebb7e13569"
+    documentation="Gegevens worden uitgewisseld tussen veiligheidspartners, ook internationaal conform vigerende wetgeving.&#xA;Vrije uitwisselbaarheid van gegevens en kennis ligt aan de basis van een crisisbeheersings¬organisatie. Bij de uitwisseling van gegevens dient rekening gehouden te worden met het wettelijke kader en de noodzakelijke daarvan afgeleide vertrouwelijkheid van gegevens. De informatie¬organisatie dient hier zoveel mogelijk in te faciliteren. Dit uitwisselen van gegevens is belangrijk binnen de verschillende kolommen van één veiligheidsregio, maar ook tussen de verschillende veiligheidsregio’s en met andere ketenpartners.&#xA;Veiligheidspartners stellen geen extra voorwaarden aan gegevensuitwisseling met veiligheidspartners in andere landen en andere internationale organisaties zolang deze gegevensuitwisseling geschied binnen de kaderstelling van nationale en internationale verdragen, de vigerende wet- en regelgeving, de bestuurlijke en verantwoordelijkheidslijnen, of in het geval dat het belang van de operationele taakuitvoering wordt geschaad. De leverende partner moet erop kunnen vertrouwen dat de Veiligheidsregio deze gegevens beheert conform het vertrouwelijkheidsniveau die hier volgens de aanleverende partij voor geldt. &#xA;Bij het ontvangen van gegevens van externe partijen dient vast gelegd te worden wat de vertrouwelijkheid is van de gegevens, en de Veiligheidsregio dient te borgen dat deze regels gehandhaafd worden. Gegevens kunnen ingedeeld worden in vijf niveaus van vertrouwelijkheid  en worden beheerd conform deze classificaties. Gegevens worden niet langer bewaard dan noodzakelijk.">
+  <properties
+      key="Object ID"
+      value="f395abb3"/>
+</archimate:Principle>

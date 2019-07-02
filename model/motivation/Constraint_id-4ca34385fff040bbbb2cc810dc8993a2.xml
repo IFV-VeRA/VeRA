@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XML"
+    id="id-4ca34385fff040bbbb2cc810dc8993a2">
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/REC-xml/"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Object ID"
+      value="56b6bcf1-2e78-a5cd-9986-14ed449a99aa"/>
+  <properties
+      key="Link"
+      value="Forum:xml/bron"/>
+  <properties
+      key="Beschrijving"
+      value="Opmaaktaal voor gestructureerde gegevens"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden op opgeschaalde situaties"
+    id="id-9fac878a46b6f1bb39c08896654da4ad"
+    documentation="Dit proces draag bij aan &#xA;&#xA;Bedrijfsfuncties:&#xA;- netwerkmanagement&#xA;- planvorming&#xA;- capaciteitsplanning&#xA;- op- en afschaling">
+  <properties
+      key="Object ID"
+      value="e407d8de"/>
+</archimate:BusinessProcess>

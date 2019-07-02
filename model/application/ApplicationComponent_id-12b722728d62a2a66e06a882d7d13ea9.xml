@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaakregistratie component"
+    id="id-12b722728d62a2a66e06a882d7d13ea9"
+    documentation="Component voor opslag en ontsluiting van zaakgegevens.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="70c6eb01-c536-4cf2-aefa-a924e3501cfd"/>
+</archimate:ApplicationComponent>

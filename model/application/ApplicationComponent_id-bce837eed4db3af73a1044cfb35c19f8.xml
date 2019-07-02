@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie van meldingen en vragen component"
+    id="id-bce837eed4db3af73a1044cfb35c19f8"
+    documentation="Component voor het aannemen, beoordelen en het verwerken van meldingen over incidenten en verzoeken tot ondersteuning (zoals medisch transport en technische ondersteuning).">
+  <properties
+      key="Object ID"
+      value="54c56860-295d-440c-b6a5-60cd97b863f1"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

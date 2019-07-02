@@ -1,0 +1,59 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceren verzamelcomponent"
+    id="id-3aab5104205106bda559aff1222422cc"
+    documentation="Wordt gebruikt in de Softwarecatalogus, maar staat niet op een GEMMA view">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f6a9691acea4f12a579c9f5786f167f7"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Objecten die niet op een view staan, worden bij het importeren door ArchiMedes uitgefilterd. Deze view zorgt ervoor dat de verzamelcomponent op VERA online en in de Softwarecatalogus gepubliceerd worden">
+    <bounds
+        x="24"
+        y="24"
+        width="421"
+        height="193"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-48448bf152c9325108d9b4e4d6c89212"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffb5"
+      content="Deze view bevat alleen de verzamelcomponent. In de Softwarecatalogus wordt de verzamelcomponent gebruikt als tijdelijke oplossing om een pakket toch op te kunnen voeren. De component wordt niet op de VERA views getoond.">
+    <bounds
+        x="507"
+        y="24"
+        width="394"
+        height="193"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f958afa2cf1a5aaca5debb5d561a11ab"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <bounds
+        x="72"
+        y="288"
+        width="160"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-cd20fbb9b22c12b22f6f6e0ff0d2f409.xml#id-cd20fbb9b22c12b22f6f6e0ff0d2f409"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="Id-42f65afc-bd55-408e-b1b1-f676c8d5c0ef"/>
+</archimate:ArchimateDiagramModel>

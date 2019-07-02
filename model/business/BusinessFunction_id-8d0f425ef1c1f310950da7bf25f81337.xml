@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectbeheer"
+    id="id-8d0f425ef1c1f310950da7bf25f81337"
+    documentation="Het voorbereiden, plannen, uitvoeren en afronden van individuele projecten.">
+  <properties
+      key="Object ID"
+      value="4c9740c3-1201-4ef2-ac61-995c9e09c517"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-formulieren-publicatie-en-beheercomponent"
+    id="id-5eeb3a421c66aa6af646a06f02d32840"
+    documentation="Component voor het ontwikkelen, publiceren, laten invullen, indienen en bevestigen van elektronische formulieren.">
+  <properties
+      key="Object ID"
+      value="48623431-d273-4707-8685-f958b63eeec9"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+</archimate:ApplicationComponent>

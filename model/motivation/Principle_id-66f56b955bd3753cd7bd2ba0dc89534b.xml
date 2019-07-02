@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA.2. Gegevens hebben 1 (herleidbare) bron"
+    id="id-66f56b955bd3753cd7bd2ba0dc89534b"
+    documentation="Partijen stellen eigen gegevens ter beschikking aan anderen. Eigen gegevens zijn samenhangende sets van oorspronkelijke gegevens, al dan niet gecombineerd en geordend met gegevens van derden.&#xA;Op deze manier verbetert de kwaliteit van de gegevens in de keten. Het beheren van dezelfde gegevens op meerdere plekken leidt tot verschillen in gegevens binnen de organisatie. Dit vermindert de kwaliteit en integriteit van de processen en de dienstverlening aan klanten. Gegevens die gebruikt worden in meerdere processen, worden zoveel mogelijk op één centrale plek beheerd (de authentieke bronregistratie). Deze gegevens zijn leidend. De gegevens kunnen decentraal worden hergebruikt.&#xA;Gegevens komen zoveel mogelijk van een authentieke bron of bij een gemeenschappelijk distributiepunt. Een Veiligheidsregio maakt gebruik van basisregistraties en identificeert haar kernregistraties van waaruit de verschillende informatiesystemen worden ondersteund. Dit is één van de belangrijkste basisprincipes binnen de VeRA en volgt hiermee ook het verplicht gebruik van basisregistraties voor de publiekrechtelijke taken van overheidsinstanties en het gebruik van kernregistraties binnen een Veiligheidsregio. De VeRA volgt het principe van basisregistraties: eenmalige vastlegging, meervoudig gebruik.">
+  <properties
+      key="Object ID"
+      value="1706f1c5"/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfshulpverlening"
+    id="id-9cf89850c86f16a9f4843dc003f590c3"
+    documentation="Het verlenen hulp bij gebeurtenissen die de veiligheid en/of gezondheid van werknemers en andere aanwezigen bedreigen. Bijv. hulp bij brand of ongevallen.">
+  <properties
+      key="Object ID"
+      value="cd4e02fd-0507-467c-a3be-42a9a7899d86"/>
+</archimate:BusinessFunction>

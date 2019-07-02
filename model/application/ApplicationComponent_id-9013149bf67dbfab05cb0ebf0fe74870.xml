@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crisis management component"
+    id="id-9013149bf67dbfab05cb0ebf0fe74870"
+    documentation="Component voor ondersteuning crisis- en rampencoordinatie">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c5abe3e7-dabd-4da7-b964-48886791a27b"/>
+</archimate:ApplicationComponent>

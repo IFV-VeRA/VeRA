@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datum en Tijd"
+    id="id-4359c22c483fd125b11eb1f7e2a12da4">
+  <properties
+      key="Beschrijving"
+      value="Datum en tijd"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://connect.nen.nl/Standard/Detail/102022"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Organisatie"
+      value="ISO"/>
+  <properties
+      key="Object ID"
+      value="68030783-8bda-6f05-7874-c5c57e3a0016"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:datum-en-tijd-/bron"/>
+</archimate:Constraint>

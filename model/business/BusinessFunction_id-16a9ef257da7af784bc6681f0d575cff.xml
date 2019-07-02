@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advisering"
+    id="id-16a9ef257da7af784bc6681f0d575cff"
+    documentation="Het bieden van advies. Bijvoorbeeld, advies brandveiligheid in het kader van de Wabo, advisering vergunningen evenementen.">
+  <properties
+      key="Object ID"
+      value="516c978b"/>
+</archimate:BusinessFunction>

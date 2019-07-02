@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding uitgifte"
+    id="id-082f40c2a02d0aa26864954e0eda54aa"
+    documentation="Het oproepen (uitgifte) van de noodzakelijke disciplines.">
+  <properties
+      key="Object ID"
+      value="71204fce"/>
+</archimate:BusinessFunction>

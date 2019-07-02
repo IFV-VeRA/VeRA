@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitregistratie-component"
+    id="id-79b083ddf62d9957560bf24cd2b2e237"
+    documentation="Component voor de opslag en ontsluiting van identiteiten van gebruikers en de rechten die zij hebben.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="e969c177-c72b-4c83-bf7a-2bb00e28e374"/>
+</archimate:ApplicationComponent>

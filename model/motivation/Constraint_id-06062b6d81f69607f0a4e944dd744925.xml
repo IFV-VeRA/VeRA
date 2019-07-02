@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETSI TS 119 312"
+    id="id-06062b6d81f69607f0a4e944dd744925">
+  <properties
+      key="Organisatie"
+      value="ETSI"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.etsi.org/deliver/etsi ts/119300 119399/119312/01.01.01 60/ts 119312v010101p.pdf"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Link"
+      value="Forum:etsi-ts-119-312/bron"/>
+  <properties
+      key="Object ID"
+      value="d50c97d0-9f1a-a799-5a3f-af92971b80cc"/>
+  <properties
+      key="Beschrijving"
+      value="Digitale handtekening"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+</archimate:Constraint>

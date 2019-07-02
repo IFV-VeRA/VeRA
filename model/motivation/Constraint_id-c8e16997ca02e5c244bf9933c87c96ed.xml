@@ -1,0 +1,29 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebRTC"
+    id="id-c8e16997ca02e5c244bf9933c87c96ed">
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Externe verwijzing"
+      value="Http://www.w3.org/TR/webrtc/"/>
+  <properties
+      key="Beschrijving"
+      value="Real Time communicatie"/>
+  <properties
+      key="Organisatie"
+      value="W3C"/>
+  <properties
+      key="Object ID"
+      value="96bd3ea5-376d-42ff-858b-e65056db6c86"/>
+  <properties
+      key="Lijst status"
+      value="Aanbevolen"/>
+  <properties
+      key="Link"
+      value="Forum:webrtc/bron"/>
+  <properties
+      key="Object ID"
+      value="96bd3ea5-376d-42ff-858b-e65056db6c86,id-webrtc"/>
+</archimate:Constraint>

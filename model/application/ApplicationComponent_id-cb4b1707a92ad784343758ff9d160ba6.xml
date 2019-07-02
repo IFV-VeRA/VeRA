@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronische leeromgeving component"
+    id="id-cb4b1707a92ad784343758ff9d160ba6"
+    documentation="Component om educatieve inhoud via e-learning aan te bieden. Het faciliteert het proces van leren en de communicatie die nodig is voor dat leren.">
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="19b68232-0a75-4868-ae85-40a58bba2689"/>
+</archimate:ApplicationComponent>

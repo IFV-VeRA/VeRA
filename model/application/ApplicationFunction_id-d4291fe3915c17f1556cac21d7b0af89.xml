@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal loket"
+    id="id-d4291fe3915c17f1556cac21d7b0af89"
+    documentation="Functionaliteit voor het digitaal indienen van verzoeken en aanvragen zoals bijvoorbeeld een advies brandveiligheid ten behoeve van een bouwvergunning.">
+  <properties
+      key="Object ID"
+      value="0682b174"/>
+</archimate:ApplicationFunction>

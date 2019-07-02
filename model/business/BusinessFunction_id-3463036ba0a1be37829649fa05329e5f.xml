@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbesteding"
+    id="id-3463036ba0a1be37829649fa05329e5f"
+    documentation="Het conform wetgeving aanbesteden van opdrachten voor 'werken', 'diensten' of 'leveringen' waarbij bedrijven een offerte kunnen indienen. Aabestedingsopdrachten kunnen zich richten op:&#xA;'werken', bijvoorbeeld het bouwen van een fysiek bouwkundig of civieltechnisch object; 'diensten', bijvoorbeeld het uitvoeren van een verhuizing, het verlenen van juridisch advies of het uitvoeren van een &#xA;opdracht; 'leveringen', bijvoorbeeld het leveren van (een partij) goederen, bijvoorbeeld koffieautomaten, ademlucht of tankautospuiten.">
+  <properties
+      key="Object ID"
+      value="966f5ba0-a443-4abe-ba8a-ad67a41980b5"/>
+</archimate:BusinessFunction>

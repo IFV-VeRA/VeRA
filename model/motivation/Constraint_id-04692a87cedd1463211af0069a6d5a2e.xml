@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNSSEC"
+    id="id-04692a87cedd1463211af0069a6d5a2e">
+  <properties
+      key="Link"
+      value="Forum:dnssec/bron"/>
+  <properties
+      key="Constrainttype"
+      value="Standaard"/>
+  <properties
+      key="Organisatie"
+      value="IETF"/>
+  <properties
+      key="Beschrijving"
+      value="Domeinnaambeveiliging"/>
+  <properties
+      key="Externe verwijzing"
+      value="Https://datatracker.ietf.org/doc/rfc4033, https://datatracker.ietf.org/doc/rfc4034, https://datatracker.ietf.org/doc/rfc4035"/>
+  <properties
+      key="Lijst status"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Object ID"
+      value="54a798f3-7e0e-63b4-5c8c-64b7397169c9"/>
+</archimate:Constraint>

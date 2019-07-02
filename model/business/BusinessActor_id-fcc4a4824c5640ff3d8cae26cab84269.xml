@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overheidsinstelling"
+    id="id-fcc4a4824c5640ff3d8cae26cab84269"
+    documentation="Het betreft hier zowel ketenpartners (politie, GGD, gemeente) als bevoegde gezagen (gemeente, RUD, provincie)">
+  <properties
+      key="Object ID"
+      value="ffe9b27e"/>
+</archimate:BusinessActor>
