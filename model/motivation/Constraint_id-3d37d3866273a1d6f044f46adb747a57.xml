@@ -3,7 +3,7 @@
     name="NLCS"
     id="id-3d37d3866273a1d6f044f46adb747a57">
   <properties
-      key="GUID"
+      key="Object ID"
       value="070395a5-0b26-3725-0e43-d0956c267614"/>
   <properties
       key="Link"
@@ -11,9 +11,6 @@
   <properties
       key="Externe verwijzing"
       value="Http://www.gww-nlcs.nl/downloads/"/>
-  <properties
-      key="Object ID"
-      value="070395a5-0b26-3725-0e43-d0956c267614,id-206e276922e35356105bd65e995ebe79"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>

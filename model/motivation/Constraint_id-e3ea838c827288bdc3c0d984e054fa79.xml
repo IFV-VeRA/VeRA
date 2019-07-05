@@ -3,13 +3,10 @@
     name="STARTTLS en DANE"
     id="id-e3ea838c827288bdc3c0d984e054fa79">
   <properties
-      key="Object ID"
-      value="3f7aa81e-78d8-239f-4aeb-cefd65089967,id-be4451504d19a7ef0203c4775e89da8c"/>
-  <properties
       key="Organisatie"
       value="IETF"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="3f7aa81e-78d8-239f-4aeb-cefd65089967"/>
   <properties
       key="Externe verwijzing"

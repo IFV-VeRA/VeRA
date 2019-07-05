@@ -6,9 +6,6 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="Object ID"
-      value="13de6d98-212b-7a4f-9fbb-f19866c23b68,id-25a13dc198e46e04583d99ecdc37624d"/>
-  <properties
       key="Externe verwijzing"
       value="Http://www.w3.org/TR/shacl/"/>
   <properties
@@ -24,6 +21,6 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="13de6d98-212b-7a4f-9fbb-f19866c23b68"/>
 </archimate:Constraint>

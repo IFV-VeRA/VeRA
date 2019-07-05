@@ -3,13 +3,16 @@
     name="VeRA2.0"
     id="id-1234e26d"
     purpose="Standaarden Forum Standaardisatie"
-    version="4.0.1">
+    version="4.4.0">
   <properties
       key="Architectuurtool"
       value="Archi"/>
   <properties
       key="Object ID"
-      value="id-1234e26d"/>
+      value="1234e26d"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
   <properties
       key="Publiceren"
       value="Softwarecatalogus en GEMMA Online en redactie"/>

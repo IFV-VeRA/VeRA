@@ -6,7 +6,7 @@
       key="Beschrijving"
       value="Indexeren en verzamelen van geautomatiseerde content"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="0a805c8f-62b1-2699-2585-9706c81b7aa6"/>
   <properties
       key="Link"
@@ -17,9 +17,6 @@
   <properties
       key="Organisatie"
       value="W3C"/>
-  <properties
-      key="Object ID"
-      value="0a805c8f-62b1-2699-2585-9706c81b7aa6,id-bdf029c7dc8053482e0f9566fc2762c0"/>
   <properties
       key="Lijst status"
       value="Aanbevolen"/>

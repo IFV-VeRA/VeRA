@@ -12,9 +12,6 @@
       key="Organisatie"
       value="Logius"/>
   <properties
-      key="Object ID"
-      value="517bbb53-1200-8fe1-9bfc-9a499fc816be,id-cf0bff7acfe95a6fc6bbf9f9dd50565e"/>
-  <properties
       key="Link"
       value="Forum:principe-universeel/bron"/>
   <properties
@@ -24,6 +21,6 @@
       key="Beschrijving"
       value="Bouwkwaliteit websites"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="517bbb53-1200-8fe1-9bfc-9a499fc816be"/>
 </archimate:Constraint>

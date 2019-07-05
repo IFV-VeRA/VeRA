@@ -3,9 +3,6 @@
     name="MIM"
     id="id-9e85b04ed49e450a8135a2b5a7ad5af1">
   <properties
-      key="Object ID"
-      value="7d9eca9b-83aa-5816-842e-3bcb7ac09d51,id-9673bb57a5969994ee7d4f9b238307ec"/>
-  <properties
       key="Organisatie"
       value="Geonovum"/>
   <properties
@@ -21,7 +18,7 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="7d9eca9b-83aa-5816-842e-3bcb7ac09d51"/>
   <properties
       key="Externe verwijzing"

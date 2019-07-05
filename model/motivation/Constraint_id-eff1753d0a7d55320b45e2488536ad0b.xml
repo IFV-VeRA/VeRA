@@ -3,7 +3,7 @@
     name="DNS"
     id="id-eff1753d0a7d55320b45e2488536ad0b">
   <properties
-      key="GUID"
+      key="Object ID"
       value="6f086a3c-04a3-3bf7-4194-0e1519c59e2f"/>
   <properties
       key="Beschrijving"
@@ -14,9 +14,6 @@
   <properties
       key="Lijst status"
       value="Aanbevolen"/>
-  <properties
-      key="Object ID"
-      value="6f086a3c-04a3-3bf7-4194-0e1519c59e2f,id-b25479df2bc9fffc64a854618b2fbbec"/>
   <properties
       key="Link"
       value="Forum:dns/bron"/>

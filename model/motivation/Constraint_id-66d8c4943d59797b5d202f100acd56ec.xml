@@ -15,14 +15,8 @@
       key="Beschrijving"
       value="Versleutelingstechniek"/>
   <properties
-      key="GUID"
-      value="19f38a85-5de8-9156-129e-dccab04d6518"/>
-  <properties
       key="Object ID"
-      value="19f38a85-5de8-9156-129e-dccab04d6518,id-33e96034371df78c6af2c24aa4bce234"/>
-  <properties
-      key="Externe verwijzing"
-      value="Http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf"/>
+      value="19f38a85-5de8-9156-129e-dccab04d6518"/>
   <properties
       key="Lijst status"
       value="Aanbevolen"/>

@@ -12,7 +12,7 @@
       key="Externe verwijzing"
       value="Https://www.oasis-open.org/committees/tc home.php?wg abbrev=security"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="75d4caf8-7806-301f-6b7e-a958292a8996"/>
   <properties
       key="Lijst status"
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:saml/bron"/>
-  <properties
-      key="Object ID"
-      value="75d4caf8-7806-301f-6b7e-a958292a8996,id-c4a1a6bc0fc48a575a908a16128f30c5"/>
   <properties
       key="Organisatie"
       value="OASIS"/>

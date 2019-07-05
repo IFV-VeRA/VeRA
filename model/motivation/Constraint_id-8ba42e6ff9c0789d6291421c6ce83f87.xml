@@ -12,7 +12,7 @@
       key="Beschrijving"
       value="Toegankelijkheid websites"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="107fe356-4b7a-07ee-a699-f88a8d3f332f"/>
   <properties
       key="Constrainttype"
@@ -20,9 +20,6 @@
   <properties
       key="Organisatie"
       value="ETSI"/>
-  <properties
-      key="Object ID"
-      value="107fe356-4b7a-07ee-a699-f88a8d3f332f,id-8d55561ccf496ede8a98d66acc9db5f5"/>
   <properties
       key="Externe verwijzing"
       value="Https://www.etsi.org/deliver/etsi en/301500 301599/301549/02.01.02 60/en 301549v020102p.pdf, http://www.w3.org/TR/WCAG21/"/>

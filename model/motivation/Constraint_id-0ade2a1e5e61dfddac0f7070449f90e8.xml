@@ -6,7 +6,7 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="9a8e23a2-8975-9425-8142-899a67bd0e38"/>
   <properties
       key="Externe verwijzing"
@@ -14,9 +14,6 @@
   <properties
       key="Beschrijving"
       value="Uitwisseling identiteitsinformatie"/>
-  <properties
-      key="Object ID"
-      value="9a8e23a2-8975-9425-8142-899a67bd0e38,id-a0e1ce8bad97c3f4a635d6a5bd8b5c18"/>
   <properties
       key="Organisatie"
       value="IETF"/>

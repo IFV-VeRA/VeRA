@@ -12,17 +12,14 @@
       key="Beschrijving"
       value="Beschrijven van REST APIs"/>
   <properties
-      key="Object ID"
-      value="C9cbc05c-431f-1102-0f14-1ed114503d3a,id-c972f26c431457fa73029f32ab2ad153"/>
-  <properties
       key="Constrainttype"
       value="Standaard"/>
   <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
   <properties
-      key="GUID"
-      value="C9cbc05c-431f-1102-0f14-1ed114503d3a"/>
+      key="Object ID"
+      value="c9cbc05c-431f-1102-0f14-1ed114503d3a"/>
   <properties
       key="Organisatie"
       value="OpenAPI Initiative"/>

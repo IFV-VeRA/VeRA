@@ -5,5 +5,5 @@
     documentation="Functionaliteit voor het vastleggen van (meestal telefonische) meldingen (waaronder 112) en vragen. Ook automatische doormeldingen vallen hieronder. Mede door door de urgentie van meldingen n.a.v. incidenten (brand, ongeval, etc.) is standaard call centre functionaliteit niet toereikend.">
   <properties
       key="Object ID"
-      value="Id-876e70db"/>
+      value="876e70db"/>
 </archimate:ApplicationFunction>

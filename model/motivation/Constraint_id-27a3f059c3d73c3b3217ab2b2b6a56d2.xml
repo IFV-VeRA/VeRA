@@ -3,14 +3,11 @@
     name="VCF"
     id="id-27a3f059c3d73c3b3217ab2b2b6a56d2">
   <properties
-      key="GUID"
+      key="Object ID"
       value="29eb4d7e-77cc-5922-7690-083a8a38447a"/>
   <properties
       key="Lijst status"
       value="Aanbevolen"/>
-  <properties
-      key="Object ID"
-      value="29eb4d7e-77cc-5922-7690-083a8a38447a,id-vcf"/>
   <properties
       key="Beschrijving"
       value="Uitwisseling van contactgegevens"/>

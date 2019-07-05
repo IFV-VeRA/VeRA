@@ -18,12 +18,9 @@
       key="Organisatie"
       value="IETF"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="7efe4ba1-03d0-3e9b-91f9-692bf81e3573"/>
   <properties
       key="Link"
       value="Forum:csv/bron"/>
-  <properties
-      key="Object ID"
-      value="7efe4ba1-03d0-3e9b-91f9-692bf81e3573,id-25406407296b0ee1f36296bd9def347a"/>
 </archimate:Constraint>

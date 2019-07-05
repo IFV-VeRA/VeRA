@@ -9,8 +9,8 @@
       key="Link"
       value="Forum:mime/bron"/>
   <properties
-      key="GUID"
-      value="E2937189-5891-1f64-33a2-518ed5649606"/>
+      key="Object ID"
+      value="e2937189-5891-1f64-33a2-518ed5649606"/>
   <properties
       key="Lijst status"
       value="Aanbevolen"/>
@@ -20,9 +20,6 @@
   <properties
       key="Organisatie"
       value="IETF"/>
-  <properties
-      key="Object ID"
-      value="E2937189-5891-1f64-33a2-518ed5649606,id-49901eb77c4af99b1f5d6e6f6cc32a4a"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>

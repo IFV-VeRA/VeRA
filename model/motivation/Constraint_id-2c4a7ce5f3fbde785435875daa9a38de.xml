@@ -18,12 +18,9 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
-      value="D159f4d1-352e-3455-5ef1-815e129327e0"/>
+      key="Object ID"
+      value="d159f4d1-352e-3455-5ef1-815e129327e0"/>
   <properties
       key="Externe verwijzing"
       value="Https://www.oasis-open.org/committees/tc home.php?wg abbrev=uddi-spec"/>
-  <properties
-      key="Object ID"
-      value="D159f4d1-352e-3455-5ef1-815e129327e0,id-081bd929b5530e1290e9982795349ea7"/>
 </archimate:Constraint>

@@ -6,8 +6,8 @@
       key="Externe verwijzing"
       value="Https://www.oasis-open.org/committees/tc home.php?wg abbrev=office"/>
   <properties
-      key="GUID"
-      value="D5c1298d-a2d4-11fd-7a34-91088cbe1d11"/>
+      key="Object ID"
+      value="d5c1298d-a2d4-11fd-7a34-91088cbe1d11"/>
   <properties
       key="Beschrijving"
       value="Formaat documentbewerking"/>
@@ -23,7 +23,4 @@
   <properties
       key="Organisatie"
       value="OASIS"/>
-  <properties
-      key="Object ID"
-      value="D5c1298d-a2d4-11fd-7a34-91088cbe1d11,id-923098c17fd24cf18488d757c4addd31"/>
 </archimate:Constraint>

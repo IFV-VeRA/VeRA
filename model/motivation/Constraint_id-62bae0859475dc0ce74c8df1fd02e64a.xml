@@ -6,9 +6,6 @@
       key="Organisatie"
       value="IETF"/>
   <properties
-      key="Object ID"
-      value="D08c2595-005a-8209-9945-6c85c0926472,id-5ac03c6bbd3d4744ae5c74ad22f674a0"/>
-  <properties
       key="Constrainttype"
       value="Standaard"/>
   <properties
@@ -24,6 +21,6 @@
       key="Beschrijving"
       value="Netwerkprotocol op transportniveau"/>
   <properties
-      key="GUID"
-      value="D08c2595-005a-8209-9945-6c85c0926472"/>
+      key="Object ID"
+      value="d08c2595-005a-8209-9945-6c85c0926472"/>
 </archimate:Constraint>

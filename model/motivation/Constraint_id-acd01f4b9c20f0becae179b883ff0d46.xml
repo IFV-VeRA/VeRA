@@ -3,16 +3,13 @@
     name="JSON"
     id="id-acd01f4b9c20f0becae179b883ff0d46">
   <properties
-      key="Object ID"
-      value="90fb20bb-7bd3-89de-9fab-108d9d1a4b6f,id-4f03ad67278835b00ede8a310e1700ea"/>
-  <properties
       key="Organisatie"
       value="IETF"/>
   <properties
       key="Link"
       value="Forum:json/bron"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="90fb20bb-7bd3-89de-9fab-108d9d1a4b6f"/>
   <properties
       key="Externe verwijzing"

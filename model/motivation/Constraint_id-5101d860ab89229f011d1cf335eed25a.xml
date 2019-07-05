@@ -6,8 +6,8 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
-      value="B788df56-1932-709c-4197-2ce53b0320ec"/>
+      key="Object ID"
+      value="b788df56-1932-709c-4197-2ce53b0320ec"/>
   <properties
       key="Externe verwijzing"
       value="Http://www.omg.org/spec/XMI/2.5.1/"/>
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:xmi-2x/bron"/>
-  <properties
-      key="Object ID"
-      value="B788df56-1932-709c-4197-2ce53b0320ec,id-641b33da31c67888446023ae31250d1f"/>
   <properties
       key="Organisatie"
       value="OMG"/>

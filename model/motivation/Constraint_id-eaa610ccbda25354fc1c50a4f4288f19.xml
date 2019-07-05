@@ -3,11 +3,8 @@
     name="WDO Datamodel"
     id="id-eaa610ccbda25354fc1c50a4f4288f19">
   <properties
-      key="GUID"
-      value="A30a1261-268f-4533-1ee0-e2d664252663"/>
-  <properties
       key="Object ID"
-      value="A30a1261-268f-4533-1ee0-e2d664252663,id-875aca288b0d6ae8864a9229177d8cf0"/>
+      value="a30a1261-268f-4533-1ee0-e2d664252663"/>
   <properties
       key="Beschrijving"
       value="Douane-informatie"/>

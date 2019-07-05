@@ -18,12 +18,9 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="Object ID"
-      value="227e796b-a7b0-117c-5938-659c9b5e3ff3,id-662c7cf35cd32585e4dc4b5fbff0aae3"/>
-  <properties
       key="Link"
       value="Forum:smime/bron"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="227e796b-a7b0-117c-5938-659c9b5e3ff3"/>
 </archimate:Constraint>

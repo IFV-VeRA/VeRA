@@ -6,8 +6,8 @@
       key="Organisatie"
       value="Werkmaatschappij-KOOP"/>
   <properties
-      key="GUID"
-      value="E25598b4-2a1b-8c2a-088b-bae21d301366"/>
+      key="Object ID"
+      value="e25598b4-2a1b-8c2a-088b-bae21d301366"/>
   <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
@@ -23,7 +23,4 @@
   <properties
       key="Constrainttype"
       value="Standaard"/>
-  <properties
-      key="Object ID"
-      value="E25598b4-2a1b-8c2a-088b-bae21d301366,id-4058b2d9548d2b7139c3708328ad4ec1"/>
 </archimate:Constraint>

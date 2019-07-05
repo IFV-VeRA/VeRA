@@ -22,8 +22,5 @@
       value="Https://datatracker.ietf.org/doc/rfc5280/, https://datatracker.ietf.org/doc/rfc6818/"/>
   <properties
       key="Object ID"
-      value="F5a89851-10c9-968b-1174-b855466fa5b3,id-x509"/>
-  <properties
-      key="GUID"
-      value="F5a89851-10c9-968b-1174-b855466fa5b3"/>
+      value="f5a89851-10c9-968b-1174-b855466fa5b3"/>
 </archimate:Constraint>

@@ -5,5 +5,5 @@
     documentation="De architectuur voor nieuwe informatievoorzieningen is opgebouwd volgens Service Gerichte Architectuur Een service gerichte architectuur maakt een strikt onderscheid tussen functionaliteit en gegevensopslag. De architectuurproducten ‘Bedrijfsfuncties’ en ‘Applicatieve functies’ in VeRA ondersteunen dit principe. &#xA;Voor gegevensuitwisseling over de grenzen van bedrijfsfuncties heen worden uitsluitend services gebruikt. Deze services maximaliseren de onderlinge uitwisselbaarheid (interoperabiliteit), terwijl de afhankelijkheid geminimaliseerd wordt. Applicaties respecteren de grenzen van de onderkende bedrijfsfuncties. Applicaties werken niet over grenzen van bedrijfsfuncties heen. De veiligheidsregio’s houden in hun implementatiestrategie voor de aanbesteding en inkoop rekening met de voorkeur voor “service oriented” ontwikkelde software. Service gerichte architectuur sluit aan op internationale standaarden voor applicatieontwikkeling en NORA (NORA 2.0, § 4.3.2).">
   <properties
       key="Object ID"
-      value="Id-4568bc5b"/>
+      value="4568bc5b"/>
 </archimate:Principle>

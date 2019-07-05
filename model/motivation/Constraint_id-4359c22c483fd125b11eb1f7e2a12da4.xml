@@ -6,9 +6,6 @@
       key="Beschrijving"
       value="Datum en tijd"/>
   <properties
-      key="Object ID"
-      value="68030783-8bda-6f05-7874-c5c57e3a0016,id-181aaf618a6f52c091d4e83c1233c207"/>
-  <properties
       key="Externe verwijzing"
       value="Https://connect.nen.nl/Standard/Detail/102022"/>
   <properties
@@ -18,7 +15,7 @@
       key="Organisatie"
       value="ISO"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="68030783-8bda-6f05-7874-c5c57e3a0016"/>
   <properties
       key="Constrainttype"

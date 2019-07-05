@@ -6,8 +6,8 @@
       key="Beschrijving"
       value="E-mail synchronisatie"/>
   <properties
-      key="GUID"
-      value="D7abcdd7-0556-6847-157a-99fba9df4022"/>
+      key="Object ID"
+      value="d7abcdd7-0556-6847-157a-99fba9df4022"/>
   <properties
       key="Link"
       value="Forum:imap/bron"/>
@@ -17,9 +17,6 @@
   <properties
       key="Lijst status"
       value="Aanbevolen"/>
-  <properties
-      key="Object ID"
-      value="D7abcdd7-0556-6847-157a-99fba9df4022,id-f23b846684376e37c1656cca71cc5a37"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>

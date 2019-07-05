@@ -9,9 +9,6 @@
       key="Beschrijving"
       value="Kalendergegevens"/>
   <properties
-      key="Object ID"
-      value="799e362d-4650-6587-150e-abbb4d9583f7,id-icalendar"/>
-  <properties
       key="Organisatie"
       value="IETF"/>
   <properties
@@ -21,7 +18,7 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="799e362d-4650-6587-150e-abbb4d9583f7"/>
   <properties
       key="Constrainttype"

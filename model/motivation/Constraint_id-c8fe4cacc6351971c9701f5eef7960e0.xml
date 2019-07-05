@@ -6,9 +6,6 @@
       key="Organisatie"
       value="IETF"/>
   <properties
-      key="Object ID"
-      value="82d82b92-8668-130c-626c-5484618a3919,id-409a5a3eaa31a25131f1ca9199945bb8"/>
-  <properties
       key="Link"
       value="Forum:ssh-2/bron"/>
   <properties
@@ -18,7 +15,7 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="82d82b92-8668-130c-626c-5484618a3919"/>
   <properties
       key="Beschrijving"

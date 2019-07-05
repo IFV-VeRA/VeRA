@@ -12,7 +12,7 @@
       key="Externe verwijzing"
       value="Http://ei.vektis.nl/WespStandaardenOverzicht.aspx"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="7d80c43f-33d2-2361-2b03-3a52800994c3"/>
   <properties
       key="Lijst status"
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:ei-standaarden/bron"/>
-  <properties
-      key="Object ID"
-      value="7d80c43f-33d2-2361-2b03-3a52800994c3,id-3e16e686bc08a78e3e3052a58efe15db"/>
   <properties
       key="Organisatie"
       value="Vektis"/>

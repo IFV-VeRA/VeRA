@@ -15,15 +15,12 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
-      value="B58ffaa7-033f-2e09-1c2b-a5d0d84d57fa"/>
+      key="Object ID"
+      value="b58ffaa7-033f-2e09-1c2b-a5d0d84d57fa"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>
   <properties
       key="Link"
       value="Forum:rtp/bron"/>
-  <properties
-      key="Object ID"
-      value="B58ffaa7-033f-2e09-1c2b-a5d0d84d57fa,id-c247d9c1712244ff4f77f1f7440ab76b"/>
 </archimate:Constraint>

@@ -3,8 +3,8 @@
     name="DMARC"
     id="id-18240ede419d147d2e6448caa24b167c">
   <properties
-      key="GUID"
-      value="B175fab1-6c05-8d80-7dcc-92374ead96ba"/>
+      key="Object ID"
+      value="b175fab1-6c05-8d80-7dcc-92374ead96ba"/>
   <properties
       key="Organisatie"
       value="IETF"/>
@@ -17,9 +17,6 @@
   <properties
       key="Link"
       value="Forum:dmarc/bron"/>
-  <properties
-      key="Object ID"
-      value="B175fab1-6c05-8d80-7dcc-92374ead96ba,id-dd1810fd62721982ed28f386623b49a1"/>
   <properties
       key="Externe verwijzing"
       value="Https://datatracker.ietf.org/doc/rfc7489/"/>

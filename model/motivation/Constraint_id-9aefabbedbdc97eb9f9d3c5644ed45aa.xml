@@ -12,7 +12,7 @@
       key="Externe verwijzing"
       value="Https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="9c79b41f-1903-6e88-6304-5bbb5f4582ba"/>
   <properties
       key="Lijst status"
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:tls/bron"/>
-  <properties
-      key="Object ID"
-      value="9c79b41f-1903-6e88-6304-5bbb5f4582ba,id-dbc3d147e5e1a38d98ca39729a80690a"/>
   <properties
       key="Organisatie"
       value="IETF"/>

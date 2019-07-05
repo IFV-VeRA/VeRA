@@ -9,7 +9,7 @@
       key="Beschrijving"
       value="Authenticatie en integriteitscontrole"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="6ad56560-a671-3891-30e2-a19ef8ad3059"/>
   <properties
       key="Link"
@@ -17,9 +17,6 @@
   <properties
       key="Organisatie"
       value="ISO"/>
-  <properties
-      key="Object ID"
-      value="6ad56560-a671-3891-30e2-a19ef8ad3059,id-5276740dd54035f62a8c36359e959eef"/>
   <properties
       key="Lijst status"
       value="Aanbevolen"/>

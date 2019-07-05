@@ -3,16 +3,13 @@
     name="StUF"
     id="id-6345373d0cf7d185b9d7c63b9e769715">
   <properties
-      key="Object ID"
-      value="23666ef6-8b5c-6d10-9686-dcfa46e31305,id-a18843fe0966d3523f030d8a2373fb8d"/>
-  <properties
       key="Organisatie"
       value="KING"/>
   <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="23666ef6-8b5c-6d10-9686-dcfa46e31305"/>
   <properties
       key="Link"

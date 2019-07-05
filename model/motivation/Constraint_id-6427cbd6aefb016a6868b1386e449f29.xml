@@ -3,9 +3,6 @@
     name="RDF"
     id="id-6427cbd6aefb016a6868b1386e449f29">
   <properties
-      key="Object ID"
-      value="792ee9dc-713e-601e-8148-1748389a4750,id-84a06cc3610342695cc89e302fd59bfd"/>
-  <properties
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
@@ -24,6 +21,6 @@
       key="Organisatie"
       value="W3C"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="792ee9dc-713e-601e-8148-1748389a4750"/>
 </archimate:Constraint>

@@ -9,9 +9,6 @@
       key="Externe verwijzing"
       value="Http://www.ietf.org/rfc/rfc2718.txt"/>
   <properties
-      key="Object ID"
-      value="F8fa9850-442b-0c4c-3c16-573ef30784c8,id-58bd55062ca4c0b8e87576238298853f"/>
-  <properties
       key="Beschrijving"
       value="Standaard voor de identificatie van bronnen van informatie op het Internet"/>
   <properties
@@ -24,6 +21,6 @@
       key="Lijst status"
       value="Archief"/>
   <properties
-      key="GUID"
-      value="F8fa9850-442b-0c4c-3c16-573ef30784c8"/>
+      key="Object ID"
+      value="f8fa9850-442b-0c4c-3c16-573ef30784c8"/>
 </archimate:Constraint>

@@ -9,9 +9,6 @@
       key="Beschrijving"
       value="Beschrijvingstaal semantisch web"/>
   <properties
-      key="Object ID"
-      value="20b71de2-94fb-42dd-8a76-aa52551967f8,id-8a9aab8aecc672935f5f60be29fce429"/>
-  <properties
       key="Externe verwijzing"
       value="Http://www.w3.org/TR/owl2-overview/"/>
   <properties
@@ -21,7 +18,7 @@
       key="Link"
       value="Forum:owl/bron"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="20b71de2-94fb-42dd-8a76-aa52551967f8"/>
   <properties
       key="Constrainttype"

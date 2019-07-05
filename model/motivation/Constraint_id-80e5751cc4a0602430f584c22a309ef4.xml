@@ -3,8 +3,8 @@
     name="SNMP"
     id="id-80e5751cc4a0602430f584c22a309ef4">
   <properties
-      key="GUID"
-      value="Cdf6896d-65ad-51e8-948a-bcc0d4da9854"/>
+      key="Object ID"
+      value="cdf6896d-65ad-51e8-948a-bcc0d4da9854"/>
   <properties
       key="Link"
       value="Forum:snmp/bron"/>
@@ -23,7 +23,4 @@
   <properties
       key="Externe verwijzing"
       value="Http://datatracker.ietf.org/doc/rfc3411/, https://forumstandaardisatie.archiefweb.eu/#archive"/>
-  <properties
-      key="Object ID"
-      value="Cdf6896d-65ad-51e8-948a-bcc0d4da9854,id-968cd0be64fe380ff62e30b55c0b65cc"/>
 </archimate:Constraint>

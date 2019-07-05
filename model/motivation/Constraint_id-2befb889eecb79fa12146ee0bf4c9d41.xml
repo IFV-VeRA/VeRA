@@ -9,9 +9,6 @@
       key="Link"
       value="Forum:smtp/bron"/>
   <properties
-      key="Object ID"
-      value="E9cff1c9-295a-2f5d-3330-8a0a4d5d56bb,id-af13eb6bb7cd57c7772bf519e462a353"/>
-  <properties
       key="Organisatie"
       value="IETF"/>
   <properties
@@ -24,6 +21,6 @@
       key="Externe verwijzing"
       value="Https://tools.ietf.org/html/rfc5321, https://tools.ietf.org/html/rfc2487, https://forumstandaardisatie.archiefweb.eu/#archive"/>
   <properties
-      key="GUID"
-      value="E9cff1c9-295a-2f5d-3330-8a0a4d5d56bb"/>
+      key="Object ID"
+      value="e9cff1c9-295a-2f5d-3330-8a0a4d5d56bb"/>
 </archimate:Constraint>

@@ -18,12 +18,9 @@
       key="Beschrijving"
       value="Metadata overheidsinformatie"/>
   <properties
-      key="Object ID"
-      value="B512bcad-8928-6512-974b-925fb88a95af,id-311c208f5c1f64114799a2cb62e84724"/>
-  <properties
       key="Organisatie"
       value="Werkmaatschappij-KOOP"/>
   <properties
-      key="GUID"
-      value="B512bcad-8928-6512-974b-925fb88a95af"/>
+      key="Object ID"
+      value="b512bcad-8928-6512-974b-925fb88a95af"/>
 </archimate:Constraint>

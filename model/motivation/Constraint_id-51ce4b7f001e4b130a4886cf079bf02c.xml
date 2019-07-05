@@ -3,7 +3,7 @@
     name="DHCP"
     id="id-51ce4b7f001e4b130a4886cf079bf02c">
   <properties
-      key="GUID"
+      key="Object ID"
       value="4231262e-5e21-5a9f-102d-d623f9806a7c"/>
   <properties
       key="Constrainttype"
@@ -17,9 +17,6 @@
   <properties
       key="Link"
       value="Forum:dhcp/bron"/>
-  <properties
-      key="Object ID"
-      value="4231262e-5e21-5a9f-102d-d623f9806a7c,id-a43cb3fa2fe1423adf0b564376f5d128"/>
   <properties
       key="Externe verwijzing"
       value="Http://tools.ietf.org/html/rfc2131"/>

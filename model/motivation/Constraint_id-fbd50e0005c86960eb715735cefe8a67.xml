@@ -3,9 +3,6 @@
     name="NLRS"
     id="id-fbd50e0005c86960eb715735cefe8a67">
   <properties
-      key="Object ID"
-      value="208a51f1-5481-17c8-3f75-d6ddcc03a52a,id-dfff363c57f46ca58c8875af98247d7a"/>
-  <properties
       key="Externe verwijzing"
       value="Http://www.revitstandards.org/downloads/"/>
   <properties
@@ -24,6 +21,6 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="208a51f1-5481-17c8-3f75-d6ddcc03a52a"/>
 </archimate:Constraint>

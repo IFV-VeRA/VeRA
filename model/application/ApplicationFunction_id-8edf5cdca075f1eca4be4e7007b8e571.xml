@@ -5,5 +5,5 @@
     documentation="Functionaliteit waarmee verschillende vormen van communicatie integraal kunnen worden gebruikt zoals instant messaging (chat), aanwezigheidsinformatie, telefonie (inclusief IP telephony) , video conferencing, data sharing , call control  en spraakherkenning (allen real-time) met functionaliteiten als voicemail, e-mail, SMS en fax (niet real-time). Deze functionaliteit biedt gebruikers de mogelijkheid om een bericht te versturen via één medium en ditzelfde bericht via een ander medium te ontvangen. Iemand kan bijvoorbeeld een voicemail ontvangen en kiezen om dit bericht te lezen via e-mail. Deze functionaliteit kan zowel intern als extern (bijvoorbeeld met ketenpartners tijdens opschaling) worden ingezet.">
   <properties
       key="Object ID"
-      value="Id-ec34353f"/>
+      value="ec34353f"/>
 </archimate:ApplicationFunction>

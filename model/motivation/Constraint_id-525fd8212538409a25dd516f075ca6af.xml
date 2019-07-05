@@ -3,8 +3,8 @@
     name="PDF/UA"
     id="id-525fd8212538409a25dd516f075ca6af">
   <properties
-      key="GUID"
-      value="B49940f7-11c1-828e-7d72-70cea9ce4b31"/>
+      key="Object ID"
+      value="b49940f7-11c1-828e-7d72-70cea9ce4b31"/>
   <properties
       key="Externe verwijzing"
       value="Https://www.nen.nl/NEN-Shop/Norm/NENISO-1428912015-en.htm, https://www.nen.nl/NEN-Shop/Norm/ISO-3200012008-en.htm"/>
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:pdfua/bron"/>
-  <properties
-      key="Object ID"
-      value="B49940f7-11c1-828e-7d72-70cea9ce4b31,id-711ce9fb32dead4eba4f663d5b2f7566"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>

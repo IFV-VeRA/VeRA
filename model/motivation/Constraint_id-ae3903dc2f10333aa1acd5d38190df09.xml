@@ -6,7 +6,7 @@
       key="Link"
       value="Forum:stix-en-taxii/bron"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="1ecb55ba-9d3b-2f58-76dd-0af229ac3408"/>
   <properties
       key="Organisatie"
@@ -23,7 +23,4 @@
   <properties
       key="Constrainttype"
       value="Standaard"/>
-  <properties
-      key="Object ID"
-      value="1ecb55ba-9d3b-2f58-76dd-0af229ac3408,id-cd7fc6792af32380d6da8a82fcf00a4a"/>
 </archimate:Constraint>

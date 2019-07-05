@@ -5,5 +5,5 @@
     documentation="Functionaliteit waarmee gegevens over de zaak zelf worden vastgelegd en beheerd. Een zaak wordt in het Referentiemodel Gemeentelijke Basisgegevens Zaken (RGBZ, onderdeel van de Gemma) gedefinieerd als &quot;een samenhangende hoeveelheid werk met een gedefinieerde aanleiding en een gedefinieerd resultaat, waarvan kwaliteit en doorlooptijd bewaakt moeten worden&quot;. De zaken worden aangemeld via het digitaal loket en afgehandeld met behulp van de hier genoemde functionaliteit. Belangrijk hierbij is dat via het digitaal loket altijd inzage is in de status van een zaak t.b.v. de communicatie naar de aanvrager.">
   <properties
       key="Object ID"
-      value="Id-69124b32"/>
+      value="69124b32"/>
 </archimate:ApplicationFunction>

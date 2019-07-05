@@ -3,7 +3,7 @@
     name="TOTP"
     id="id-07cefc70a79175a40562b0b0dfb70b8d">
   <properties
-      key="GUID"
+      key="Object ID"
       value="0a61d3f8-28fc-42f7-22cc-c4d189992e20"/>
   <properties
       key="Constrainttype"
@@ -11,9 +11,6 @@
   <properties
       key="Link"
       value="Forum:totp/bron"/>
-  <properties
-      key="Object ID"
-      value="0a61d3f8-28fc-42f7-22cc-c4d189992e20,id-aa228c0225a3d6bcf472e2e0273d1a50"/>
   <properties
       key="Beschrijving"
       value="Wachtwoord generatie"/>

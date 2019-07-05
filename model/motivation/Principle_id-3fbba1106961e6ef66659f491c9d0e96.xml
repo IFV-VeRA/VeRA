@@ -5,5 +5,5 @@
     documentation="Systemen worden alleen gebruikt als er een hoge mate van zekerheid is dat de noodzakelijke beschikbaarheid en capaciteit van de systemen beschikbaar is, ook in buitengewone omstandigheden. De meeste informatiesystemen worden niet alleen gebruikt onder normale omstandigheden, maar ook in ramp- en crisissituaties. Daarom moeten deze bijvoorbeeld ook werken buiten kantooruren, vanaf niet-traditionele werkplekken (bijvoorbeeld op mobiele apparaten) en bestand zijn tegen onverwachte situaties. Kortom een schaalbare, flexibele en beschikbare informatievoorziening.&#xA;De implicatie is dat dit principe eisen stelt aan systemen en aan beheerafspraken waarbij rekening wordt gehouden met de onderliggende keten van afhankelijkheden (locatie, netwerk, koeling, stroomvoorziening, enz.)">
   <properties
       key="Object ID"
-      value="Id-373fced0"/>
+      value="373fced0"/>
 </archimate:Principle>

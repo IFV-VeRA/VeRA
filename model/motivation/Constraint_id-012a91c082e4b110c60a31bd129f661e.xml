@@ -6,17 +6,14 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
-      value="Bea93ed4-0d72-2978-8324-12219a4b5157"/>
+      key="Object ID"
+      value="bea93ed4-0d72-2978-8324-12219a4b5157"/>
   <properties
       key="Link"
       value="Forum:geo-standaarden/bron"/>
   <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
-  <properties
-      key="Object ID"
-      value="Bea93ed4-0d72-2978-8324-12219a4b5157,id-f188ea54b681ae0a14825981833a42d6"/>
   <properties
       key="Beschrijving"
       value="Geografische informatie"/>

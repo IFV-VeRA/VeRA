@@ -3,16 +3,13 @@
     name="POP3"
     id="id-d886033d8874eac3aea0b6fccdb3a577">
   <properties
-      key="Object ID"
-      value="2bea3ecd-4f35-9f35-17ec-e646cbdf676d,id-c1258a5d710768f4ba63778ff675df43"/>
-  <properties
       key="Lijst status"
       value="Archief"/>
   <properties
       key="Organisatie"
       value="IETF"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="2bea3ecd-4f35-9f35-17ec-e646cbdf676d"/>
   <properties
       key="Link"

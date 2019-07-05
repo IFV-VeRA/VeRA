@@ -9,7 +9,7 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="4e0a6b5d-8681-0db5-2beb-1b3e4a20a381"/>
   <properties
       key="Lijst status"
@@ -23,7 +23,4 @@
   <properties
       key="Link"
       value="Forum:css/bron"/>
-  <properties
-      key="Object ID"
-      value="4e0a6b5d-8681-0db5-2beb-1b3e4a20a381,id-aa7a4419655c6954a4dc5dfddd6b5c51"/>
 </archimate:Constraint>

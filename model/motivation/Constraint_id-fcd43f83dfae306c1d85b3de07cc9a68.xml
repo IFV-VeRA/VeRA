@@ -3,7 +3,7 @@
     name="WPA2 Enterprise"
     id="id-fcd43f83dfae306c1d85b3de07cc9a68">
   <properties
-      key="GUID"
+      key="Object ID"
       value="9ae35499-1ec7-34f1-5abb-32d2bd048a53"/>
   <properties
       key="Organisatie"
@@ -23,7 +23,4 @@
   <properties
       key="Constrainttype"
       value="Standaard"/>
-  <properties
-      key="Object ID"
-      value="9ae35499-1ec7-34f1-5abb-32d2bd048a53,id-0cb4765144db088f47f4a46d96b80cbf"/>
 </archimate:Constraint>

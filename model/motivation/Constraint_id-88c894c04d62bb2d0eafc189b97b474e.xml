@@ -3,11 +3,8 @@
     name="DKIM"
     id="id-88c894c04d62bb2d0eafc189b97b474e">
   <properties
-      key="GUID"
-      value="72e533b2-9c4b-3b3e-7002-f640f8281134"/>
-  <properties
       key="Object ID"
-      value="72e533b2-9c4b-3b3e-7002-f640f8281134,id-7c86f0480cb99dfb5be102dc9b9858fe"/>
+      value="72e533b2-9c4b-3b3e-7002-f640f8281134"/>
   <properties
       key="Beschrijving"
       value="Bescherming tegen e-mailphishing"/>

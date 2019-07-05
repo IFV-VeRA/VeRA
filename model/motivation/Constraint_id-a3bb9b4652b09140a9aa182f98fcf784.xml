@@ -9,9 +9,6 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="Object ID"
-      value="60f13947-83ab-6bd6-6fbd-1bd325427a9e,id-utf-8"/>
-  <properties
       key="Externe verwijzing"
       value="Http://tools.ietf.org/html/rfc3629"/>
   <properties
@@ -24,6 +21,6 @@
       key="Link"
       value="Forum:utf-8/bron"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="60f13947-83ab-6bd6-6fbd-1bd325427a9e"/>
 </archimate:Constraint>

@@ -12,7 +12,7 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="45e21f37-a605-829a-3796-37d210df6a30"/>
   <properties
       key="Organisatie"
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:https-en-hsts/bron"/>
-  <properties
-      key="Object ID"
-      value="45e21f37-a605-829a-3796-37d210df6a30,id-32dc3da803b2b222f1d96988a503616c"/>
   <properties
       key="Beschrijving"
       value="Beveiligde websiteverbinding"/>

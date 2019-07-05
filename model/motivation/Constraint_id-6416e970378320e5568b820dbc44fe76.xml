@@ -3,13 +3,10 @@
     name="XBRL"
     id="id-6416e970378320e5568b820dbc44fe76">
   <properties
-      key="Object ID"
-      value="2520307a-8f7a-a4a0-624a-ccbf9d9b50ba,id-fe48ec68c1418e74662d7a42614f4c6b"/>
-  <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="2520307a-8f7a-a4a0-624a-ccbf9d9b50ba"/>
   <properties
       key="Constrainttype"

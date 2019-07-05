@@ -15,13 +15,10 @@
       key="Organisatie"
       value="ISO"/>
   <properties
-      key="Object ID"
-      value="5827a82a-30f7-5346-5729-c38bb5637c78,id-e14c68bee2080238d0f54ada412a4fb7"/>
-  <properties
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="5827a82a-30f7-5346-5729-c38bb5637c78"/>
   <properties
       key="Constrainttype"

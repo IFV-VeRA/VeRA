@@ -12,7 +12,7 @@
       key="Externe verwijzing"
       value="Http://standaard.setu.nl"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="6abae752-0e8f-20d2-2ef0-fef935047f8e"/>
   <properties
       key="Lijst status"
@@ -20,9 +20,6 @@
   <properties
       key="Link"
       value="Forum:setu/bron"/>
-  <properties
-      key="Object ID"
-      value="6abae752-0e8f-20d2-2ef0-fef935047f8e,id-bd9fb7e3279c2e3652ba168595b50d89"/>
   <properties
       key="Organisatie"
       value="SETU"/>

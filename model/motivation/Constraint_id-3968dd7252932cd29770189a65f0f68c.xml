@@ -3,16 +3,13 @@
     name="PDF (NEN-ISO)"
     id="id-3968dd7252932cd29770189a65f0f68c">
   <properties
-      key="Object ID"
-      value="3cdbd582-1276-a3c4-1ed1-21de89112ac4,id-8f46786aec2741dc60c13d443499d7cb"/>
-  <properties
       key="Link"
       value="Forum:pdf-nen-iso/bron"/>
   <properties
       key="Beschrijving"
       value="Formaat documentpublicatie"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="3cdbd582-1276-a3c4-1ed1-21de89112ac4"/>
   <properties
       key="Organisatie"

@@ -9,9 +9,6 @@
       key="Externe verwijzing"
       value="Https://tools.ietf.org/html/rfc7208"/>
   <properties
-      key="Object ID"
-      value="E9af3265-3732-3536-92ac-278205030c03,id-5314928f7a424ad6f59ad8d2116e10fe"/>
-  <properties
       key="Organisatie"
       value="IETF"/>
   <properties
@@ -24,6 +21,6 @@
       key="Beschrijving"
       value="Bescherming tegen e-mailphishing"/>
   <properties
-      key="GUID"
-      value="E9af3265-3732-3536-92ac-278205030c03"/>
+      key="Object ID"
+      value="e9af3265-3732-3536-92ac-278205030c03"/>
 </archimate:Constraint>

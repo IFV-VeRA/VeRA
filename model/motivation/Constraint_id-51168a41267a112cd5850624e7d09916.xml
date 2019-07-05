@@ -9,14 +9,11 @@
       key="Lijst status"
       value="Aanbevolen"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="6b9a9934-1b8a-3d61-89e9-30584f646653"/>
   <properties
       key="Organisatie"
       value="IETF"/>
-  <properties
-      key="Object ID"
-      value="6b9a9934-1b8a-3d61-89e9-30584f646653,id-7febfffd8c9d4c9cbfc32b421a10d2b4"/>
   <properties
       key="Externe verwijzing"
       value="Https://datatracker.ietf.org/doc/rfc959/"/>

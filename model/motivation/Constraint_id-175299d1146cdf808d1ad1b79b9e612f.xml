@@ -18,12 +18,9 @@
       key="Organisatie"
       value="European Payments Council"/>
   <properties
-      key="Object ID"
-      value="9d36fd9e-4326-12ea-6cf6-5c78683c15d9,id-bbefd626ae0a91218bed0ab60f5a6e7d"/>
-  <properties
       key="Lijst status"
       value="Archief"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="9d36fd9e-4326-12ea-6cf6-5c78683c15d9"/>
 </archimate:Constraint>

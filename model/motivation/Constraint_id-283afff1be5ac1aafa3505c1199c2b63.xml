@@ -12,9 +12,6 @@
       key="Externe verwijzing"
       value="Http://www.w3.org/TR/skos-reference/"/>
   <properties
-      key="Object ID"
-      value="C2125eda-82b7-1b16-6f97-8f8e32118b4e,id-c975b4fef7494673cf3e2c72da21e03f"/>
-  <properties
       key="Lijst status"
       value="Verplicht (pas toe leg uit)"/>
   <properties
@@ -24,6 +21,6 @@
       key="Beschrijving"
       value="Linked data en begrippenlijsten"/>
   <properties
-      key="GUID"
-      value="C2125eda-82b7-1b16-6f97-8f8e32118b4e"/>
+      key="Object ID"
+      value="c2125eda-82b7-1b16-6f97-8f8e32118b4e"/>
 </archimate:Constraint>

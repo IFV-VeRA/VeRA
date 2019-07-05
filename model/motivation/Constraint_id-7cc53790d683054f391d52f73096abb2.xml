@@ -3,7 +3,7 @@
     name="Ades Baseline Profiles"
     id="id-7cc53790d683054f391d52f73096abb2">
   <properties
-      key="GUID"
+      key="Object ID"
       value="95520dc1-16e5-21e2-8410-7636e6451b3f"/>
   <properties
       key="Lijst status"
@@ -11,9 +11,6 @@
   <properties
       key="Organisatie"
       value="ETSI"/>
-  <properties
-      key="Object ID"
-      value="95520dc1-16e5-21e2-8410-7636e6451b3f,id-d00a0d665dee3cd138ee44d858725023"/>
   <properties
       key="Constrainttype"
       value="Standaard"/>

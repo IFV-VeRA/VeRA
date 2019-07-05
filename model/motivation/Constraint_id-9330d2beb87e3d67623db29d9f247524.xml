@@ -3,9 +3,6 @@
     name="WSDL"
     id="id-9330d2beb87e3d67623db29d9f247524">
   <properties
-      key="Object ID"
-      value="1226b1ae-306d-62a9-8c2d-03052a9f3710,id-wsdl"/>
-  <properties
       key="Link"
       value="Forum:wsdl/bron"/>
   <properties
@@ -21,7 +18,7 @@
       key="Beschrijving"
       value="Interface van Webservices"/>
   <properties
-      key="GUID"
+      key="Object ID"
       value="1226b1ae-306d-62a9-8c2d-03052a9f3710"/>
   <properties
       key="Constrainttype"

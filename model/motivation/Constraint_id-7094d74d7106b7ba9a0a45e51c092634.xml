@@ -9,9 +9,6 @@
       key="Externe verwijzing"
       value="Https://www.stpe.nl/media/stpe.nl-gebruiksinstructie-basisfactuur-v1.0.pdf, https://www.stpe.nl/"/>
   <properties
-      key="Object ID"
-      value="B5f7b41e-674a-766d-83a4-96f9d7b695d5,id-fc75586bdb6ba892ecdc330f41b9617a"/>
-  <properties
       key="Organisatie"
       value="NEN"/>
   <properties
@@ -21,8 +18,8 @@
       key="Constrainttype"
       value="Standaard"/>
   <properties
-      key="GUID"
-      value="B5f7b41e-674a-766d-83a4-96f9d7b695d5"/>
+      key="Object ID"
+      value="b5f7b41e-674a-766d-83a4-96f9d7b695d5"/>
   <properties
       key="Beschrijving"
       value="Electronische factureren"/>
