@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b09a9e94b188b464d836d3eb257e81f5"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -22,7 +22,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c98a7dec2e0966df471971d15f08caa7"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -38,7 +38,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-68b4bed2c50ac4c394a3d829783b34d4"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -54,7 +54,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f8dd72c05b1c07fd2bd76c133a65345"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -70,7 +70,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1117bc98c070398f32d3a317d7796cc0"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -86,7 +86,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4ada15946e33f33624de24a2e687ba02"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -102,7 +102,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f12fed9ceaf0fb1bcb5683114c8d668d"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -118,7 +118,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-90418121820073178c261d9824de3a9b"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -134,7 +134,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-54728f87d0c979be54d454850ead41a9"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -152,5 +152,5 @@
       value="GEMMA Online"/>
   <properties
       key="Object ID"
-      value="Id-c820f634"/>
+      value="c820f634"/>
 </archimate:ArchimateDiagramModel>

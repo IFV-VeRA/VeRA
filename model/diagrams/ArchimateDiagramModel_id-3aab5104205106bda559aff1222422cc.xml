@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-f6a9691acea4f12a579c9f5786f167f7"
-      font="1|Segoe UI|12.0|0|COCOA|1|"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -22,7 +22,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-48448bf152c9325108d9b4e4d6c89212"
-      font="1|Segoe UI|12.0|0|COCOA|1|"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -37,7 +37,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f958afa2cf1a5aaca5debb5d561a11ab"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -55,5 +55,5 @@
       value="GEMMA Online en redactie"/>
   <properties
       key="Object ID"
-      value="Id-42f65afc-bd55-408e-b1b1-f676c8d5c0ef"/>
+      value="42f65afc-bd55-408e-b1b1-f676c8d5c0ef"/>
 </archimate:ArchimateDiagramModel>
