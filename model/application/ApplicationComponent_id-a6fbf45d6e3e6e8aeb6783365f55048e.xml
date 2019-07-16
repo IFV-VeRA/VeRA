@@ -7,7 +7,9 @@
       key="Object ID"
       value="e7a85e20-9ce1-4d0e-a64b-57a18fd4d7b4"/>
   <properties
-      key="GEMMA status"/>
+      key="GEMMA status"
+      value="In gebruik"/>
   <properties
-      key="GEMMA type"/>
+      key="GEMMA type"
+      value="Referentiecomponent"/>
 </archimate:ApplicationComponent>
