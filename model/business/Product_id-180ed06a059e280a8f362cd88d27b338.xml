@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisatieplannen"
-    id="id-180ed06a059e280a8f362cd88d27b338">
+    id="id-180ed06a059e280a8f362cd88d27b338"
+    documentation="Er zijn 3 verplichte planfiguren (regionaal risicoprofiel, Regionaal crisis beleidsplan, regionaal crisisplan) waarvan het beleidsplan en het crisisplan uit het bedrijfsproces 'beleid vormen' komen. ">
   <properties
       key="Object ID"
       value="fbcb49a5"/>

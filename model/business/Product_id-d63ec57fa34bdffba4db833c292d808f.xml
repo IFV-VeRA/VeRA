@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestreden bron en emissie"
-    id="id-d63ec57fa34bdffba4db833c292d808f">
+    id="id-d63ec57fa34bdffba4db833c292d808f"
+    documentation="Beperken van economische schade, in stand houden vitale infrastructuur en beperke van milieu effect schade.">
   <properties
       key="Object ID"
       value="1d9f8d5a"/>

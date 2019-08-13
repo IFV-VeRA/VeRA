@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Crisisplannen"
-    id="id-29cac26db8454b532adc4e314faad96b">
+    id="id-29cac26db8454b532adc4e314faad96b"
+    documentation="Actuele rampenbestrijdingsplannen, incidentbestrijdingsplannen, bereikbaarheidskaarten, aanvalsplannen, calamiteitenplannen, handboeken en operationele procedures. Let op: er vindt nadrukkelijk informatie-uitwisseling plaats met adviseren rondom objectgegevens. Dit is echter een ander beschouwingsniveau: informatiearchitectuur vs. bedrijfsarchitectuur.">
   <properties
       key="Object ID"
       value="e0e27fa2"/>

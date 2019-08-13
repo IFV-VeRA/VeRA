@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Advies tot handhaving"
-    id="id-68282d0ddae23047588366501cabd260">
+    id="id-68282d0ddae23047588366501cabd260"
+    documentation="De verzamelde informatie over de vraag of een object of evenement voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel en het eventueel naar aanleiding daarvan adviseren van bevoegd gezag (advies tot handhaving).">
   <properties
       key="Object ID"
       value="00d60d05"/>

@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Salaris- en declaratieverwerking"
-    id="id-9c7a32545d9f315fc0417bef54f806c7">
+    id="id-9c7a32545d9f315fc0417bef54f806c7"
+    documentation="Het berekenen en uitkeren van het salaris en verwerken van declaraties van medewerkers.">
   <properties
       key="Object ID"
       value="06f94724-4f64-4a35-abdd-5c6d177c5deb"/>

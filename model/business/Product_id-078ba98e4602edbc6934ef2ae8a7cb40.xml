@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Jaarverslag"
-    id="id-078ba98e4602edbc6934ef2ae8a7cb40">
+    id="id-078ba98e4602edbc6934ef2ae8a7cb40"
+    documentation="Binnen het bedrijfsproces 'sturen, beheersen en verantwoorden' hoort ook de aandacht voor de organisatorische risicoanalyse (risk management). Het is goed om te realiseren dat het rapport interne controle dus maatregelen kan opleveren voor de bijsturing van elk ander proces. Management informatie is er op vele niveaus, maar hier gaat het vooral over de organisatie-brede stuurinformatie.">
   <properties
       key="Object ID"
       value="1e3da5bc"/>

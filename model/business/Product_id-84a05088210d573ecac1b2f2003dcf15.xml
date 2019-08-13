@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitgevoerd toezicht"
-    id="id-84a05088210d573ecac1b2f2003dcf15">
+    id="id-84a05088210d573ecac1b2f2003dcf15"
+    documentation="De verzamelde informatie over de vraag of een object of evenement voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel en het eventueel naar aanleiding daarvan adviseren van bevoegd gezag (advies tot handhaving)">
   <properties
       key="Object ID"
       value="78697d5f"/>

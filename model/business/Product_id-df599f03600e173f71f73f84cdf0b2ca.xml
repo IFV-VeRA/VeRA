@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Competente medewerkers"
-    id="id-df599f03600e173f71f73f84cdf0b2ca">
+    id="id-df599f03600e173f71f73f84cdf0b2ca"
+    documentation="Zorgen voor personeel en organusatie. Instroom, doorstroom, uitstroom medewerkers. Goede arbeidsvoorwaarden en arbeidsomstandigheden. Opleiding en training. Voeren van een personeelsadministratie: beheer van alle gegevens, informatie en kennis over medewerkers. BOT valt hier ook onder als werkproces.">
   <properties
       key="Object ID"
       value="f4d1acfa"/>
