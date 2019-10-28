@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoop- en contractmanagement"
-    id="id-6ef5feefaef71358bcc7c5cf2c526a43">
+    id="id-6ef5feefaef71358bcc7c5cf2c526a43"
+    documentation="Specificeren (samen met de klant), selecteren, contracteren, bestellen en bewaken van de levering van een product of dienst waar uiteindelijk een externe factuur tegenover staat.">
   <properties
       key="Object ID"
       value="26da2f08"/>

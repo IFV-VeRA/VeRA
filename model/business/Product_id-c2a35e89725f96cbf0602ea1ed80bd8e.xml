@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verzoek tot opschaling"
-    id="id-c2a35e89725f96cbf0602ea1ed80bd8e">
+    id="id-c2a35e89725f96cbf0602ea1ed80bd8e"
+    documentation="Beperken van economische schade, in stand houden vitale infrastructuur en beperke van milieu effect schade.">
   <properties
       key="Object ID"
       value="a5a4d63e"/>

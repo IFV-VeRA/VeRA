@@ -1,7 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opgeschaalde organisatie"
-    id="id-1e294165158909eb06f3a0ef902942fe">
+    id="id-1e294165158909eb06f3a0ef902942fe"
+    documentation="Bepaling wie waarvoor verantwoordelijk is (taakverdeling en regievoering binnen de keten).">
   <properties
       key="Object ID"
       value="6f226680"/>

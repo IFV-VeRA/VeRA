@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Redden en technische hulpverlening"
-    id="id-19b8c85bcde6bdbb09be3fa12de2cf21">
+    id="id-19b8c85bcde6bdbb09be3fa12de2cf21"
+    documentation="Opsporen en bevrijden van slachtoffers bij een ramp, alsmede het verlenen van levensreddende eerste hulp.">
   <properties
       key="Object ID"
       value="c2b84482"/>

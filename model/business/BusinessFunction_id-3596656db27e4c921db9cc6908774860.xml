@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijf ontwikkelen"
-    id="id-3596656db27e4c921db9cc6908774860">
+    id="id-3596656db27e4c921db9cc6908774860"
+    documentation="Het beoordelen van de primaire processen, de procesprestaties en de effecten hiervan. Input aanleveren voor het bijsturen van het beleid en/of primaire proces.">
   <properties
       key="Object ID"
       value="d3f7a018"/>

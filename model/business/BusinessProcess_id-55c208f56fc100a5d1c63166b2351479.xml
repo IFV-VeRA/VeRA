@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regisseren geneeskundige opgeschaalde zorg"
-    id="id-55c208f56fc100a5d1c63166b2351479">
+    id="id-55c208f56fc100a5d1c63166b2351479"
+    documentation="Het coördineren van de gezondheidszorg tijdens rampen en crises met als doel dat slachtoffers onder alle omstandigheden verantwoorde zorg kan worden geboden door een samenhangende zorgketen, in nauwe samenwerking met andere hulpdiensten. ">
   <properties
       key="Object ID"
       value="dad3c9dc"/>

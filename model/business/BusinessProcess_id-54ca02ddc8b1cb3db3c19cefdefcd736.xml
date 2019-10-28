@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financieel management"
-    id="id-54ca02ddc8b1cb3db3c19cefdefcd736">
+    id="id-54ca02ddc8b1cb3db3c19cefdefcd736"
+    documentation="Beheren en voeren van de financiële administratie en controleren en rapporteren van alle financiële gegevens, processen, transacties.">
   <properties
       key="Object ID"
       value="de279a78"/>
