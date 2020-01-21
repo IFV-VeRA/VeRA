@@ -1025,7 +1025,7 @@
             x="12"
             y="24"
             width="120"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-280f62348ec63a7c92025156fc54a84c.xml#id-280f62348ec63a7c92025156fc54a84c"/>
