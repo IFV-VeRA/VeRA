@@ -1,9 +1,9 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VeRA2.0 (definitieve startversie VeRA wiki)"
+    name="VeRA2.0 (IFV versie)"
     id="id-1234e26d"
     purpose="Standaarden Forum Standaardisatie"
-    version="4.4.0">
+    version="4.0.1">
   <properties
       key="Architectuurtool"
       value="Archi"/>
