@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren archief en informatie"
-    id="b9a7084a-40f9-4e99-9f7f-61e789f906fe"/>
+    id="b9a7084a-40f9-4e99-9f7f-61e789f906fe"
+    documentation="Dit is een cluster van bedrijfsprocessen die gerelateerd zijn aan archiefbeheer. Binnen deze cluster vallen bijvoorbeeld preservering en het bestrijden van papiervisjes. Dit zijn de bedrijfsprocessen die corresponderen met de bedrijfsfunctie Informatie- en archiefbeheer."/>
