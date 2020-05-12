@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelarchitectuur GHOR "
+    id="182cda7f-6ef5-4778-8d2b-e384de6873c4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="46480e87-7220-4af4-a2f9-0a601415c07d">
+    <bounds
+        x="396"
+        y="552"
+        width="120"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_57bb521d-ac48-4991-9983-dbe11940bbdf.xml#57bb521d-ac48-4991-9983-dbe11940bbdf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="866c016a-3b5f-42fb-a937-09ba40412395"
+      name="GHOR"
+      fontColor="#ff8040">
+    <bounds
+        x="372"
+        y="108"
+        width="289"
+        height="169"/>
+  </children>
+  <properties
+      key="Publiceren"
+      value="Softwarecatalogus en GEMMA Online en redactie"/>
+</archimate:ArchimateDiagramModel>

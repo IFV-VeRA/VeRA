@@ -1,8 +1,8 @@
-<archimate:BusinessFunction
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bevolkingszorg"
-    id="15eaf314-6c4d-4a6c-a7d1-87b208832f0a">
+    name="Opstapplaats"
+    id="2da8f688-afbc-458c-bf44-70721805b444">
   <properties
       key="Publiceren"
       value="Softwarecatalogus en GEMMA Online en redactie"/>
-</archimate:BusinessFunction>
+</archimate:BusinessObject>
