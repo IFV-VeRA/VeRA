@@ -19,7 +19,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="866c016a-3b5f-42fb-a937-09ba40412395"
       name="GHOR"
-      fontColor="#ff8040">
+      fontColor="#ff8040"
+      textAlignment="1">
     <bounds
         x="372"
         y="108"
