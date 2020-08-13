@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Incidentlocatie"
-    id="a93dce1f-a5ec-4067-8d38-a6a6a32e8084"/>
+    id="a93dce1f-a5ec-4067-8d38-a6a6a32e8084"
+    documentation="locatie waar zich een [incident] voordoet."/>

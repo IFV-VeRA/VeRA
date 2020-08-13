@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Piketfunctie"
-    id="f4337691-972d-4d2c-9609-b6b04517188c"/>
+    id="f4337691-972d-4d2c-9609-b6b04517188c"
+    documentation="een piketfunctie is een samenstel van op oproepbasis met voorrang te verrichten werkzaamheden met opkomstplicht."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beoordeling medewerker"
-    id="787c772e-d030-455f-9bab-e1993cf161b8"/>
+    id="787c772e-d030-455f-9bab-e1993cf161b8"
+    documentation="een [evaluatie] van een [medewerker] conform het functieprofiel behorend bij [formatieplaats]."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisatie-eenheid"
-    id="bc757f6e-e863-4d05-9408-bb9cf252aa45"/>
+    id="bc757f6e-e863-4d05-9408-bb9cf252aa45"
+    documentation="een clustering van [medewerkers] binnen de lijnorganisatie met een duidelijk gedefinieerde specifieke taakstelling"/>

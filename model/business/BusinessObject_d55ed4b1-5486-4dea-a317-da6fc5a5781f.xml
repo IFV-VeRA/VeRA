@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatie"
-    id="d55ed4b1-5486-4dea-a317-da6fc5a5781f"/>
+    id="d55ed4b1-5486-4dea-a317-da6fc5a5781f"
+    documentation="betreft een set van aanbasis kenmerken van een [NATUURLIJK PERSOON], [NIET-NATUURLIJK PERSOON] of [ORGANISATIE] waarmee de Veiligheidsregio een zakelijke [RELATIE] heeft. Relaties kunnen gekoppeld zijn aan GBA en aan NHR."/>

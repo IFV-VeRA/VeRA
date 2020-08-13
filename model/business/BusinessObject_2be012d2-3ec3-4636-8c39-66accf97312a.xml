@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doelstelling"
-    id="2be012d2-3ec3-4636-8c39-66accf97312a"/>
+    id="2be012d2-3ec3-4636-8c39-66accf97312a"
+    documentation="een toestand of conditie van de [organisatie] die tot stand moet worden gebracht."/>

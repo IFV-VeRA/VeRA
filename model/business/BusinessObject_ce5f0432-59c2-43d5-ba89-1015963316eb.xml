@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zaak"
-    id="ce5f0432-59c2-43d5-ba89-1015963316eb"/>
+    id="ce5f0432-59c2-43d5-ba89-1015963316eb"
+    documentation="Een samenhangende hoeveelheid werk met gedefinieerde aanleiding  en een gedefinieerd eindresultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden."/>

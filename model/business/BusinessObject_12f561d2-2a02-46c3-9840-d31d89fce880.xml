@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Evenement"
-    id="12f561d2-2a02-46c3-9840-d31d89fce880"/>
+    id="12f561d2-2a02-46c3-9840-d31d89fce880"
+    documentation="Een evenement is een verplaatsbare georganiseerde gebeurtenis, (openlucht)manifestatie, (thema) dag of week. Meestal is die publiek, maar ze kan ook besloten zijn. Evenementen worden door de [veiligheidsregio] gecategoriseerd als a-, b- of c- evenementen naar risico en aantallen bezoekers"/>

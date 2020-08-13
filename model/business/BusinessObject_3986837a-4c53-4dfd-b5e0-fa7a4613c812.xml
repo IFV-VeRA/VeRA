@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport (routes)"
+    id="3986837a-4c53-4dfd-b5e0-fa7a4613c812"
+    documentation="Wegen of spoorwegen waarvan het plaatsgebonden risico (PR) op de as van de weg of spoorweg hoger is dan 10-6 per jaar en vaarwegen waarvan het PR op de oever hoger is dan 10-6."/>

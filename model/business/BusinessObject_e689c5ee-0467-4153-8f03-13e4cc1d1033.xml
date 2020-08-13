@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opschaling BRW"
-    id="e689c5ee-0467-4153-8f03-13e4cc1d1033"/>
+    id="e689c5ee-0467-4153-8f03-13e4cc1d1033"
+    documentation="Aanpassing eerste [INZET] van [MATERIEEL] en of [PERSONEEL] of organisatorisch (GRIP) met meer van M of P, vanwege (ontwikkeling van) een [incident]"/>

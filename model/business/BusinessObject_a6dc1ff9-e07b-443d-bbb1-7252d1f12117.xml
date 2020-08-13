@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanbesteding"
-    id="a6dc1ff9-e07b-443d-bbb1-7252d1f12117"/>
+    id="a6dc1ff9-e07b-443d-bbb1-7252d1f12117"
+    documentation="een inkooptraject om te komen tot een juridisch en commercieel [contract] met een [leverancier]."/>

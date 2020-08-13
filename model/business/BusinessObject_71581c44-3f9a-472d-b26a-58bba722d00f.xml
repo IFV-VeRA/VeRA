@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schadecirkel"
-    id="71581c44-3f9a-472d-b26a-58bba722d00f"/>
+    id="71581c44-3f9a-472d-b26a-58bba722d00f"
+    documentation="Beschrijving van de soort schade die voorkomt in de schadecirkel. Een schadecirkel kent vier typen: onherstelbare schade en branden; zware schade en secundaire branden; secundaire branden treden op; geen of lichte schade."/>

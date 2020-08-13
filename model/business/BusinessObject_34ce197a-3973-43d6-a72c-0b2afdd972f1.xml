@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouwlaag"
+    id="34ce197a-3973-43d6-a72c-0b2afdd972f1"
+    documentation="Het gedeelte tussen twee vloeren in (waarbij zolder en kelder &lt;1.5 meter niet meetellen)."/>

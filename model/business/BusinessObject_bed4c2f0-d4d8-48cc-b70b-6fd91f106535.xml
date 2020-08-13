@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examen"
-    id="bed4c2f0-d4d8-48cc-b70b-6fd91f106535"/>
+    id="bed4c2f0-d4d8-48cc-b70b-6fd91f106535"
+    documentation="Bij algemene maatregel van bestuur wordt vastgesteld voor welke functies de opleiding wordt afgesloten met een examen. Het algemeen bestuur van het Instituut Fysieke Veiligheid geeft het diploma af. Een examen onderdeel is het onderdeel van de proeve van bekwaamheid waarin wordt beoordeeld of de vereiste competenties zijn verworven. Het examenonderdeel wordt afgenomen en beoordeeld door het IFV."/>

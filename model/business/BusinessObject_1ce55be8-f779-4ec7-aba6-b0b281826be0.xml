@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Communicatiemiddel"
-    id="1ce55be8-f779-4ec7-aba6-b0b281826be0"/>
+    id="1ce55be8-f779-4ec7-aba6-b0b281826be0"
+    documentation="een informatiedrager, of [medium] die fungeert om te communiceren."/>

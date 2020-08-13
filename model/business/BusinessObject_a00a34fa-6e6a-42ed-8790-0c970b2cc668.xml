@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regionaal risicoprofiel"
-    id="a00a34fa-6e6a-42ed-8790-0c970b2cc668"/>
+    id="a00a34fa-6e6a-42ed-8790-0c970b2cc668"
+    documentation="een inventarisatie en analyse van de in een veiligheidsregio aanwezige risico's, inclusief relevante risico's uit aangrenzende gebieden. De risico-inventarisatie omvat een overzicht van de aanwezige risicolle situaties en de soorten incidenten die zich daar kunnen voordoen. Dit is een duiding van een [risico-inventarisatie]"/>

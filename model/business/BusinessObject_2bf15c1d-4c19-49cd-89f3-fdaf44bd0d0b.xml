@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inschrijving"
-    id="2bf15c1d-4c19-49cd-89f3-fdaf44bd0d0b"/>
+    id="2bf15c1d-4c19-49cd-89f3-fdaf44bd0d0b"
+    documentation="De registratie voor deelname aan een opleiding."/>

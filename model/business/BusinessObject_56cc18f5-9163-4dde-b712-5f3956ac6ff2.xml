@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Statussen"
-    id="56cc18f5-9163-4dde-b712-5f3956ac6ff2"/>
+    id="56cc18f5-9163-4dde-b712-5f3956ac6ff2"
+    documentation="De tijdlijn geeft de diverse tijdstippen weer zoals die tijdens het afhandelen van een melding en incident onderkend worden. Het totale behandelingsproces, gezien vanuit het meldkamer standpunt, kunnen we in vier fasen verdelen:&#xD;&#xA;1 Intake / Verlengde intake /Aanname&#xD;&#xA;2 Uitgifte&#xD;&#xA;3 Monitoring&#xD;&#xA;4 Afhandeling&#xD;&#xA;Het proces bevindt zich vanaf een bepaald tijdstip in een bepaalde fase. Binnen een fase doorloopt het proces een aantal statusmomenten. De status van een voertuig geeft aan of het voertuig beschikbaar is, onderweg is en dergelijke. Bijvoorbeeld: &#xD;&#xA;1 = Mobiel (op straat), inzetbaar, 2 = Op weg naar incident,&#xD;&#xA;3 = Ter plaatse &#xD;&#xA;4 = Buiten dienst,"/>

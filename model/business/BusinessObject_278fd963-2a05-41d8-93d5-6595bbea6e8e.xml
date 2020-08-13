@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toetswijzer"
-    id="278fd963-2a05-41d8-93d5-6595bbea6e8e"/>
+    id="278fd963-2a05-41d8-93d5-6595bbea6e8e"
+    documentation="Een document, zoals bedoeld in artikel 15 van dit OER, waarin de proeve van bekwaamheid wordt beschreven en toegelicht."/>

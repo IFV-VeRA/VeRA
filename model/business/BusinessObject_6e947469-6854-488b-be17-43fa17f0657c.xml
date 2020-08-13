@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inzetberekening/voorstel"
-    id="6e947469-6854-488b-be17-43fa17f0657c"/>
+    name="Inzetvoorstel/berekening"
+    id="6e947469-6854-488b-be17-43fa17f0657c"
+    documentation="Een inzetvoorstel is een vertaling van de inzetbehoefte naar minimaal voertuignummer(s),&#xD;&#xA;ploeg(en) of personen en eventueel functionarissen, instantie(s) en materieel. Uit het&#xD;&#xA;inzetvoorstel volgt weer een alarmeringsvoorstel dat bestaat uit de P2000-codes."/>

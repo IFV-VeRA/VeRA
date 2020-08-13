@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Salarisverplichting"
-    id="c9ffd725-63e5-4996-bf1a-72d935d5525b"/>
+    id="c9ffd725-63e5-4996-bf1a-72d935d5525b"
+    documentation="een financiele afspraak conform [dienstbetrekking] voor uitbetaling van loon aan [medewerker]."/>

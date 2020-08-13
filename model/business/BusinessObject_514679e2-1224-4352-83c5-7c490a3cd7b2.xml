@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vegetatie droogte gegevens"
-    id="514679e2-1224-4352-83c5-7c490a3cd7b2"/>
+    name="Vegetatietype"
+    id="514679e2-1224-4352-83c5-7c490a3cd7b2"
+    documentation="Duiding van het soort vegetatie dat op een bepaalde locatie in een natuurgebied wordt aangetroffen, conform de indeling van SNL (Subsidie Natuur en Landschap) en de eind 2018 op te leveren centrale vegetatiedatabank van IPO/Bij12."/>

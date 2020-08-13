@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Crisis"
-    id="55357fff-cef4-4fc3-a4cc-1b34e083b670"/>
+    id="55357fff-cef4-4fc3-a4cc-1b34e083b670"
+    documentation="Een situatie waarin een vitaal belang van de samenleving is aangetast of dreigt te worden aangetast."/>

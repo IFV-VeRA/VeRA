@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanstelling"
-    id="b969977c-535d-487f-9c2a-af55e33d08fe"/>
+    id="b969977c-535d-487f-9c2a-af55e33d08fe"
+    documentation="(publiekrechtelijke) overeenkomst tussen een persoon en een werkgever om werkzaamheden te verrichten in een bepaalde functie tegen bepaalde voorwaarden (waaronder vergoeding en inzetbaarheidheid)"/>

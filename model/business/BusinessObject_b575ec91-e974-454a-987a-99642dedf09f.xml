@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toezichtverzoek"
-    id="b575ec91-e974-454a-987a-99642dedf09f"/>
+    id="b575ec91-e974-454a-987a-99642dedf09f"
+    documentation="Een intern of extern verzoek om te toetsen of een [zaak] behandeld is volgens de norm of gemaakte afspraken."/>

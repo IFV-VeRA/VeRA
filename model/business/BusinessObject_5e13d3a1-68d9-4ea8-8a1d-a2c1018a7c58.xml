@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoopverplichting"
-    id="5e13d3a1-68d9-4ea8-8a1d-a2c1018a7c58"/>
+    id="5e13d3a1-68d9-4ea8-8a1d-a2c1018a7c58"
+    documentation="Een contractuele afspraak waar een geldbedrag tegenover staat die door de organisatie aan een debiteur moet worden betaald."/>

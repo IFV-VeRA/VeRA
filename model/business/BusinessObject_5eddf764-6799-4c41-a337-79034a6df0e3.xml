@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestuurlijke informatie"
-    id="5eddf764-6799-4c41-a337-79034a6df0e3"/>
+    id="5eddf764-6799-4c41-a337-79034a6df0e3"
+    documentation="vergaderstukken en besluiten van het bestuur van de veiligheidsregio's."/>

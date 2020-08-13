@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie"
-    id="e8ceaa19-ffe9-46f4-8ed5-4b71422200fd"/>
+    id="e8ceaa19-ffe9-46f4-8ed5-4b71422200fd"
+    documentation="heeft tot doel de [identiteit] van de gebruiker of [medewerker ] vast te stellen. Authentificatie gebeurt vaak door het opgeven van een naam en wachtwoord. Doorgaans wordt deze identiteit vastgesteld ops basis van het overleggen van een al dan niet fysiek bewijs. Fysieke bewijzen zijn bijvoorbeeld [documenten] met pasfoto's, handtekeningen of biometrische kenmerken."/>

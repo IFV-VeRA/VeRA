@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IMROI/Objectinformatie"
-    id="a6ee2117-2f1a-4651-9f88-e34af89b2be4"/>
+    id="a6ee2117-2f1a-4651-9f88-e34af89b2be4"
+    documentation="Ter vervanging van de DBK combineert IMROI op een slimme manier gegevens die al beschikbaar zijn bij de overheden. Hiermee kan men onderweg naar het [incident] al een beeld vormen van de situatie en de [inzet]."/>

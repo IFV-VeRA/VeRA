@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkomende betaling"
-    id="8840f1e8-15de-4dba-bf0c-55e66fc6d60a"/>
+    id="8840f1e8-15de-4dba-bf0c-55e66fc6d60a"
+    documentation="inkomende geldelijke transactie (van crediteur) waar een levering van een [product/dienst] van de [veiligheidsregio] tegenover staat."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instrueren (melder)/gealarmeerden"
-    id="084792b6-c01a-443d-b1bf-12381f151d1d"/>
+    id="084792b6-c01a-443d-b1bf-12381f151d1d"
+    documentation="de centralist meldkamer instrueert de melder over eventueel te ondernemen handelingen."/>

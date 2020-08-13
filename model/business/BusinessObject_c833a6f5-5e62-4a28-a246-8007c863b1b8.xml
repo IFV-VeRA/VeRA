@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begroeiing"
-    id="c833a6f5-5e62-4a28-a246-8007c863b1b8"/>
+    id="c833a6f5-5e62-4a28-a246-8007c863b1b8"
+    documentation="Variabele binnen de Risioc Index Natuurbranden. de variabele&#xD;&#xA;‘begroeiing’ is in vijf klassen verdeeld en aan elk van&#xD;&#xA;deze klassen is vervolgens een waarde toegekend,&#xD;&#xA;waarbij de voor natuurbrand meest risicovolle klasse de&#xD;&#xA;hoogste waarde krijgt.&#xD;&#xA;• Niet brandbaar (0 punten)&#xD;&#xA;• Laag brandbaar (25 punten)&#xD;&#xA;• Brandbaar (50 punten)&#xD;&#xA;• Verhoogd brandbaar (75 punten)&#xD;&#xA;• Zeer brandbaar (100 punten)"/>

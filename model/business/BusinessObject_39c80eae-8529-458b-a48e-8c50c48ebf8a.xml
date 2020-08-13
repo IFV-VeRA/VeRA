@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beeld effectgebied"
+    id="39c80eae-8529-458b-a48e-8c50c48ebf8a"
+    documentation="de weergave van het effectgebied, dat op een bepaalde manier direct beinvloed wordt door het optreden van een incident. Effectgebied is het gebied buiten het brongebied, waar het incident effecten heeft op de omgeving."/>

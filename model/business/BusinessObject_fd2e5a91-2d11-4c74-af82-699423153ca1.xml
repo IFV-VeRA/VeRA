@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne audit"
+    id="fd2e5a91-2d11-4c74-af82-699423153ca1"
+    documentation="Tenminste eenmaal per jaar worden alle onderdelen van het kwaliteitsmanagementsysteem intern ge-audit. Het auditschema wordt opgesteld door de beleidsmedewerker met aandachtsgebied kwaliteit en geeft aan in welke maand de audit plaatsvindt en de te auditen onderdelen. Het schema gaat ter beoordeling naar het afdelingshoofd en wordt bij goedkeuring geaccordeerd. De audit vindt plaats aan de hand van interviews met de medewerkers en het afdelingshoofd. Afwijkingen worden met de verantwoordelijken besproken en vastgelegd. "/>

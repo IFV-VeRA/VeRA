@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschermingsgraad"
-    id="35c60d2d-5d10-4a0d-b22e-49b858ffccd5"/>
+    id="35c60d2d-5d10-4a0d-b22e-49b858ffccd5"
+    documentation="ntb"/>

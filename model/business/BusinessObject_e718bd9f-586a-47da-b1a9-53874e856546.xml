@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Objectgebied"
-    id="e718bd9f-586a-47da-b1a9-53874e856546"/>
+    name="Object/gebied"
+    id="e718bd9f-586a-47da-b1a9-53874e856546"
+    documentation="Er is geen gestandaardiseerde definitie hiervoor, maar denk in de richting van BAG objecten/kadastrale percelen of inrichting. Elementen waarop vergunning wordt verleend. "/>

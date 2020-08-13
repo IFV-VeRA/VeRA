@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meteo gegevens"
-    id="e11c8b48-f97c-42c3-a6b7-e14b909d2788"/>
+    id="e11c8b48-f97c-42c3-a6b7-e14b909d2788"
+    documentation="Voor zes dagen terug in de tijd per dag de min en max relatieve luchtvochtigheid en temperatuur tevens op de dag zelf, voor het bepalen van droogte vegetatie. Voor de komende zes uur per uur windsnelheid en windrichting."/>

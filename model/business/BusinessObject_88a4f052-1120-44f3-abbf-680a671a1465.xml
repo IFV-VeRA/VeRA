@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vordering"
-    id="88a4f052-1120-44f3-abbf-680a671a1465"/>
+    id="88a4f052-1120-44f3-abbf-680a671a1465"
+    documentation="Het terughalen van onrechtmatige betalingen. Het recht van een [individu] op het uitvoeren van een betaling door een andere individu op grond van een afspraak."/>

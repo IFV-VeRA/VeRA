@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Project"
-    id="35f30873-0614-40a6-9849-e4e117d7ee94"/>
+    id="35f30873-0614-40a6-9849-e4e117d7ee94"
+    documentation="vooraf omschreven, gezamenlijk te verrichten (eenmalige) werkzaamheden, leidend tot een duidelijk omschreven eindproduct. "/>

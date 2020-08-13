@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locatie"
+    id="dc1c773e-bde2-49b4-a3a9-f79c76a3db22"
+    documentation="Is de plaats of het object waar het [MATERIEEL] zich bevindt conform het [DEKKINGSPLAN]."/>

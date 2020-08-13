@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risico-kaart"
-    id="d38497c2-8f9e-4904-85c3-d6067dd785eb"/>
+    id="d38497c2-8f9e-4904-85c3-d6067dd785eb"
+    documentation="De Risicokaart geeft informatie over risicosituaties, zoals die zijn vastgelegd in de Regeling provinciale Risicokaart. Voorbeelden van risicosituaties zijn Aardbeving, Ongeval met gevaarlijke stoffen en Natuurbrand.  De Risicokaart omvat een website met onder meer informatie over soorten risicosituaties, een geografische kaart - de kaartviewer - waarop u kan inzoomen tot de eigen buurt, en een schat aan gegevens over de risico’s die via gerichte zoekfuncties op te roepen zijn."/>

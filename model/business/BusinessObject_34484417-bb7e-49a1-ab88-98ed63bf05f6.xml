@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijsmateriaal"
-    id="34484417-bb7e-49a1-ab88-98ed63bf05f6"/>
+    id="34484417-bb7e-49a1-ab88-98ed63bf05f6"
+    documentation="Materiaal dat gebruikt wordt bij het overdragen of toetsen van kennis en competenties (lespakket)."/>

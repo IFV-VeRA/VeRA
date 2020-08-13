@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Materieel"
-    id="dd82d768-731c-4d07-b804-98516e7a9bc0"/>
+    id="dd82d768-731c-4d07-b804-98516e7a9bc0"
+    documentation="Het gaat hierbij om het middel behorend bij het [SPECIALISME] dat moet worden [IN(ge)ZET] vanaf [LOCATIE] bij een [INCIDENT] op basis van [INZET BESLUIT] en conform het [DEKKINGSPLAN]. Het gaat hier met name om 'rollend materieel bijvoorbeeld voertuigen of ademlucht waarbij samengeperste zuivere lucht, geschikt voor gebruik in een ademluchttoestel. Dit [materieel] wordt gebruikt bij [inzet] door de [veiligheidsregio], specifiek de brandweer. Ander materieel is meetapparatuur of redgereedschap."/>

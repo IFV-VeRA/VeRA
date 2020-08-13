@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Crisis opschaling"
-    id="8a139aa2-b627-4cc6-92d3-423e428d21f9"/>
+    id="8a139aa2-b627-4cc6-92d3-423e428d21f9"
+    documentation="Bij een ramp of crisis moeten hulpverleners en hulpverleningsdiensten snel omschakelen naar één organisatie die het incident bestrijdt, met de benodigde mensen, materialen en middelen. Dit heet opschalen. Het gebeurt via de zogeheten GRIP-procedure."/>

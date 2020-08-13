@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proces"
-    id="02b291f3-e05c-47ae-9ee6-f13729d9b491"/>
+    id="02b291f3-e05c-47ae-9ee6-f13729d9b491"
+    documentation="een set van samenhangende activiteiten om input om te zetten in output, gestart door een duidelijke trigger en eindigend met een duidelijk [RESULTAAT]"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dier"
-    id="769c805a-ad75-4003-aa21-1f08c989122f"/>
+    id="769c805a-ad75-4003-aa21-1f08c989122f"
+    documentation="Elk mens en dier dat is gered door een [medewerker] van de [Veiligheidsregio] en bijdraagt aan de veiligheid in de regio. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sleutelbuis"
-    id="aaedf73c-6af6-41a2-bb94-70a546e37ba1"/>
+    id="aaedf73c-6af6-41a2-bb94-70a546e37ba1"
+    documentation="Een sleutelbuis wordt gebruikt om toetreding tot het (bedrijfs)terrein, centrale openbare hal of galerijen&#xD;&#xA;mogelijk te maken. Een sleutelbuis wordt geopend door middel van een zogenaamde “stegensleutel”. Deze sleutel is in het bezit van o.a. de Brandweer Amsterdam-Amstelland. In de buis wordt de sleutel geplaatst van bijv. het hek of de gevel.&#xD;&#xA;&#xD;&#xA;Toelichting: het is de locatie waar de toegangssleutel gevonden kan worden."/>

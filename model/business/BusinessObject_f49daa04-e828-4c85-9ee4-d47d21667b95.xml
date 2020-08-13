@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarschuwing"
-    id="f49daa04-e828-4c85-9ee4-d47d21667b95"/>
+    id="f49daa04-e828-4c85-9ee4-d47d21667b95"
+    documentation="Functionaliteit waarmee de bevolking [gewaarschuwd] kan worden voor situaties die de volksgezondheid bedreigen. waarschuwing betekent dat mensen die acuut worden bedreigd, soms moeten worden geattendeerd op een [incident]. Snelheid is daarbij geboden om slachtoffers te voorkomen of beperken. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitale identiteit"
-    id="26634d75-eaf0-47cc-853e-c40c067df870"/>
+    id="26634d75-eaf0-47cc-853e-c40c067df870"
+    documentation="In een systeem vastgelegde formele (contractuele of juridisch geldige) relatie tussen een natuurlijk persoon en de instelling. Deze resulteert in een instellingsgebonden identiteit, zoals student, medewerker, docent, onderzoeker."/>

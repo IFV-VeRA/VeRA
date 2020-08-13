@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanrijroute"
+    id="a62f698b-3dcf-4f81-a5c6-d9d8a2b89c93"
+    documentation="De route/weg van de brandweerkazerne tot de plaats van [inzet] [incident]. Het bepalen en afstemmen van routes binnen Bevolkingszorg gebeurt meestal i.o.m.  Politie/Copi voor het verplaatsen van mens en dier. Dit is input voor het  inzetplan Verplaatsen mens en dier, op basis van de inzetopdracht en het totaalbeeld."/>

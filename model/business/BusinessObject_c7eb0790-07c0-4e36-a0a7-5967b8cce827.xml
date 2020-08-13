@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanrijtijd"
-    id="c7eb0790-07c0-4e36-a0a7-5967b8cce827"/>
+    id="c7eb0790-07c0-4e36-a0a7-5967b8cce827"
+    documentation="Is het tijdsdeel wat de duur tussen het moment van ter plaatse komen en het moment van start van de rit van een eenheid weergeeft."/>

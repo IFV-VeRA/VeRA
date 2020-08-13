@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ketenpartner"
-    id="60c42562-7d20-4e1d-831b-4521338b40bc"/>
+    id="60c42562-7d20-4e1d-831b-4521338b40bc"
+    documentation="Een [niet-natuurlijk persoon] met een specifieke [rol] binnen de veiligheidsketen. Dit kan een [Relatie] zijn.&#xD;&#xA;&#xD;&#xA;Toelichting GHOR (PURA): partners binnen het domein van rampenbestrijding en crisisbeheersing. De&#xD;&#xA;geijkte partners zijn gemeenten, brandweer en politie, maar natuurlijk ook waterschappen,&#xD;&#xA;nutsbedrijven, etc. etc. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiebehoefte"
-    id="74b0b833-345b-4906-945f-291f55cd2239"/>
+    id="74b0b833-345b-4906-945f-291f55cd2239"
+    documentation="De behoefte van een of meer gebruikers aan specifieke gegevens, informatie of [functionaliteit]."/>

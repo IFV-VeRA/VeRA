@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Satellietdata"
+    id="7e205a6e-d2e2-4c8e-879b-1fef53cb1dda"
+    documentation="Duiding van de meest voorkomende vegetatietypen in natuurgebieden op een locatiegrid van 5x5 meter in Nederland. Daarnaast de duiding van de biomassa die in de vegetatie aanwezig is op het moment van meten."/>

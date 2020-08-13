@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontruimingsplan"
-    id="efba570a-f16f-4f09-83f4-ce7ceace448c"/>
+    name="Bedrijfsnoodplan"
+    id="efba570a-f16f-4f09-83f4-ce7ceace448c"
+    documentation="Inventarisatie en analyse van alle mogelijke bedreigingen, tijdens gebruik van een bouwwerk. Dit&#xD;&#xA;calamiteitenplan ofwel bedrijfsnoodplan moet bij calamiteiten een snelle ontruiming en redding&#xD;&#xA;waarborgen. Een ontruimingsplan maakt hier deel van uit."/>

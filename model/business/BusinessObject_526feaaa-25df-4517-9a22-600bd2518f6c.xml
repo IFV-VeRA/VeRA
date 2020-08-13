@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scenario"
-    id="526feaaa-25df-4517-9a22-600bd2518f6c"/>
+    id="526feaaa-25df-4517-9a22-600bd2518f6c"
+    documentation="Een ernstig ongeval kan volgens verschillende scenario’s verlopen. Bij onderzoek naar de risico’s worden daarom diverse scenario’s uitgewerkt. In die scenario’s wordt bijvoorbeeld rekening gehouden met weersomstandigheden die van invloed kunnen zijn of verwachte drukte. Op basis van deze scenario's kunnen hulpdiensten voorbereidingen treffen."/>

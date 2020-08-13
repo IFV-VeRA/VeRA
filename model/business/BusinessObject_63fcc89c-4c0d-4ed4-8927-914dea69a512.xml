@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inhuur"
-    id="63fcc89c-4c0d-4ed4-8927-914dea69a512"/>
+    id="63fcc89c-4c0d-4ed4-8927-914dea69a512"
+    documentation="(publiekrechtelijke) overeenkomst tussen een persoon en een werkgever om werkzaamheden te verrichten tegen bepaalde voorwaarden.&#xD;&#xA;&#xD;&#xA;Let wel: inhuur is niet hetzelfde als een vrijwilliger in kader van brandweer (die hebben een aanstelling)."/>

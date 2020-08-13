@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Situatiebeeld multi"
-    id="fc331eff-97ef-4a2d-87b8-2884b2a6e844"/>
+    id="fc331eff-97ef-4a2d-87b8-2884b2a6e844"
+    documentation="De situatie rapportage betreft de formele rapportage met als onderwerp het totaalbeeld, verslaglegging van de actuele situatie, verwachte ontwikkelingen, knelpunten, te nemen&#xD;&#xA;besluitpunten en/of gevraagde terugkoppeling. Bevolkingszorg is de bron van het monobeeld en wil het multi-beeld ontvangen. Elke stafsectie heeft een monobeeld, wat meegenomen wordt in het totaalbeeld. "/>

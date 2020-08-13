@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzetplanning"
+    id="804ca558-8ecd-48db-8c9e-3b5b5c589283"
+    documentation="De verzameling van in tijd geplande capaciteit van [medewerkers]. het inzetplan geeft inzicht in de volgende elementen: wie, wat, waar, wanneer, waarmee."/>

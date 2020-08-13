@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veiligheidsrisico"
-    id="eb32e99f-bab6-4ee1-8713-f9369ba5816e"/>
+    id="eb32e99f-bab6-4ee1-8713-f9369ba5816e"
+    documentation="de kans dat een gebeurtenis plaatsvindt, &quot;vermenigvuldigd&quot; met het &quot;gevolg&quot; van die gebeurtenis op het gebied van veiligheid. Dit is een subtype van [risico]."/>

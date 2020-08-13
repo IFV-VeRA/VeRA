@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Materiaal"
-    id="550c82d9-4873-471d-bccb-cb071feb3261"/>
+    id="550c82d9-4873-471d-bccb-cb071feb3261"
+    documentation="De grondstoffen die aanwezig zijn binnen de [veiligheidsregio] en [IN(ge)ZET] dienen te worden vanaf [LOCATIE] bij een [INCIDENT] op basis van [INZET BESLUIT] en conform het [DEKKINGSPLAN]  , bijv. blusmateriaal, voorlichtingsmateriaal, kleding (het uitgeven van dienstkleding aan [medewerkers] van de [veiligheidsregio]."/>

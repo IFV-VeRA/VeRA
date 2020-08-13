@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Brandstofmodel"
-    id="13b5bed8-c26f-4a84-9df2-bfdf4598d9ba"/>
+    id="13b5bed8-c26f-4a84-9df2-bfdf4598d9ba"
+    documentation="In de Informatiegids IFV brandstofmodellen/ vegetatietype, zijn 20 verschillende brandstofmodellen/ vegetatietypen gepresenteerd, die ook terug te vinden in het natuurbrandverspreidingsmodel. Deze brandstofmodellen representeren Nederlandse vegetatietypen die voorkomen in duin-, veengebieden en op droge zandgrond. Per brandstofmodel is informatie te vinden over de kenmerken van het vegetatietype en wordt een indicatie van de verspreidingssnelheid (loopvuur) gegeven."/>

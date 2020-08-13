@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gasmal"
-    id="4ccf26ae-344f-4eaf-96c1-64785924433c"/>
+    id="4ccf26ae-344f-4eaf-96c1-64785924433c"
+    documentation="Bij een emissie van een gevaarlijke stof kan het effectgebied worden weergeven met een vlak, de zogenaamde Gasmal. Bij een verwachte draaiing van de wind kun je weergeven wat het verwachte effectgebied gaat worden door deze mal te plaatsen met een tijdstip wanneer verwacht wordt dat het effectgebied zich verplaatst."/>

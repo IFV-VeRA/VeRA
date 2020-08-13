@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverancier"
-    id="2c69b571-0c7f-4620-ada7-9ae007ea045d"/>
+    id="2c69b571-0c7f-4620-ada7-9ae007ea045d"
+    documentation="een [niet-natuurlijk persoon] die een [product/dienst] levert aan de [veiligheidsregio]"/>

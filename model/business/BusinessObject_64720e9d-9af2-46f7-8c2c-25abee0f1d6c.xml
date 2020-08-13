@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hellingspercentage"
+    id="64720e9d-9af2-46f7-8c2c-25abee0f1d6c"
+    documentation="Variabele binnen de Risico Index Natuurbranden (RIN). De hellingsgraad is gelijk aan het hoogteverschil Δh gedeeld door de horizontale afstand d (x 100% om dit als&#xD;&#xA;percentage uit te drukken). Het hellingspercentage wordt bepaald door het hoogteverschil in combinatie met de afstand."/>

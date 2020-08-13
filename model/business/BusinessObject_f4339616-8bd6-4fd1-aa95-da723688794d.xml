@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Taakveld"
-    id="f4339616-8bd6-4fd1-aa95-da723688794d"/>
+    id="f4339616-8bd6-4fd1-aa95-da723688794d"
+    documentation="voor alle Veiligheidsregio’s herkenbare aanduiding van een groep te verrichten werkzaamheden."/>

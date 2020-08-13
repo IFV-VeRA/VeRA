@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat"
+    id="924caff0-f7d6-4305-ace9-4990f6ed7154"
+    documentation="Het resultaat van het uitvoeren van een toetsactiviteit (bijvoorbeeld: cijfer aanwezigheid, afronding stage).&#xD;&#xA;&#xD;&#xA;Toelichting: Het resultaat van een uitgevoerde activiteit dat vastgelegd dient te worden om te bepalen of voldaan wordt aan bepaalde key performance indicatoren."/>

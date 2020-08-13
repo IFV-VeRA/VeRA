@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Incident"
-    id="e454c94f-aab6-4d61-b45d-7d09121cafc3"/>
+    id="e454c94f-aab6-4d61-b45d-7d09121cafc3"
+    documentation="Het incident waarvoor inzet van [MATERIEEL] en/of [PERSONEEL] wordt gedaan op basis van [INZET BESLUIT] en waarvoor [SPECIALISME] nodig is. Wanneer een geregistreerde melding wordt doorgezet/uitgegeven aan een inzetbepalende medewerker spreken we over een incident. Het incident waarvoor [INZET] van [MATERIEEL] wordt gedaan op basis van [INZET BESLUIT] en waarvoor [SPECIALISME] nodig is.  Een opgetreden [RISICO] m.b.t veiligheid [VEILIGHEIDSRISICO]. Wanneer een geregistreerde [melding] wordt doorgezet/uitgegeven aan een inzetbepalende medewerker spreken we over een [incident]."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wet- en regelgeving"
-    id="bf12aa9b-d4c9-4c3f-a227-2c0598b83175"/>
+    id="bf12aa9b-d4c9-4c3f-a227-2c0598b83175"
+    documentation="van toepassing zijnde wet- en regelgeving, bijvoorbeeld de Wvr of (Bouw)voorschriften."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Functionaliteit"
-    id="fa69dce3-bbdd-4ee7-93ab-6885ebeb6c5b"/>
+    id="fa69dce3-bbdd-4ee7-93ab-6885ebeb6c5b"
+    documentation="Functies die worden aangeboden door een [IT-systeem]."/>

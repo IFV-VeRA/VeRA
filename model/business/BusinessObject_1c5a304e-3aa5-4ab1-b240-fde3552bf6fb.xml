@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkgever"
-    id="1c5a304e-3aa5-4ab1-b240-fde3552bf6fb"/>
+    id="1c5a304e-3aa5-4ab1-b240-fde3552bf6fb"
+    documentation="De in het NHR geregistreerde niet-natuurlijk persoon jegens wie een (natuurlijk) persoon krachtens een arbeidsovereenkomst of (publiekrechtelijke) aanstelling gehouden is tot het verrichten van arbeid. (ontleend aan: arbeidsomstandigheden wet)"/>

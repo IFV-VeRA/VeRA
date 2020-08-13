@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alarmering"
-    id="1bf9bc68-f4e4-47c9-b81d-59cf001a1328"/>
+    id="1bf9bc68-f4e4-47c9-b81d-59cf001a1328"
+    documentation="een mededeling aan de veiligheidsregio door een [natuurlijk persoon] of een [niet-natuurlijk persoon]. Is een kenbaar gemaakte gebeurtenis aan een [meldkamer] of aan een instantie die gedelegeerd registreert t.b.v. een [meldkamer]."/>

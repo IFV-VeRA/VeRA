@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kennisdocument"
-    id="deb1dc4c-e415-446d-9477-20e4d5f98d03"/>
+    id="deb1dc4c-e415-446d-9477-20e4d5f98d03"
+    documentation="Een kennisdocument fysieke veiligheid bevat door experts gevalideerde kennis, best practices en afspraken relevant voor de werkwijze van en samenwerking tussen publieke hulpverleningsdiensten, beleidsmakers en andere belanghebbenden en legt hiermee de gedragen zienswijze en/of professionele standaarden vast."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebouw"
-    id="1990ac8e-fb58-4d8c-adb0-477925181b9f"/>
+    id="1990ac8e-fb58-4d8c-adb0-477925181b9f"
+    documentation="een onroerend goed dat binnen de organisatie wordt gebruikt voor het uitvoeren van werkzaamheden. Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelijke [ruimte], die direct of indirect met de grond is verbonden.  "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwalificatie"
-    id="fdad4a5f-1ce1-403e-a98b-514583c1f6bf"/>
+    id="fdad4a5f-1ce1-403e-a98b-514583c1f6bf"
+    documentation="Specifieke eis waar een persoon met een aanstelling in een functie aan moet voldoen."/>

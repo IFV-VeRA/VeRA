@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwant"
+    id="1d699173-d7e9-42fd-bdd3-886ab8fc3660"
+    documentation="Een verwant is een persoon met een relatie tot een betrokkene en die in het kader van dit proces geïnformeerd wil worden over de desbetreffende betrokkeneAls verwanten bellen met de verwantentelefoon wordt een zoekvraag aangemaakt. Zodra bekend wordt dat een slachtoffer waar een zoekvraag voor uitstaan betrokken is bij de ramp wordt een “Vondst” aangemaakt. Dit kan gelijktijdig met het registreren van de zoekvraag (mits het slachtoffer al geregistreerd is), maar ook op een later moment."/>

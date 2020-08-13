@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Piketvergoeding"
-    id="5fafa5da-46f6-4687-8280-4cc92f1774e7"/>
+    id="5fafa5da-46f6-4687-8280-4cc92f1774e7"
+    documentation="vergoeding voor personen op wie de verplichting rust zich buiten de voor hen geldende werktijden ter beschikking te houden ten behoeve van de incidentbestrijding en crisisbeheersing."/>

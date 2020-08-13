@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Niet-natuurlijk persoon"
-    id="b65f1a6e-69bb-4b12-84ae-77d3023968b8"/>
+    id="b65f1a6e-69bb-4b12-84ae-77d3023968b8"
+    documentation="Een rechtspersoon òf een samenwerkingsverband."/>

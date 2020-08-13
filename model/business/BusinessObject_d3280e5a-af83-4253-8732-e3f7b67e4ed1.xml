@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT systeem"
-    id="d3280e5a-af83-4253-8732-e3f7b67e4ed1"/>
+    id="d3280e5a-af83-4253-8732-e3f7b67e4ed1"
+    documentation="een eenheid van software en/of hardware."/>

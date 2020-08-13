@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bijzonder object"
+    id="9a3ec507-d05d-43d1-b26c-a1f676c68fac"
+    documentation="Een bijzonder object betreft informatie over een object dat zich in het incident- of effectgebied bevindt. Dit object behoeft bijzonder aandacht. Voorbeelden van bijzondere objecten zijn risicoobjecten, zorginstellingen, kazernes, meldkamers, scholen, ziekenhuizen, kerken, moskeen,&#xD;&#xA;winkelcentra etc. Dit is wat anders dan een kwetsbaar object! De informatie over het bijzondere object is van invloed op het operationele optreden en is voor de brandweer en de GHOR op onderdelen essentieel. De informatie moet wel binnen het omgevingsbeeld geplaatst worden (gerelateerd aan het incident). Informatie over bijzondere objecten zijn ook voor de opvang en verzorging (gemeente) van belang. Afhankelijk van het object zal de gemeente wel of geen opvang moeten regelen. Als voorbeeld: mensen in een ziekenhuis worden niet door de gemeente opgevangen, dit is een&#xD;&#xA;activiteit van de GHOR."/>

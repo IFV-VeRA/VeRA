@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Materieel spreidingsplan"
-    id="2a9b92cc-0fef-48ea-abf6-6ec50df66cec"/>
+    id="2a9b92cc-0fef-48ea-abf6-6ec50df66cec"
+    documentation="plan waarin de spreiding en beschikbaarheid van verschillend [materieel], waaronder voertuigensoorten,  staat beschreven ten behoeve van bedrijfsvoering of grootschalige incidentbestrijding. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contract (SLA)"
-    id="6900d3ba-6244-4d29-81d6-6fc731b98e0a"/>
+    id="6900d3ba-6244-4d29-81d6-6fc731b98e0a"
+    documentation="Bindende afspraak tussen veiligheidsregio en een [leverancier] rondom het leveren van [product]en of [dienst]en."/>

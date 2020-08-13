@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vraag-antwoord combinatie"
-    id="d72db3a5-687e-484c-b36f-60c42378c4a7"/>
+    id="d72db3a5-687e-484c-b36f-60c42378c4a7"
+    documentation="een veelgestelde vraag van een [klant] en een antwoord daarop. "/>

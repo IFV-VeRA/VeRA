@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstapplaats"
-    id="2da8f688-afbc-458c-bf44-70721805b444">
+    id="2da8f688-afbc-458c-bf44-70721805b444"
+    documentation="Het bepalen en afstemmen van de opstapplaats gebeurt meestal i.o.m. Politie/COPI voor het verplaatsen van mens en dier. Dit is input voor het  inzetplan Verplaatsen mens en dier, op basis van de inzetopdracht en het&#xD;&#xA;totaalbeeld.">
   <properties
       key="Publiceren"
       value="Softwarecatalogus en GEMMA Online en redactie"/>

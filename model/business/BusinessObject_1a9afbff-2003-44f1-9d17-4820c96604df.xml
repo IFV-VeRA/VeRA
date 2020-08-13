@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prestatie-afspraak"
-    id="1a9afbff-2003-44f1-9d17-4820c96604df"/>
+    id="1a9afbff-2003-44f1-9d17-4820c96604df"
+    documentation="afspraak over de [KPI's] en kwaliteitseisen van door een [leverancier] te leveren diensten en/of goederen"/>

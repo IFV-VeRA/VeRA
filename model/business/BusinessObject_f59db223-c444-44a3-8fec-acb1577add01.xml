@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melder"
-    id="f59db223-c444-44a3-8fec-acb1577add01"/>
+    id="f59db223-c444-44a3-8fec-acb1577add01"
+    documentation="Is de [NATUURLIJK PERSOON] of het [APPARAAT]  die de melding kenbaar maakt bij de [meldkamer]."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autorisatie"
-    id="afb63c55-ee68-4d5b-b405-894a1bcc75fb"/>
+    id="afb63c55-ee68-4d5b-b405-894a1bcc75fb"
+    documentation="Het toegangsrecht van een identiteit tot een gegevensobject, bestand of dienst. Autorisatie is een [beheersmaatregel] en is het proces waarin een [medewerker] rechten krijgt op het benaderen van een [object] (een bestand of [systeem] [systeemsoftware] middels een [token]. De autorisatie wordt toegekend door de [eigenaar] van het object. "/>

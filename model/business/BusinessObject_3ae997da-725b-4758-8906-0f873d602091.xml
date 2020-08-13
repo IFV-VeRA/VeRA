@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opslag"
-    id="3ae997da-725b-4758-8906-0f873d602091"/>
+    id="3ae997da-725b-4758-8906-0f873d602091"
+    documentation="Locatie waar [gevaarlijke stof]fen worden opgeslagen."/>

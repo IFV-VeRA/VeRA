@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bijstandsaanvraag"
-    id="a1bcb444-959d-4c09-ba92-f577cf969cfe"/>
+    id="a1bcb444-959d-4c09-ba92-f577cf969cfe"
+    documentation="Ondersteuning van een veiligheidsregio bij het bestrijden van een brand, ramp of crisis die het niveau of de capaciteit van de veiligheidsregio te boven gaat, of bij ernstige vrees voor het ontstaan daarvan, door een andere veiligheidsregio, politie, defensie en/of andere hulpdiensten.&#xD;&#xA;&#xD;&#xA;Toelichting: Met het informatieproduct ‘bijstandsaanvraag’ wordt de aanvraag voor aanvullend potentieel van buiten de eigen dienst bedoeld. De bijstandsaanvraag wordt aangevraagd door het&#xD;&#xA;bevoegd gezag. In de praktijk wordt de gemeente geïnformeerd, maar regelt de kolom (bijv. GHOR, Brandweer) de bijstand zelf."/>

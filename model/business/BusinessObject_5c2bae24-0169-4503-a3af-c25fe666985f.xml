@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repressief object"
+    id="5c2bae24-0169-4503-a3af-c25fe666985f"
+    documentation="Voor de brandweer relevant - (roerend goed, onroerend goed, terrein, gebied, weg, spoorbaandeel, waterdeel), met alle daarbij behorende gegevens (basis, preventief, preparatief en repressief)."/>

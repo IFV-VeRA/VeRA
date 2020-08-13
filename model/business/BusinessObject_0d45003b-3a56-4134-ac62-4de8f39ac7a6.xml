@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvalsplan"
-    id="0d45003b-3a56-4134-ac62-4de8f39ac7a6"/>
+    id="0d45003b-3a56-4134-ac62-4de8f39ac7a6"
+    documentation="Plan dat vóór de ingebruikname van een ruimte is opgesteld door de brandweer. Dit plan bevat alle&#xD;&#xA;informatie die de brandweer nodig heeft om snel en effectief te kunnen werken."/>

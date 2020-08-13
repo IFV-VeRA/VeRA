@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunning"
-    id="a22e88ac-fdcb-43cf-bc81-632bf488cab6"/>
+    id="a22e88ac-fdcb-43cf-bc81-632bf488cab6"
+    documentation="afgegeven toestemming voor het uitvoeren van activiteiten conform een [regeling]. Het verlenen van een vergunning aan een [niet-natuurlijk persoon] bijvoorbeeld een [gemeente]. "/>

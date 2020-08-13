@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prioriteit"
-    id="e649affa-d7e2-4aa8-9747-709320133993"/>
+    id="e649affa-d7e2-4aa8-9747-709320133993"
+    documentation="Is een weergave van de [urgentie] van een [incident]. Geeft de [urgentie] van een [rit]. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leerovereenkomst"
-    id="35e98a85-068c-403b-bb58-fab83e6d8ccf"/>
+    id="35e98a85-068c-403b-bb58-fab83e6d8ccf"
+    documentation="De overeenkomst die wordt afgesloten tussen de werkgever, de lerende en het opleidingsinstituut waarin de verantwoordelijkheden van deze partijen beschreven staan."/>

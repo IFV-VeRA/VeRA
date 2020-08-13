@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omgevingsvisie"
-    id="03b5db3f-d039-4889-8324-08ef1ee7fd15"/>
+    id="03b5db3f-d039-4889-8324-08ef1ee7fd15"
+    documentation="visie op het aanpassen of instand houden van de leefomgeving."/>

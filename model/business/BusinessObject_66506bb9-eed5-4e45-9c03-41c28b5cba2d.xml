@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gevaarlijke stof"
-    id="66506bb9-eed5-4e45-9c03-41c28b5cba2d"/>
+    id="66506bb9-eed5-4e45-9c03-41c28b5cba2d"
+    documentation="Gevaarlijke stoffen zijn stoffen waarvan gebruik, transport of opslag risico’s met zich meebrengen. Deze risico’s kunnen zijn explosiegevaar, brand, giftigheid of radioactiviteit"/>

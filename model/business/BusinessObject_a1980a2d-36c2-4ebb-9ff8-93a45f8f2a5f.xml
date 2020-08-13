@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inzetbepaling"
-    id="a1980a2d-36c2-4ebb-9ff8-93a45f8f2a5f"/>
+    id="a1980a2d-36c2-4ebb-9ff8-93a45f8f2a5f"
+    documentation="[Inzetvoorstel] samen met [inzetbehoefte] vormen inzetbepaling."/>
