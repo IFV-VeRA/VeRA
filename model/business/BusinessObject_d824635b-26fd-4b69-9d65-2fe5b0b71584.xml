@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Paraatheid/inzetbaarheid"
     id="d824635b-26fd-4b69-9d65-2fe5b0b71584"
-    documentation="De beschikbaarheid van een persoon met een piketfunctie."/>
+    documentation="De beschikbaarheid van een persoon met een piketfunctie.&#xD;&#xA;&#xD;&#xA;Context: Inzetbaar wordt hier gebruikt in de zin van dat afhankelijk van de status die de eenheid op dat moment heeft die wel of niet meegenomen mag worden een in inzetselectie/inzetvoorstel voor een ander incident. Hierbij kan ook de prioriteit van een incident een rol spelen. Bij Prio 1 incidenten ben je niet beschikbaar tot je inzetbaar meldt. Bij lage prio incidenten kan ingesteld worden dat, dit overruled wordt bij bepaalde statussen. Vooral tijdens het opkomen naar de kazerne en aanrijden is het vaak nog mogelijk om te hangen naar incident met hogere prioriteit. Als er al ingezet wordt is dit vaak lastiger en kost meer tijd."/>

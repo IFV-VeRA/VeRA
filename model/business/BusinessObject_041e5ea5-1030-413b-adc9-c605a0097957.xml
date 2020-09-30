@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Herbezetting"
+    id="041e5ea5-1030-413b-adc9-c605a0097957"
+    documentation="De brandweer gaat standaard met zes mensen in een blusvoertuig naar een brand.  Elke GRIP-fase kent een andere bezetting. Als het nodig is wordt er opgeschaald of afgeschaald. Als er onvoldoende bezetting is dan ga je herbezetten. Dit is een vervolgactie van restdekking."/>

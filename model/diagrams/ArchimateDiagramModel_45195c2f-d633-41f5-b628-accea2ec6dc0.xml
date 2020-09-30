@@ -442,16 +442,17 @@
                 href="AccessRelationship_682fc4c6-a98a-4b97-9aa2-4ca21aac5003.xml#682fc4c6-a98a-4b97-9aa2-4ca21aac5003"/>
           </sourceConnections>
           <bounds
+              x="12"
               y="36"
               width="145"
-              height="289"/>
+              height="301"/>
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="7622f684-1686-492a-b0e9-4d1a2e4a7221"
               targetConnections="6b81d6ba-6d63-4e48-a50b-af45a9235df3">
             <bounds
                 x="12"
-                y="36"
+                y="42"
                 width="120"
                 height="49"/>
             <archimateElement
@@ -464,7 +465,7 @@
               targetConnections="77f679c6-3a01-481b-8dba-bc97984a46ec">
             <bounds
                 x="12"
-                y="156"
+                y="162"
                 width="120"
                 height="55"/>
             <archimateElement
@@ -477,7 +478,7 @@
               targetConnections="6c0b2574-b863-4567-9670-551c733bcbd7">
             <bounds
                 x="12"
-                y="216"
+                y="222"
                 width="120"
                 height="55"/>
             <archimateElement
@@ -490,7 +491,7 @@
               targetConnections="8e5cbcd0-1eeb-4da9-8963-02e82d014e65">
             <bounds
                 x="12"
-                y="96"
+                y="102"
                 width="120"
                 height="55"/>
             <archimateElement
@@ -903,7 +904,7 @@
           id="817cf44f-96ce-4308-8ae9-4647c7b9ba99"
           targetConnections="e7f5fab9-18df-49c4-b973-8c3e26aed4c5"
           lineColor="#000000"
-          fillColor="#ffffb5">
+          fillColor="#ffff00">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="00a09409-c3dd-436e-bb73-2a382ce59ea6"
