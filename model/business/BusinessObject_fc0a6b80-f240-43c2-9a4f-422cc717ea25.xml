@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Post"
     id="fc0a6b80-f240-43c2-9a4f-422cc717ea25"
-    documentation="betreft de set aan basiskenmerken over de vestigingslocaties van brandweerkazernes, ambulanceposten, meldkamers, alsmede de locaties van directe [ketenpartners] zoals [politie], [gemeenten], Defensie, KNRM, Reddingsbrigade, Justitie, Waterschappen e.d.     "/>
+    documentation="betreft de set aan basiskenmerken over de vestigingslocaties van brandweerkazernes, ambulanceposten, meldkamers, alsmede de locaties van directe [ketenpartners] zoals [politie], [gemeenten], Defensie, KNRM, Reddingsbrigade, Justitie, Waterschappen e.d.     ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

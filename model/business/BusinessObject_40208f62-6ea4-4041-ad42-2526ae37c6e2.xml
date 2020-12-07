@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regeling"
     id="40208f62-6ea4-4041-ad42-2526ae37c6e2"
-    documentation="een verbindend voorschrift zoals een verordening"/>
+    documentation="een verbindend voorschrift zoals een verordening">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

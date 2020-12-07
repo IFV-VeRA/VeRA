@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Taakveld"
     id="f4339616-8bd6-4fd1-aa95-da723688794d"
-    documentation="voor alle Veiligheidsregio’s herkenbare aanduiding van een groep te verrichten werkzaamheden."/>
+    documentation="voor alle Veiligheidsregio’s herkenbare aanduiding van een groep te verrichten werkzaamheden.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

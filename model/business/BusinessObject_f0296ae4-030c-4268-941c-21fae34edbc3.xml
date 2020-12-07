@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tijdregistratie"
     id="f0296ae4-030c-4268-941c-21fae34edbc3"
-    documentation="Het registreren waaraan de tijd van medewerkers is besteedt."/>
+    documentation="Het registreren waaraan de tijd van medewerkers is besteedt.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

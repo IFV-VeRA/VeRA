@@ -12,4 +12,20 @@
   <properties
       key="Object ID"
       value="b83e9e4c-c133-41a1-911d-afe3ec9ffcc0"/>
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
 </archimate:ApplicationComponent>

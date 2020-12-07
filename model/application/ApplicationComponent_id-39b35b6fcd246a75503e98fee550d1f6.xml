@@ -12,4 +12,6 @@
   <properties
       key="GEMMA type"
       value="Referentiecomponent"/>
+  <properties
+      key="BBN"/>
 </archimate:ApplicationComponent>

@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omgevingsvisie"
     id="03b5db3f-d039-4889-8324-08ef1ee7fd15"
-    documentation="Een beschrijving van de hoofdlijnen van de kwaliteit van de fysieke leefomgeving, van de voorgenomen ontwikkeling, het gebruik, het beheer, de bescherming en het behoud van het grondgebied en van de hoofdzaken van het voor de fysieke leefomgeving te voeren integrale beleid."/>
+    documentation="Een beschrijving van de hoofdlijnen van de kwaliteit van de fysieke leefomgeving, van de voorgenomen ontwikkeling, het gebruik, het beheer, de bescherming en het behoud van het grondgebied en van de hoofdzaken van het voor de fysieke leefomgeving te voeren integrale beleid.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

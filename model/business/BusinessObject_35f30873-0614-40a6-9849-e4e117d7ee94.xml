@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Project"
     id="35f30873-0614-40a6-9849-e4e117d7ee94"
-    documentation="vooraf omschreven, gezamenlijk te verrichten (eenmalige) werkzaamheden, leidend tot een duidelijk omschreven eindproduct. "/>
+    documentation="vooraf omschreven, gezamenlijk te verrichten (eenmalige) werkzaamheden, leidend tot een duidelijk omschreven eindproduct. ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

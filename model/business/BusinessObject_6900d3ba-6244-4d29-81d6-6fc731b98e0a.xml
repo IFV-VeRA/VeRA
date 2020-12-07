@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contract (SLA)"
     id="6900d3ba-6244-4d29-81d6-6fc731b98e0a"
-    documentation="Bindende afspraak tussen veiligheidsregio en een [leverancier] rondom het leveren van [product]en of [dienst]en."/>
+    documentation="Bindende afspraak tussen veiligheidsregio en een [leverancier] rondom het leveren van [product]en of [dienst]en.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

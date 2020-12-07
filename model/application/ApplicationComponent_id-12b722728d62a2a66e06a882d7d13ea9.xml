@@ -12,4 +12,28 @@
   <properties
       key="Object ID"
       value="70c6eb01-c536-4cf2-aefa-a924e3501cfd"/>
+  <properties
+      key="BBN"
+      value="BBN2"/>
+  <properties
+      key="BIV score BBN"
+      value="222"/>
+  <properties
+      key="Beschikbaarheid"
+      value="2"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers; toelichting: De component ondersteunt het opslaan en het naar andere applicaties ontsluiten van gegevens over alle zaken, van elk type. Opslag vindt plaats conform het RGBZ waarin objecten, gegevens daarvan en onderlinge relaties zijn beschreven. Het bevat echter niet alle gegevens uit het RGBZ: documenten worden opgeslagen in het documentenregistratiecomponent, medewerkergegevens in de medewerkerregistratiecomponent, etc."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers;"/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : schade te herstellen door ambtelijke opschaling;"/>
 </archimate:ApplicationComponent>

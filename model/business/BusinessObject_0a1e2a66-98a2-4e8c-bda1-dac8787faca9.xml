@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inzetbehoefte"
     id="0a1e2a66-98a2-4e8c-bda1-dac8787faca9"
-    documentation="Een inzetbehoefte is in termen van GMS niet gelijk aan een ‘inzetvoorstel’. Een inzetbehoefte is de slagkracht die nodig is voor het efficiënt en effectief kunnen bestrijden van een bepaald incidenttype, uitgedrukt in soorten en aantallen eenheden en functionarissen (materieel)."/>
+    documentation="Een inzetbehoefte is in termen van GMS niet gelijk aan een ‘inzetvoorstel’. Een inzetbehoefte is de slagkracht die nodig is voor het efficiënt en effectief kunnen bestrijden van een bepaald incidenttype, uitgedrukt in soorten en aantallen eenheden en functionarissen (materieel).">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

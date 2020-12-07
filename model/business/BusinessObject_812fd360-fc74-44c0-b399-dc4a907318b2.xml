@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvraag"
     id="812fd360-fc74-44c0-b399-dc4a907318b2"
-    documentation="Op basis van een uitvraagprotocol stelt de multidisciplinaire intakecentralist vast wat de noodhulpvraag is. Hij/ zij zorgt zoveel als mogelijk voor een eerste alarmering van eenheden. Dit gebeurt in de regel binnen 30 seconden na start van het uitvragen (Leidraad Repressieve Basisbrandweerzorg 2007). De multi-centralist doet een eerste voorstel tot inzet. Brandweer Nederland bepaalt hiervoor het voor haar relevante deel van het uitvraagprotocol en de regels voor alarmering."/>
+    documentation="Op basis van een uitvraagprotocol stelt de multidisciplinaire intakecentralist vast wat de noodhulpvraag is. Hij/ zij zorgt zoveel als mogelijk voor een eerste alarmering van eenheden. Dit gebeurt in de regel binnen 30 seconden na start van het uitvragen (Leidraad Repressieve Basisbrandweerzorg 2007). De multi-centralist doet een eerste voorstel tot inzet. Brandweer Nederland bepaalt hiervoor het voor haar relevante deel van het uitvraagprotocol en de regels voor alarmering.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

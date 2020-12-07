@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mandaatregeling"
     id="ce974025-7f85-4285-b6a5-b450bf761e56"
-    documentation="is de bevoegdheid om in naam van een ander te handelen, maar zonder de daarbij horende verantwoordelijkheid. "/>
+    documentation="is de bevoegdheid om in naam van een ander te handelen, maar zonder de daarbij horende verantwoordelijkheid. ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

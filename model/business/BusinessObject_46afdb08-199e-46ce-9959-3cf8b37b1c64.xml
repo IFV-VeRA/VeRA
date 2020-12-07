@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerkersovereenkomst"
     id="46afdb08-199e-46ce-9959-3cf8b37b1c64"
-    documentation="een overeenkomst tussen de veiligheidsregio en een uitvoerende organisatie waarin afspraken zijn gemaakt over het opslaan, bewerken, versturen of  gebruiken van persoonsgegevens.  "/>
+    documentation="een overeenkomst tussen de veiligheidsregio en een uitvoerende organisatie waarin afspraken zijn gemaakt over het opslaan, bewerken, versturen of  gebruiken van persoonsgegevens.  ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

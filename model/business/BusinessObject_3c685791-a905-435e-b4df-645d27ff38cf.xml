@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Situatiebeeld mono"
     id="3c685791-a905-435e-b4df-645d27ff38cf"
-    documentation="De situatie rapportage betreft de formele rapportage met als onderwerp het totaalbeeld, verslaglegging van de actuele situatie, verwachte ontwikkelingen, knelpunten, te nemen&#xD;&#xA;besluitpunten en/of gevraagde terugkoppeling. Bevolkingszorg is de bron van het monobeeld en wil het multi-beeld ontvangen. Elke stafsectie heeft een monobeeld, wat meegenomen wordt in het totaalbeeld. "/>
+    documentation="De situatie rapportage betreft de formele rapportage met als onderwerp het totaalbeeld, verslaglegging van de actuele situatie, verwachte ontwikkelingen, knelpunten, te nemen&#xD;&#xA;besluitpunten en/of gevraagde terugkoppeling. Bevolkingszorg is de bron van het monobeeld en wil het multi-beeld ontvangen. Elke stafsectie heeft een monobeeld, wat meegenomen wordt in het totaalbeeld. ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

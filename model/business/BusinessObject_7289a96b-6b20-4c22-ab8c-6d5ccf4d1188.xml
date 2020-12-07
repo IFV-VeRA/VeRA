@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Managementinformatie"
     id="7289a96b-6b20-4c22-ab8c-6d5ccf4d1188"
-    documentation="Managementinformatie bestaat uit de (bewerkte) gegevens die de leiding nodig heeft voor de besturing en beheersing van de organisatie alsmede de (bewerkte) gegevens die de leiding nodig heeft om verantwoording over haar functioneren af te leggen. In het kort gaat het dus om stuur- en verantwoordingsinformatie."/>
+    documentation="Managementinformatie bestaat uit de (bewerkte) gegevens die de leiding nodig heeft voor de besturing en beheersing van de organisatie alsmede de (bewerkte) gegevens die de leiding nodig heeft om verantwoording over haar functioneren af te leggen. In het kort gaat het dus om stuur- en verantwoordingsinformatie.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

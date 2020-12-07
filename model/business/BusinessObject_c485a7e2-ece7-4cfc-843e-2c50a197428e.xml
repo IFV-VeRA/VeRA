@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanstellingskeuring (AK)"
     id="c485a7e2-ece7-4cfc-843e-2c50a197428e"
-    documentation="Naast PPMO kent de rechtspositie (CAR-UWO) nog een andere keuring. Dat is de aanstellingskeuring. De AK wordt afgenomen om te bepalen of de kandidaat geschikt is voor de repressieve functie. De inhoud van de AK is op een groot aantal punten gelijk aan PPMO. Daarom wordt de AK gezien als eerste keuringsmoment, een nulmeting."/>
+    documentation="Naast PPMO kent de rechtspositie (CAR-UWO) nog een andere keuring. Dat is de aanstellingskeuring. De AK wordt afgenomen om te bepalen of de kandidaat geschikt is voor de repressieve functie. De inhoud van de AK is op een groot aantal punten gelijk aan PPMO. Daarom wordt de AK gezien als eerste keuringsmoment, een nulmeting.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

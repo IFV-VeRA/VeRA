@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebouw"
     id="1990ac8e-fb58-4d8c-adb0-477925181b9f"
-    documentation="een onroerend goed dat binnen de organisatie wordt gebruikt voor het uitvoeren van werkzaamheden. Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelijke [ruimte], die direct of indirect met de grond is verbonden.  "/>
+    documentation="een onroerend goed dat binnen de organisatie wordt gebruikt voor het uitvoeren van werkzaamheden. Vrijstaande, overdekte en geheel of gedeeltelijk met wanden omsloten toegankelijke [ruimte], die direct of indirect met de grond is verbonden.  ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

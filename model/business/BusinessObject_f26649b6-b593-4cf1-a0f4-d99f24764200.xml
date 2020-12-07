@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omgevingsbeeld"
     id="f26649b6-b593-4cf1-a0f4-d99f24764200"
-    documentation="Een omgevingsbeeld bestaat uit: o Informatiebehoefte (Welke vragen leven er? Welke geruchten doen de ronde?); &#xD;&#xA;o Schadebeperking (Vertoond gedrag, hulpvraag, zelfredzaamheid);&#xD;&#xA;o Betekenisgeving (Hoe wordt het incident buiten geduid?). &#xD;&#xA;Naar aanleiding van het omgevingsbeeld wordt een omgevingsanalyse en een adviesrapport opgesteld, op basis waarvan cmmunicatiemiddelen en -activiteiten worden ontwikkeld (geproduceed) en ingezet. Dit wordt ook omschreven als de 'ogen en oren' voor de communicatieadviseur ROT en/of het hoofd taakorganisatie Communicatie."/>
+    documentation="Een omgevingsbeeld bestaat uit: o Informatiebehoefte (Welke vragen leven er? Welke geruchten doen de ronde?); &#xD;&#xA;o Schadebeperking (Vertoond gedrag, hulpvraag, zelfredzaamheid);&#xD;&#xA;o Betekenisgeving (Hoe wordt het incident buiten geduid?). &#xD;&#xA;Naar aanleiding van het omgevingsbeeld wordt een omgevingsanalyse en een adviesrapport opgesteld, op basis waarvan cmmunicatiemiddelen en -activiteiten worden ontwikkeld (geproduceed) en ingezet. Dit wordt ook omschreven als de 'ogen en oren' voor de communicatieadviseur ROT en/of het hoofd taakorganisatie Communicatie.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

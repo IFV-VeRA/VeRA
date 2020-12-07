@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product/Dienst"
     id="35c9f6f9-172c-46db-ab81-df24253ac864"
-    documentation="een tastbaar goed of verzameling activiteiten die door de veiligheidsregio geleverd kunnen worden"/>
+    documentation="een tastbaar goed of verzameling activiteiten die door de veiligheidsregio geleverd kunnen worden">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

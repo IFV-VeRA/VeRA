@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Programma"
     id="eeb0addf-86af-42b1-8626-59227fb40efe"
-    documentation="Een verzameling van activiteiten en/of projecten gericht op het nastreven van doelstellingen."/>
+    documentation="Een verzameling van activiteiten en/of projecten gericht op het nastreven van doelstellingen.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

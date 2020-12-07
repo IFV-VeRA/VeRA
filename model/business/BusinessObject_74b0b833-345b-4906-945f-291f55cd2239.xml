@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiebehoefte"
     id="74b0b833-345b-4906-945f-291f55cd2239"
-    documentation="De behoefte van een of meer gebruikers aan specifieke gegevens, informatie of [functionaliteit]."/>
+    documentation="De behoefte van een of meer gebruikers aan specifieke gegevens, informatie of [functionaliteit].">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

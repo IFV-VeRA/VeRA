@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Jaarverslag"
     id="e06dc8fc-4e7d-4bb7-9516-848dea09a7c6"
-    documentation="een jaarrekening is een rapport waarin de financiele ontwikkelingen en de huidige financiele situatie van een onderneming is weegeven. Iedere onderneming in Nederland die is iingeschreven bij de Kvk, is verplicht ieder jaar een jaarrekening openbaar te maken."/>
+    documentation="een jaarrekening is een rapport waarin de financiele ontwikkelingen en de huidige financiele situatie van een onderneming is weegeven. Iedere onderneming in Nederland die is iingeschreven bij de Kvk, is verplicht ieder jaar een jaarrekening openbaar te maken.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

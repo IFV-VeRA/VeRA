@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instrueren (melder)/gealarmeerden"
     id="084792b6-c01a-443d-b1bf-12381f151d1d"
-    documentation="de centralist meldkamer instrueert de melder over eventueel te ondernemen handelingen."/>
+    documentation="de centralist meldkamer instrueert de melder over eventueel te ondernemen handelingen.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

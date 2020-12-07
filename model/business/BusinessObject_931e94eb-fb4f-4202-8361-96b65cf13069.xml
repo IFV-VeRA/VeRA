@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archiefobject"
     id="931e94eb-fb4f-4202-8361-96b65cf13069"
-    documentation="een verzameling gegevens (ook wel: informatie- of gegevensobject) die conform de archiefwet dient te worden gearchiveerd"/>
+    documentation="een verzameling gegevens (ook wel: informatie- of gegevensobject) die conform de archiefwet dient te worden gearchiveerd">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

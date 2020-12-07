@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medewerker"
     id="6c4b06c5-5114-463c-a4f6-7fe6843a6d58"
-    documentation="Is een [PERSOON] met een [AANSTELLING] bij een [WERKGEVER]"/>
+    documentation="Is een [PERSOON] met een [AANSTELLING] bij een [WERKGEVER]">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

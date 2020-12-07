@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Omgevingsplan"
     id="da1ddced-05d7-4d29-9df6-a65a762714a4"
-    documentation="Bron: Omgevingswet, art. 2.4 Definitie: Visie Digitaal Stelsel Omgevingswet 2024, par. 4.3; 10-11-2016 Letterlijke tekst art. 2.4: &quot;De gemeenteraad stelt voor het gehele grondgebied van de gemeente één omgevingsplan vast waarin regels over de fysieke leefomgeving worden opgenomen.&quot; Artikel 4.2.1 voegt daaraan toe: &quot;Het omgevingsplan bevat voor het gehele grondgebied van de gemeente een evenwichtige toedeling van functies aan locaties en andere regels die met het oog daarop nodig zijn.&quot;"/>
+    documentation="Bron: Omgevingswet, art. 2.4 Definitie: Visie Digitaal Stelsel Omgevingswet 2024, par. 4.3; 10-11-2016 Letterlijke tekst art. 2.4: &quot;De gemeenteraad stelt voor het gehele grondgebied van de gemeente één omgevingsplan vast waarin regels over de fysieke leefomgeving worden opgenomen.&quot; Artikel 4.2.1 voegt daaraan toe: &quot;Het omgevingsplan bevat voor het gehele grondgebied van de gemeente een evenwichtige toedeling van functies aan locaties en andere regels die met het oog daarop nodig zijn.&quot;">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

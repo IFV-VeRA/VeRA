@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beleidsuitgangspunt"
     id="01d2ef90-34b0-4dd9-9529-c60a41d4d013"
-    documentation="een gedragslijn voor de verwezenlijking van bepaalde doelstellingen"/>
+    documentation="een gedragslijn voor de verwezenlijking van bepaalde doelstellingen">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkomende betaling"
     id="8840f1e8-15de-4dba-bf0c-55e66fc6d60a"
-    documentation="inkomende geldelijke transactie (van crediteur) waar een levering van een [product/dienst] van de [veiligheidsregio] tegenover staat."/>
+    documentation="inkomende geldelijke transactie (van crediteur) waar een levering van een [product/dienst] van de [veiligheidsregio] tegenover staat.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

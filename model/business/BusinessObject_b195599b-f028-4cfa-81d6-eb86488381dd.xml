@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisatieplan"
     id="b195599b-f028-4cfa-81d6-eb86488381dd"
-    documentation="Het regionaal organisatieplan wordt op grond van artikel 4a van de Brandweerwet 1985 vierjaarlijks door het algemeen bestuur van de Veiligheidsregio vastgesteld. Een organisatieplan beschrijft de diensten en organisaties in de regio. In een organisatieplan wordt uitgelegd hoe de organisatie eruit ziet, waarom en hoe er wordt (samen) gewerkt."/>
+    documentation="Het regionaal organisatieplan wordt op grond van artikel 4a van de Brandweerwet 1985 vierjaarlijks door het algemeen bestuur van de Veiligheidsregio vastgesteld. Een organisatieplan beschrijft de diensten en organisaties in de regio. In een organisatieplan wordt uitgelegd hoe de organisatie eruit ziet, waarom en hoe er wordt (samen) gewerkt.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

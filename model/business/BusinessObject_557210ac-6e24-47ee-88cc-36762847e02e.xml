@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JFTB"
     id="557210ac-6e24-47ee-88cc-36762847e02e"
-    documentation="In de CAR-UWO is geregeld dat jaarlijks de fysieke conditie van de medewerker moet worden getoetst. De Jaarlijkse Fysieke Test Brandweer is een jaarlijkse conditietest die een [werknemer]  met goed [resultaat]  af moet leggen. "/>
+    documentation="In de CAR-UWO is geregeld dat jaarlijks de fysieke conditie van de medewerker moet worden getoetst. De Jaarlijkse Fysieke Test Brandweer is een jaarlijkse conditietest die een [werknemer]  met goed [resultaat]  af moet leggen. ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

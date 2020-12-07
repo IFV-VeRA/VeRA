@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veiligheidsbeheersmaatregel"
     id="df411094-890a-46f5-8944-f8dc030973b5"
-    documentation="voorgenomen actie om de impact van een [veiligheidsrisico] preventief dan wel ten tijde van optreden van [veiligheidsrisico] te minimaliseren op het gebied van veiligheid. Dit is een subtype van [maatregel]."/>
+    documentation="voorgenomen actie om de impact van een [veiligheidsrisico] preventief dan wel ten tijde van optreden van [veiligheidsrisico] te minimaliseren op het gebied van veiligheid. Dit is een subtype van [maatregel].">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

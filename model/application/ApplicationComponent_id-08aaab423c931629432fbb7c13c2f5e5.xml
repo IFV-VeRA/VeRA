@@ -12,4 +12,28 @@
   <properties
       key="GEMMA type"
       value="Referentiecomponent"/>
+  <properties
+      key="BBN"
+      value="BBN2 en beschikbaarheids- en integriteitsmaatregelen op BBN1"/>
+  <properties
+      key="BIV score BBN"
+      value="112"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade).: De component zorgt dat ingediende meldingen van gebruikers gestructureerd worden vastgelegd en efficiënt (bijv. conform ITIL) kunnen worden afgehandeld. Meldingen kunnen bijvoorbeeld betrekking hebben op facilitaire of IT-gerelateerde zaken. Bij voorkeur hebben gebruikers via een netwerkverbinding toegang tot het systeem om te kunnen zien wat de status van een ingediende melding is en om eventueel hierop te reageren. Helpdeskcomponent is met name bedoeld voor ondersteuning van interne medewerkers."/>
+  <properties
+      key="Integriteit"
+      value="1"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : financiële gevolgen: niet meer op te vangen binnen de begroting van de organisatie uitvoeringsorganisatie; geen accountantsverklaring afgegeven;"/>
 </archimate:ApplicationComponent>

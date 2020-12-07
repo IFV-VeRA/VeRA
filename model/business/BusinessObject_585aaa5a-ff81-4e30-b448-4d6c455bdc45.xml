@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prestatie-eis (KPI)"
     id="585aaa5a-ff81-4e30-b448-4d6c455bdc45"
-    documentation="een vooraf gedefinieerde eenheid van [resultaat] om de prestaties van een [organisatie] te analyseren."/>
+    documentation="een vooraf gedefinieerde eenheid van [resultaat] om de prestaties van een [organisatie] te analyseren.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

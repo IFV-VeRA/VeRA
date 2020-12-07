@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Piketfunctie"
     id="f4337691-972d-4d2c-9609-b6b04517188c"
-    documentation="een piketfunctie is een samenstel van op oproepbasis met voorrang te verrichten werkzaamheden met opkomstplicht."/>
+    documentation="een piketfunctie is een samenstel van op oproepbasis met voorrang te verrichten werkzaamheden met opkomstplicht.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

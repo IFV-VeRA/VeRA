@@ -12,4 +12,28 @@
   <properties
       key="GEMMA status"
       value="In gebruik"/>
+  <properties
+      key="BBN"
+      value="BBN2 en beschikbaarheidsmaatregelen op BBN1"/>
+  <properties
+      key="BIV score BBN"
+      value="122"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : irritatie en ongemak bij burgers geventileerd in de media; toelichting: De component kent authenticatie- en autorisatiemogelijkheden om derden toegang te geven tot persoonlijke informatie of dienstverlening. &quot;Derden&quot; kunnen bijvoorbeeld burgers, bedrijven, instellingen of ketenpartners zijn. Via het component kunnen diverse soorten diensten worden geleverd, bij voorkeur via zelfstandig uit te voeren configuratie van het systeem. "/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers;"/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : politieke schade aan een bestuurder: bestuurder moet zich verantwoorden n.a.v. verantwoordings vragen;"/>
 </archimate:ApplicationComponent>

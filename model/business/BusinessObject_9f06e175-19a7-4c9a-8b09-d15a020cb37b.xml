@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vestiging"
     id="9f06e175-19a7-4c9a-8b09-d15a020cb37b"
-    documentation="de [locatie] van de [organisatie] waarmee de veiligheidsregio een [RELATIE] heeft."/>
+    documentation="de [locatie] van de [organisatie] waarmee de veiligheidsregio een [RELATIE] heeft.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

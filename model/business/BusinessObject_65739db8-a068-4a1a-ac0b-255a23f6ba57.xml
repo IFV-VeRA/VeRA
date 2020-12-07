@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overdrachtsdocument"
     id="65739db8-a068-4a1a-ac0b-255a23f6ba57"
-    documentation="Het overdrachtsdocument is een sluitstuk van de operationele crisisorganisatie richting gemeenten. Het overdragen van informatie vanuit de taakorganisatie naar de reguliere organisatie. De overdrachtsformulieren van de taakorganisaties worden door het team Preparatie nafase samengevoegd tot een overdrachtsdossier nafase (incl.&#xD;&#xA;advies) ROT en (indien verzocht) een 1e concept ‘plan van aanpak nafase’, afhankelijk van de regionale voorkeur. "/>
+    documentation="Het overdrachtsdocument is een sluitstuk van de operationele crisisorganisatie richting gemeenten. Het overdragen van informatie vanuit de taakorganisatie naar de reguliere organisatie. De overdrachtsformulieren van de taakorganisaties worden door het team Preparatie nafase samengevoegd tot een overdrachtsdossier nafase (incl.&#xD;&#xA;advies) ROT en (indien verzocht) een 1e concept ‘plan van aanpak nafase’, afhankelijk van de regionale voorkeur. ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties/>
+</archimate:BusinessObject>

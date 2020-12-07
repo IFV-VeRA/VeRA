@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beoordeling medewerker"
     id="787c772e-d030-455f-9bab-e1993cf161b8"
-    documentation="een [evaluatie] van een [medewerker] conform het functieprofiel behorend bij [formatieplaats]."/>
+    documentation="een [evaluatie] van een [medewerker] conform het functieprofiel behorend bij [formatieplaats].">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

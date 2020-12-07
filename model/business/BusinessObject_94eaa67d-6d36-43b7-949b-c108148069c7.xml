@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betekenisgeving"
     id="94eaa67d-6d36-43b7-949b-c108148069c7"
-    documentation="Duiden van de gebeurtenis door deze in een breder perspectief te plaatsen en negatieve gevoelens en emoties te kanaliseren."/>
+    documentation="Duiden van de gebeurtenis door deze in een breder perspectief te plaatsen en negatieve gevoelens en emoties te kanaliseren.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

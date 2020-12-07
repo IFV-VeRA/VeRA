@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkomende post"
     id="9e7c5cf0-ebcc-48fe-8658-cb65c3cdc518"
-    documentation="Het overzichtelijk registreren van toegezonden materiaal, zoals brieven, post- en poststukken, vanuit de [klant] naar de [veiligheidsregio]."/>
+    documentation="Het overzichtelijk registreren van toegezonden materiaal, zoals brieven, post- en poststukken, vanuit de [klant] naar de [veiligheidsregio].">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Salarisverplichting"
     id="c9ffd725-63e5-4996-bf1a-72d935d5525b"
-    documentation="een financiele afspraak conform [dienstbetrekking] voor uitbetaling van loon aan [medewerker]."/>
+    documentation="een financiele afspraak conform [dienstbetrekking] voor uitbetaling van loon aan [medewerker].">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

@@ -12,4 +12,28 @@
   <properties
       key="Object ID"
       value="e6c730eb-778e-4cb9-9ba7-8e752cc0e2eb"/>
+  <properties
+      key="BBN"
+      value="BBN2 en beschikbaarheidsmaatregelen op BBN1"/>
+  <properties
+      key="BIV score BBN"
+      value="122"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade). Toelichting: Bijv. via het ondersteuning diverse HR-processen zoals werving en aanstelling, beoordelen en belonen, bijhouden van verzuim en verlof en overzichten met managementinformatie. Ook kunnen personeelsleden steeds vaker online inzicht krijgen in persoonsgebonden gegevens."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : Organisatiebrede negatieve publiciteit (imagoschade) significant verlies van motivatie van medewerkers."/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers significant verlies van motivatie van medewerkers;"/>
 </archimate:ApplicationComponent>

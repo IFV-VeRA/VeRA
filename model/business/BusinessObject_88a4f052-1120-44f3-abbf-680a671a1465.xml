@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vordering"
     id="88a4f052-1120-44f3-abbf-680a671a1465"
-    documentation="Het terughalen van onrechtmatige betalingen. Het recht van een [individu] op het uitvoeren van een betaling door een andere individu op grond van een afspraak."/>
+    documentation="Het terughalen van onrechtmatige betalingen. Het recht van een [individu] op het uitvoeren van een betaling door een andere individu op grond van een afspraak.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

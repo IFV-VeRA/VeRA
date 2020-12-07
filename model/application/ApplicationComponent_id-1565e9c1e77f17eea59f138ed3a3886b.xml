@@ -12,4 +12,28 @@
   <properties
       key="Object ID"
       value="8304d9dd-4a29-46c5-bd3f-c7db65432275"/>
+  <properties
+      key="BBN"
+      value="BBN2 en beschikbaarheidsmaatregelen op BBN1"/>
+  <properties
+      key="BIV score BBN"
+      value="122"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade). Toelichting: Bijv. door mutaties in medewerkerwerker of salarisgegevens te laten doorvoeren door medewerkers van een HRM-afdeling."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : Organisatiebrede negatieve publiciteit (imagoschade) significant verlies van motivatie van medewerkers."/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : verlies van publiek respect; klachten van burgers significant verlies van motivatie van medewerkers;"/>
 </archimate:ApplicationComponent>

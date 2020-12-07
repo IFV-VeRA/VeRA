@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorwerp"
     id="dd91d42d-7621-444e-8576-07c7e4a1a469"
-    documentation="een roerend goed dat binnen de organisatie wordt gebruikt voor het uitvoeren van werkzaamheden."/>
+    documentation="een roerend goed dat binnen de organisatie wordt gebruikt voor het uitvoeren van werkzaamheden.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

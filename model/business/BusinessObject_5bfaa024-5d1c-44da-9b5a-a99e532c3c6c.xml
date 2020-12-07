@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ziekteverzuim"
     id="5bfaa024-5d1c-44da-9b5a-a99e532c3c6c"
-    documentation="Het ziekteverzuimpercentage is het totaal aantal ziektedagen van de werknemers, in procenten van het totaal aantal beschikbare (werk-/kalender)dagen van de werknemers in de verslagperiode. Het ziekteverzuimpercentage is inclusief het verzuim langer dan een jaar en exclusief zwangerschaps- en bevallingsverlof."/>
+    documentation="Het ziekteverzuimpercentage is het totaal aantal ziektedagen van de werknemers, in procenten van het totaal aantal beschikbare (werk-/kalender)dagen van de werknemers in de verslagperiode. Het ziekteverzuimpercentage is inclusief het verzuim langer dan een jaar en exclusief zwangerschaps- en bevallingsverlof.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

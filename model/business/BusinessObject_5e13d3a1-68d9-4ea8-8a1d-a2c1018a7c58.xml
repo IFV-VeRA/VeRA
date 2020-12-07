@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoopverplichting"
     id="5e13d3a1-68d9-4ea8-8a1d-a2c1018a7c58"
-    documentation="Een contractuele afspraak waar een geldbedrag tegenover staat die door de organisatie aan een debiteur moet worden betaald."/>
+    documentation="Een contractuele afspraak waar een geldbedrag tegenover staat die door de organisatie aan een debiteur moet worden betaald.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

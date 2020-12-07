@@ -12,4 +12,28 @@
   <properties
       key="Object ID"
       value="5fe541d4-590b-4451-8179-4e34ade931a5"/>
+  <properties
+      key="BBN"
+      value="BBN 2 en beschikbaarheids- en integriteitsmaatregelen op BBN1"/>
+  <properties
+      key="BIV score BBN"
+      value="112"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Integriteit"
+      value="1"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : politieke schade aan een bestuurder: bestuurder moet zich verantwoorden n.a.v. verantwoordings vragen;"/>
 </archimate:ApplicationComponent>

@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prestatie-afspraak"
     id="1a9afbff-2003-44f1-9d17-4820c96604df"
-    documentation="afspraak over de [KPI's] en kwaliteitseisen van door een [leverancier] te leveren diensten en/of goederen"/>
+    documentation="afspraak over de [KPI's] en kwaliteitseisen van door een [leverancier] te leveren diensten en/of goederen">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

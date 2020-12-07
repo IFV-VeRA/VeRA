@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beleidsplan"
     id="b2728f91-58f5-469f-ad6f-c09d726f4de5"
-    documentation="Een sturingsmiddel waarmee de [veiligheidsregio] de werkzaamheden richt op de missie, de gemeenschappelijke opdracht of de bestaansreden van de [organisatie]. De missie wordt vertaald in algemene en concrete doelstellingen. De organisatie omschrijft in het beleidsplan hoe de beschikbare mensen en middelen zullen worden ingezet  om deze doelstellingen te realiseren.     "/>
+    documentation="Een sturingsmiddel waarmee de [veiligheidsregio] de werkzaamheden richt op de missie, de gemeenschappelijke opdracht of de bestaansreden van de [organisatie]. De missie wordt vertaald in algemene en concrete doelstellingen. De organisatie omschrijft in het beleidsplan hoe de beschikbare mensen en middelen zullen worden ingezet  om deze doelstellingen te realiseren.     ">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

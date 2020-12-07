@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanstelling"
     id="b969977c-535d-487f-9c2a-af55e33d08fe"
-    documentation="(publiekrechtelijke) overeenkomst tussen een persoon en een werkgever om werkzaamheden te verrichten in een bepaalde functie tegen bepaalde voorwaarden (waaronder vergoeding en inzetbaarheidheid)"/>
+    documentation="(publiekrechtelijke) overeenkomst tussen een persoon en een werkgever om werkzaamheden te verrichten in een bepaalde functie tegen bepaalde voorwaarden (waaronder vergoeding en inzetbaarheidheid)">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

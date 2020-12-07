@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Communicatie-uiting"
     id="9e64b412-c0fd-4a77-bb9f-1435d9b7de27"
-    documentation="een specifieke boodschap die wordt overgebracht aan een specifieke doelgroep."/>
+    documentation="een specifieke boodschap die wordt overgebracht aan een specifieke doelgroep.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

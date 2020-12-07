@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Evaluatie"
     id="f62f9195-653e-45de-a10b-caa7abc9fea7"
-    documentation="Onderzoek naar hoe een bepaalde activiteit is verlopen, welke verbeterpunten er zijn en waar van geleerd kan worden."/>
+    documentation="Onderzoek naar hoe een bepaalde activiteit is verlopen, welke verbeterpunten er zijn en waar van geleerd kan worden.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

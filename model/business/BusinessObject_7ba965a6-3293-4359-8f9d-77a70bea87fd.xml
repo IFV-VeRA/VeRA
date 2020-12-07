@@ -2,4 +2,21 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schadebeperking"
     id="7ba965a6-3293-4359-8f9d-77a70bea87fd"
-    documentation="&quot;Alarmeren en alerteren bij dreiging/gevaren en het bieden van een handelingsperspectief om de schade of impact van de gebeurtenis te beperken&quot;. Het proces Bestuurs- en managementondersteuning levert aan het proces Pers- en publieksvoorlichting informatie over bijvoorbeeld noodverordeningen, noodbevelen en overige bestuurlijke zaken die van belang zijn voor de te volgen gedragslijn door het publiek (schadebeperking). Omgevingszorg voorkomt of beperkt (vervolg)schade via een cyclisch proces van analyse --> advies --> aanpak --> effectmeting."/>
+    documentation="&quot;Alarmeren en alerteren bij dreiging/gevaren en het bieden van een handelingsperspectief om de schade of impact van de gebeurtenis te beperken&quot;. Het proces Bestuurs- en managementondersteuning levert aan het proces Pers- en publieksvoorlichting informatie over bijvoorbeeld noodverordeningen, noodbevelen en overige bestuurlijke zaken die van belang zijn voor de te volgen gedragslijn door het publiek (schadebeperking). Omgevingszorg voorkomt of beperkt (vervolg)schade via een cyclisch proces van analyse --> advies --> aanpak --> effectmeting.">
+  <properties
+      key="BBN"/>
+  <properties
+      key="BIV score BBN"/>
+  <properties
+      key="Beschikbaarheid"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"/>
+  <properties
+      key="Integriteit"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"/>
+  <properties
+      key="Vertrouwelijkheid "/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"/>
+</archimate:BusinessObject>

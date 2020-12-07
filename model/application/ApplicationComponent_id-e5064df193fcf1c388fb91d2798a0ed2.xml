@@ -12,4 +12,28 @@
   <properties
       key="Object ID"
       value="68c63ad9-5fcc-4f02-86af-263a3ac1ab32"/>
+  <properties
+      key="BBN"
+      value="BBN2 en beschikbaarheidsmaatregelen op BBN1 "/>
+  <properties
+      key="BIV score BBN"
+      value="122"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Integriteit"
+      value="2"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="2 : financiële gevolgen: niet meer op te vangen binnen de vastgestelde ruimte binnen de begroting van de organisatie uitvoeringsorganisatie; geen accountantsverklaring afgegeven;"/>
+  <properties
+      key="Vertrouwelijkheid "
+      value="2"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="2 : politieke schade aan een bestuurder: bestuurder moet zich verantwoorden n.a.v. verantwoordings vragen;"/>
 </archimate:ApplicationComponent>
