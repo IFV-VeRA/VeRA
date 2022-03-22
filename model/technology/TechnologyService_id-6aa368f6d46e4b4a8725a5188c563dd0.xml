@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data hosting service"
-    id="id-6aa368f6d46e4b4a8725a5188c563dd0"/>
+    id="id-6aa368f6d46e4b4a8725a5188c563dd0"
+    documentation="database, files, media, etc."/>

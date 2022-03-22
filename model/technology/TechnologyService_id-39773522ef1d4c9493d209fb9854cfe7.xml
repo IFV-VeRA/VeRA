@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Routering service"
-    id="id-39773522ef1d4c9493d209fb9854cfe7"/>
+    id="id-39773522ef1d4c9493d209fb9854cfe7"
+    documentation="Functies: DNS, DHCP, etc."/>
