@@ -475,8 +475,8 @@
           href="AggregationRelationship_id-d50789ccdd3b400b80b501e0c23445e2.xml#id-d50789ccdd3b400b80b501e0c23445e2"/>
     </sourceConnections>
     <bounds
-        x="-1106"
-        y="-390"
+        x="12"
+        y="-396"
         width="1006"
         height="138"/>
     <children
@@ -687,7 +687,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="-372"
+        y="-528"
         width="1006"
         height="109"/>
     <children
