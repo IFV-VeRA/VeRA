@@ -705,9 +705,9 @@
             href="ServingRelationship_id-4498a652ef1c49e29f5a2d5dbfac6856.xml#id-4498a652ef1c49e29f5a2d5dbfac6856"/>
       </sourceConnections>
       <bounds
-          x="228"
+          x="192"
           y="159"
-          width="144"
+          width="180"
           height="55"/>
       <archimateElement
           xsi:type="archimate:CommunicationNetwork"
