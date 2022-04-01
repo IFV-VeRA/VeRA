@@ -139,10 +139,10 @@
           source="id-d84fa20e31654db7aeb8315ec934041b"
           target="id-8d831de74b934169863e0364a6d2ddd4">
         <bendpoints
-            startX="-203"
-            startY="9"
-            endX="49"
-            endY="57"/>
+            startX="-233"
+            startY="-3"
+            endX="48"
+            endY="105"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-4498a652ef1c49e29f5a2d5dbfac6856.xml#id-4498a652ef1c49e29f5a2d5dbfac6856"/>
@@ -150,7 +150,7 @@
       <bounds
           x="83"
           y="168"
-          width="120"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Path"
@@ -267,7 +267,7 @@
             href="ServingRelationship_id-2c692f965b3d4a838df0e0152b42783f.xml#id-2c692f965b3d4a838df0e0152b42783f"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="324"
           y="168"
           width="120"
           height="55"/>
