@@ -220,7 +220,7 @@
         x="12"
         y="-96"
         width="1006"
-        height="289"/>
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bfb90492dd874fbabeaad178c155ece8"
@@ -511,7 +511,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="216"
+        y="132"
         width="1006"
         height="109"/>
     <children
