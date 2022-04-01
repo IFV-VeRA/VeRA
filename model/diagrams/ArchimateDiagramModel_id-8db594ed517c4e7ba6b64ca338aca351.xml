@@ -137,15 +137,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d07d252ee41440f8bf38d43ff0e47a62"
-        source="id-3137f06897ee4f1e8df537fb7493de29"
-        target="id-d5433305786d4daa95536d99b90d700a">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-8ad929e6bc0a44ddbb594f42967a8be3.xml#id-8ad929e6bc0a44ddbb594f42967a8be3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-cebe17e24ab149d48c3ccda00d772ced"
         source="id-3137f06897ee4f1e8df537fb7493de29"
         target="id-23d156ccde3f4f4aa208a0fa4d35cbda">
@@ -271,19 +262,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d5433305786d4daa95536d99b90d700a"
-        targetConnections="id-d07d252ee41440f8bf38d43ff0e47a62">
-      <bounds
-          x="34"
-          y="216"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:CommunicationNetwork"
-          href="CommunicationNetwork_id-8cd93aac22a747ee822b40196c202ccb.xml#id-8cd93aac22a747ee822b40196c202ccb"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-23d156ccde3f4f4aa208a0fa4d35cbda"
         targetConnections="id-cebe17e24ab149d48c3ccda00d772ced">
       <bounds
@@ -331,8 +309,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-2e18aaf827f542ecb321331bee287465.xml#id-2e18aaf827f542ecb321331bee287465"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-3f55b9ae09ba4b1ba9e841c9ed3f8201.xml#id-3f55b9ae09ba4b1ba9e841c9ed3f8201"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -344,8 +322,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-16d9501c401346f388b15164749dbe2f.xml#id-16d9501c401346f388b15164749dbe2f"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-b6f9383866b64e22b68f29ecbaa09503.xml#id-b6f9383866b64e22b68f29ecbaa09503"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -357,8 +335,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-e155cf8a4ed04ee2821a03f54fd4be13.xml#id-e155cf8a4ed04ee2821a03f54fd4be13"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-547d888ca69043cbbb72d7d26289bc77.xml#id-547d888ca69043cbbb72d7d26289bc77"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -370,8 +348,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-317afb43ad3145539da12fc19ec1a6ac.xml#id-317afb43ad3145539da12fc19ec1a6ac"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-440a03751cf3459d83890a67a6d2a110.xml#id-440a03751cf3459d83890a67a6d2a110"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -383,8 +361,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-ee2761878174454d97232adfa0e1b069.xml#id-ee2761878174454d97232adfa0e1b069"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-6a1b7ce1d65c4a079b84f4861eb8ed68.xml#id-6a1b7ce1d65c4a079b84f4861eb8ed68"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -396,8 +374,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:Path"
-          href="Path_id-826280699472476f845b6df3afb5d85f.xml#id-826280699472476f845b6df3afb5d85f"/>
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-adbf6a431da84d1fa974abb3a014e20c.xml#id-adbf6a431da84d1fa974abb3a014e20c"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

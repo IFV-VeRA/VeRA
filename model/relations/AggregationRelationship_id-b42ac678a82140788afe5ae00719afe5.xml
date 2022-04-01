@@ -6,6 +6,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-9e94822b058445e6aee769b2df5d544c.xml#id-9e94822b058445e6aee769b2df5d544c"/>
   <target
-      xsi:type="archimate:Path"
-      href="Path_id-e155cf8a4ed04ee2821a03f54fd4be13.xml#id-e155cf8a4ed04ee2821a03f54fd4be13"/>
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-547d888ca69043cbbb72d7d26289bc77.xml#id-547d888ca69043cbbb72d7d26289bc77"/>
 </archimate:AggregationRelationship>
