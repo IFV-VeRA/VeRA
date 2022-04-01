@@ -62,7 +62,7 @@
         id="id-3bc3881d69d24e5bbf39e2d79a2bd9d2"
         targetConnections="id-95c5ec044afa4112aa667e084d8bde89">
       <bounds
-          x="336"
+          x="360"
           y="37"
           width="120"
           height="55"/>
@@ -75,7 +75,7 @@
         id="id-ec57e40d976f4f56ab07fc24b6335dc1"
         targetConnections="id-3ff5fcd136bb49f5bc601124f53ba2c9">
       <bounds
-          x="492"
+          x="516"
           y="37"
           width="120"
           height="55"/>
@@ -132,7 +132,7 @@
         id="id-2f76a85ef6374fd59b6c06307a33b3c8"
         targetConnections="id-d50d76cba7a94dc7b50aa67848c6926a id-dcdbb4afdf8a462e9f4395de605b37ef">
       <bounds
-          x="192"
+          x="204"
           y="37"
           width="120"
           height="55"/>
@@ -594,8 +594,8 @@
         id="id-63acd59f939241be89d4c0daa67a4cc9"
         targetConnections="id-8851663519964c848241bac747e77168">
       <bounds
-          x="216"
-          y="36"
+          x="204"
+          y="35"
           width="120"
           height="55"/>
       <archimateElement
@@ -607,7 +607,7 @@
         id="id-c264c018a6734926a61f7dc7b97974a4"
         targetConnections="id-a2e00be3a4df47f29cd60190b995335e">
       <bounds
-          x="386"
+          x="360"
           y="36"
           width="120"
           height="55"/>
@@ -620,7 +620,7 @@
         id="id-a4e631e3209d4bd8ba854709ead962b3"
         targetConnections="id-a658b9f4092443958a32b6efd0eb32d3">
       <bounds
-          x="720"
+          x="672"
           y="36"
           width="120"
           height="55"/>
@@ -633,7 +633,7 @@
         id="id-062d5514918c41cf9f39dcc99610ba3b"
         targetConnections="id-ad834b7451fa4b0ba5f8f561a4a430a1">
       <bounds
-          x="552"
+          x="516"
           y="36"
           width="120"
           height="55"/>
@@ -708,7 +708,7 @@
         id="id-248a7a85198543dc9e2f4f0d50c27623"
         targetConnections="id-db26638be50144c882da300f403244ab">
       <bounds
-          x="192"
+          x="204"
           y="36"
           width="120"
           height="55"/>
@@ -721,7 +721,7 @@
         id="id-db27cdbb92594bdeb9fe02482782c5f8"
         targetConnections="id-1c36ffb6269944f080b7290d5a279030">
       <bounds
-          x="336"
+          x="360"
           y="36"
           width="120"
           height="55"/>
@@ -734,7 +734,7 @@
         id="id-99b3b59a82f54f408626f537d649abd1"
         targetConnections="id-a7f26b5a6c9f46bda82cb4be41d5fac3">
       <bounds
-          x="492"
+          x="516"
           y="36"
           width="120"
           height="55"/>
