@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Patronen voor werkplekken"
+    name="Patroon werkplekken"
     id="id-b9d70595034d4ef8904c9323c61b31a3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
