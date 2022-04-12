@@ -1,0 +1,14 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c6ff2b3b829444b6ad1b69c999e0bd7c">
+  <properties
+      key="ISO 27002 2017"
+      value="Het patchbeheerproces bevat methoden om:"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-83ec2ea35fe840f58bf3dfda24752855.xml#id-83ec2ea35fe840f58bf3dfda24752855"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-d3cf367437b24fdd99d68e3bac05ad06.xml#id-d3cf367437b24fdd99d68e3bac05ad06"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers zijn voorgelicht over de risico’s ten aanzien van surfgedrag en het klikken op onbekende links."
+    id="id-6a37a1b3489f4878948ac847d5775325"
+    documentation="The user community should be&#xD;&#xA;educated and trained so that they&#xD;&#xA;can embrace the security culture&#xD;&#xA;There should be sufficient user&#xD;&#xA;awareness of security issues so&#xD;&#xA;that behavior of users is&#xD;&#xA;compliant with security policies.">
+  <properties
+      key="BIO 2019"
+      value="12.2.1.2.1"/>
+  <properties
+      key="ISOR"
+      value="SVP_U.03.04&#x9;"/>
+</archimate:Principle>
