@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Message broker service"
-    id="id-6ea26b06db1842e593c494d447509102"/>
+    name="Messaging service"
+    id="id-6ea26b06db1842e593c494d447509102"
+    documentation="Service voor het uitwisselen van data (berichten). Er zijn vele begrippen (Message Que, Enterprise Service Bus, Message broker, etc.) die ofewel een variant ofwel een deel van de topologie voor bericht uitwsseling beschrijven."/>

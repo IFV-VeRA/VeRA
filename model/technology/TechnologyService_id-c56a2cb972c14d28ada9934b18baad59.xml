@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Container service"
-    id="id-c56a2cb972c14d28ada9934b18baad59"/>
+    id="id-c56a2cb972c14d28ada9934b18baad59"
+    documentation="Service waarbij kleinschalige applicatie functionaliteiten worden aangeboden die zelfstandig decentraal kunnen worden uitgevoerd. Containers zijn kleiner dan virtuele applicaties maar groter dan microservices."/>
