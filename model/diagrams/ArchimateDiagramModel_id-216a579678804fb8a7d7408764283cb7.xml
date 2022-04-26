@@ -28,15 +28,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ec290abfd2104379a083ffd0213c98bd"
-        source="id-d84bae6830084de9998bcac9ec6b8815"
-        target="id-79e42ce04cba4b059f7ca4b175031e70">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-18e84bb8e55f49c987f76f22851a6f70.xml#id-18e84bb8e55f49c987f76f22851a6f70"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-41102e36601e43f988c193bff3189387"
         source="id-d84bae6830084de9998bcac9ec6b8815"
         target="id-e368c0778e4b4d9c9230cd7f618b2072">
@@ -82,15 +73,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7cabd1eeca2c4f03ab5975333d0aeb06"
-          source="id-e6fcd76495ec42528cd896b55e300500"
-          target="id-79e42ce04cba4b059f7ca4b175031e70">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-67903b9d2d054de99c83845996e4ade8.xml#id-67903b9d2d054de99c83845996e4ade8"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1f4e2004202f4e66b353f1265d75c1c8"
           source="id-e6fcd76495ec42528cd896b55e300500"
           target="id-cff03e35c7254b22a9036c0fd96f80a1">
@@ -128,19 +110,6 @@
       <archimateElement
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-e0ebfe4e252946ea8c05116aa8a90a91.xml#id-e0ebfe4e252946ea8c05116aa8a90a91"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-79e42ce04cba4b059f7ca4b175031e70"
-        targetConnections="id-7cabd1eeca2c4f03ab5975333d0aeb06 id-ec290abfd2104379a083ffd0213c98bd">
-      <bounds
-          x="180"
-          y="168"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyService"
-          href="TechnologyService_id-b603210afa394a7aa701d56824239c8c.xml#id-b603210afa394a7aa701d56824239c8c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
