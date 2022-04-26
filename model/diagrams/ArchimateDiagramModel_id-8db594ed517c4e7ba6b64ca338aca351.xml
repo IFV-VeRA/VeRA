@@ -692,20 +692,32 @@
       content="Container service een specialisatie van applicatie virtualisatie?">
     <bounds
         x="1054"
-        y="-350"
-        width="147"
-        height="63"/>
+        y="-312"
+        width="159"
+        height="54"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-e9245c20369b4397b9ee812d33a2d56a"
       textAlignment="1"
       fillColor="#ffff80"
-      content="Hoe omgaan met identiteiten en toegang als inrichtingsonafhankelijke beschrijving van ADS en FADS?">
+      content="Hoe omgaan met identiteiten en toegang als inrichtings-onafhankelijke beschrijving van ADS en FADS?">
     <bounds
         x="1054"
         y="-228"
-        width="147"
+        width="159"
         height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f213950ff2b94e67b576c6bc8a37e412"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="API gateway service een specialisatie van messaging service?">
+    <bounds
+        x="1054"
+        y="-384"
+        width="159"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
