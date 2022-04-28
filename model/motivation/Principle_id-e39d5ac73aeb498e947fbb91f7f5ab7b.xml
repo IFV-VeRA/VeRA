@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Back-up van informatie"
+    id="id-e39d5ac73aeb498e947fbb91f7f5ab7b"
+    documentation="Regelmatig behoren back-upkopieën van informatie, software&#xD;&#xA;en systeemafbeeldingen te worden gemaakt en getest in&#xD;&#xA;overeenstemming met een overeengekomen back-upbeleid.">
+  <properties
+      key="BIO 2019"
+      value="12.3"/>
+  <properties
+      key="BIO 2019"
+      value="12.3.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingezette aspecten mobiele apparaten"
+    id="id-fb8f19f91aa6420ea90f1d807812a5ca"
+    documentation="Bij de inzet van mobiele apparatuur zijn minimaal&#xD;&#xA;de volgende aspecten geïmplementeerd:&#xD;&#xA;a. In bewustwordingsprogramma’s komen gedragsaspecten&#xD;&#xA;van veilig mobiel werken aan de orde.&#xD;&#xA;b. Het device maakt deel uit van patchmanagement en hardening.&#xD;&#xA;c. Er wordt gebruik gemaakt van Mobile Device Management MDM&#xD;&#xA;of van Mobile Application Management (MAM)-oplossingen.&#xD;&#xA;d. Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken,&#xD;&#xA;waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken&#xD;&#xA;en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking&#xD;&#xA;op alle mobiele apparatuur die de medewerker zakelijk gebruikt.&#xD;&#xA;e. Periodiek wordt getoetst of de punten in lid a), b) en c) worden nageleefd.">
+  <properties
+      key="BIO 2019"
+      value="6.2.1.2"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

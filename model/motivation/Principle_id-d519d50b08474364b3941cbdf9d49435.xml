@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Op basis van een expliciete risicoafweging is bepaald wat het maximaaltoegestane dataverlies is en wat de maximale hersteltijd is na een incident."
+    id="id-d519d50b08474364b3941cbdf9d49435">
+  <properties
+      key="BIO 2019"
+      value="12.3.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

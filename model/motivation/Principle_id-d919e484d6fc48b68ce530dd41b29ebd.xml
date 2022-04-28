@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zero Footprint"
+    id="id-d919e484d6fc48b68ce530dd41b29ebd"
+    documentation="Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet onbewust&#xD;&#xA;wordt opgeslagen (‘zero footprint’). Als zero footprint (nog) niet&#xD;&#xA;realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet&#xD;&#xA;en smartphone) de mogelijkheid om de toegang te beschermen&#xD;&#xA;door middel van een toegangsbeveiligingsmechanisme en, indien&#xD;&#xA;vertrouwelijke gegevens worden opgeslagen, versleuteling van die&#xD;&#xA;gegevens. In het geval van opslag van vertrouwelijke informatie moet&#xD;&#xA;op deze mobiele apparatuur ‘wissen op afstand’ mogelijk zijn.">
+  <properties
+      key="BBN"
+      value="2"/>
+  <properties
+      key="BIO 2019"
+      value="6.2.1.1"/>
+</archimate:Principle>

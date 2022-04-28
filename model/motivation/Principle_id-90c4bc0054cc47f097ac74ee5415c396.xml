@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het back-upproces voorziet in opslag van de back-up op een locatie, waarbijeen incident op de ene locatie niet kan leiden tot schade op de andere."
+    id="id-90c4bc0054cc47f097ac74ee5415c396">
+  <properties
+      key="BIO 2019"
+      value="12.3.1.4"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>
