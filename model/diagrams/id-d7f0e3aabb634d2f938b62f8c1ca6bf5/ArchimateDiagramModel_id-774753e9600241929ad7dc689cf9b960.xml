@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIO Verslaglegging en monitoring (12.4)"
+    id="id-774753e9600241929ad7dc689cf9b960">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-89c4ad5ab43e4224aef3196af53b1878">
+    <bounds
+        x="748"
+        y="295"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-ca6c1e58f0564d6b820b3cf9891bf60f.xml#id-ca6c1e58f0564d6b820b3cf9891bf60f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1321081ab11949e4a8b587ac1f57d5dc">
+    <bounds
+        x="720"
+        y="552"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-e99bbac7f42849fe8a2515038999af58.xml#id-e99bbac7f42849fe8a2515038999af58"/>
+  </children>
+</archimate:ArchimateDiagramModel>
