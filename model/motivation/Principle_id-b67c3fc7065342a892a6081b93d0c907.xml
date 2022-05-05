@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een overzicht van logbestanden die worden gegenereerd."
+    id="id-b67c3fc7065342a892a6081b93d0c907">
+  <properties
+      key="BIO 2019"
+      value="12.4.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

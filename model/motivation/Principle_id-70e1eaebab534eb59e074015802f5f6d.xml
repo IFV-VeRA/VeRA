@@ -1,0 +1,20 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logbestanden van beheerders en operators"
+    id="id-70e1eaebab534eb59e074015802f5f6d">
+  <properties
+      key="BIO 2019"
+      value="12.4.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.4.3"/>
+  <properties
+      key="NEN 7510"
+      value="12.4.3"/>
+  <properties
+      key="ISOR"
+      value="SVP_C.03"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

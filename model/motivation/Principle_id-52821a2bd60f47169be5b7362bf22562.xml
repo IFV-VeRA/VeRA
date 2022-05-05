@@ -1,0 +1,21 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid inzake het gebruik van cryptografische beheersmaatregelen"
+    id="id-52821a2bd60f47169be5b7362bf22562"
+    documentation="Ter bescherming van informatie behoort een beleid voor het gebruik van&#xD;&#xA;cryptografische beheersmaatregelen te worden ontwikkeld en geïmplementeerd.">
+  <properties
+      key="BIO 2019"
+      value="10.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="10.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="10.1.1"/>
+  <properties
+      key="ISOR"
+      value="CVZ_B.03"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

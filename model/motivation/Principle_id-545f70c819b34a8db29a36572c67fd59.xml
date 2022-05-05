@@ -1,0 +1,19 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschermen van informatie in logbestanden"
+    id="id-545f70c819b34a8db29a36572c67fd59">
+  <properties
+      key="BIO 2019"
+      value="12.4.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.4.2"/>
+  <properties
+      key="NEN 7510"
+      value="12.4.2"/>
+  <properties
+      key="ISOR"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

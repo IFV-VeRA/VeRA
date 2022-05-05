@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De informatieverwerkende omgeving wordt gemonitord door een SIEM en/of SOC middels detectie-voorzieningen"
+    id="id-efffbbee89df48dabe305ed96e6e6214">
+  <properties
+      key="BIO 2019"
+      value="12.4.1.3"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

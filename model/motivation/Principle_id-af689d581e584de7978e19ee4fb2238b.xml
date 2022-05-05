@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een logregel bevat in geen geval gegevens die tot hetdoorbreken van de beveiliging kunnen leiden."
+    id="id-af689d581e584de7978e19ee4fb2238b">
+  <properties
+      key="BIO 2019"
+      value="12.4.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

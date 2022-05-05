@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleidsonderwerpen"
+    id="id-2c4a3ebb1e3140dd861112207f4e8578"
+    documentation="(a) Wanneer cryptografie ingezet wordt.&#xD;&#xA;(b) Wie verantwoordelijk is voor de implementatie.&#xD;&#xA;(c) Wie verantwoordelijk is voor het sleutelbeheer.&#xD;&#xA;(d) Welke normen als basis dienen voor cryptografie en de wijze waarop de normen van het Forum worden toegepast.&#xD;&#xA;(e) De wijze waarop het beschermingsniveau vastgesteld wordt.&#xD;&#xA;(f) Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.">
+  <properties
+      key="BIO 2019"
+      value="10.1.1.1"/>
+  <properties
+      key="ISOR"
+      value="CVZ_B.03.01"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

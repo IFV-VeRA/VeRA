@@ -1,0 +1,15 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.1 Cryptografische beheersmaatregelen"
+    id="id-576fb1a134904779b0efe1a97f1208ba"
+    documentation="Zorgen voor correct en doeltreffend gebruik van cryptografie om de vertrouwelijkheid,&#xD;&#xA;authenticiteit en/of integriteit van informatie te beschermen">
+  <properties
+      key="BIO 2019"
+      value="10.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="10.1"/>
+  <properties
+      key="NEN 7510"
+      value="10.1"/>
+</archimate:Goal>

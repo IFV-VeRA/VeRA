@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BIO Malware protectie (12.2)"
+    name="BIO Malware protectie (12.2) en BIO Beheersing van operationele software (12.5)"
     id="id-99ee4de8766f42dcb4bc7f1f3ab8dba4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -253,6 +253,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07875475702449c0aef83451807860e2"
       targetConnections="id-98cafb4b49ca438a9aaa68f099660f91 id-b1785d07fe2d41b4b69b26b15311592e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-971cfda80e3549eaa9be2f463dcbe4ce"
+        source="id-07875475702449c0aef83451807860e2"
+        target="id-c7a03f4b9b9e4c72974123a1d3b0f51d">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-6bb9022fe306466680e92336fe5ebc8c.xml#id-6bb9022fe306466680e92336fe5ebc8c"/>
+    </sourceConnections>
     <bounds
         x="1128"
         y="702"
@@ -307,6 +316,15 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-f68d719efb4d4b7c8455dc02c9dd15d7.xml#id-f68d719efb4d4b7c8455dc02c9dd15d7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-79844f5bf549437c983d4c55ed24b85f"
+        source="id-381c3e4b92224b359e3ae93792bcc2b1"
+        target="id-21b386e210c640b892649c598d384336">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-4dea93e74aea4f41b826cc86c0deea61.xml#id-4dea93e74aea4f41b826cc86c0deea61"/>
     </sourceConnections>
     <bounds
         x="816"
@@ -370,10 +388,10 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="912"
-        y="948"
+        x="648"
+        y="1068"
         width="211"
-        height="109"/>
+        height="145"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-339b852772494ba49daac6ad765f69b9.xml#id-339b852772494ba49daac6ad765f69b9"/>
@@ -398,6 +416,15 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-b5e9a372a48e41168981c486e6828117.xml#id-b5e9a372a48e41168981c486e6828117"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e54c87cf29c14f88803d018bf83e7b3a"
+        source="id-a2672ee39764458280b1797c26e09120"
+        target="id-21b386e210c640b892649c598d384336">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-868f286ca3a842f3a4a1089c8adb8114.xml#id-868f286ca3a842f3a4a1089c8adb8114"/>
     </sourceConnections>
     <bounds
         x="1109"
@@ -455,5 +482,53 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-6cfd61beeafe4ca7b6c72139c4009170.xml#id-6cfd61beeafe4ca7b6c72139c4009170"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-21b386e210c640b892649c598d384336"
+      targetConnections="id-e54c87cf29c14f88803d018bf83e7b3a id-79844f5bf549437c983d4c55ed24b85f">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="900"
+        y="1068"
+        width="277"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-367f378de7844881a8f1c8c8e604a3a0.xml#id-367f378de7844881a8f1c8c8e604a3a0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c7a03f4b9b9e4c72974123a1d3b0f51d"
+      targetConnections="id-971cfda80e3549eaa9be2f463dcbe4ce">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="1296"
+        y="504"
+        width="193"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-9808b92868e2476891d41ade58862a2c.xml#id-9808b92868e2476891d41ade58862a2c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0c78e31fc81d4ba1b871178437836e63"
+      fillColor="#ccccff">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="1200"
+        y="211"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-415a23508e8e4159aa3cc0aa7baef457.xml#id-415a23508e8e4159aa3cc0aa7baef457"/>
   </children>
 </archimate:ArchimateDiagramModel>

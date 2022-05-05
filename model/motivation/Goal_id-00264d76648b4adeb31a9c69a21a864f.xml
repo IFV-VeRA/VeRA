@@ -1,0 +1,14 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verslaglegging en monitoren"
+    id="id-00264d76648b4adeb31a9c69a21a864f">
+  <properties
+      key="BIO 2019"
+      value="12.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.4"/>
+  <properties
+      key="NEN 7510"
+      value="12.4"/>
+</archimate:Goal>

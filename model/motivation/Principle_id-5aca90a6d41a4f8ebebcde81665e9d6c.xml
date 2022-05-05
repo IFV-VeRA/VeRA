@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenissen registreren"
+    id="id-5aca90a6d41a4f8ebebcde81665e9d6c">
+  <properties
+      key="BIO 2019"
+      value="12.4.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.4.1"/>
+  <properties
+      key="NEN 7510"
+      value="A 12.4.1"/>
+</archimate:Principle>
