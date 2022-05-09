@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centrale authenticatieproxy"
+    id="id-4f334372800349e19dac8c6ff0b3a381"
+    documentation="Authenticatie vindt plaats via een centrale authenticatieproxy.&#xA;&#xA;Een dergelijke authenticatieproxy staat in een andere zone in het netwerk en zorgt ervoor dat websites en applicaties niet direct bloot worden gesteld aan de buitenwereld. Het zorgt er ook voor dat er geen inspanning nodig is van ontwikkelaars om authenticatie in te richten. Het voorkomt tevens wildgroei van authenticatieoplossingen en bijbehorende gebruikersgegevens."/>

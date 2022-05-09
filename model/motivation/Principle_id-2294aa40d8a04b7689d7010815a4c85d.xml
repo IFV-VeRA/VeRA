@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijd, plaats en apparaatonafhankelijkheid"
+    id="id-2294aa40d8a04b7689d7010815a4c85d"
+    documentation="De informatievoorziening is tijd-, plaats- en apparaatonafhankelijk beschikbaar.&#xA;&#xA;Klanten en medewerkers hebben alleen een webbrowser en Internetverbinding nodig om toegang te krijgen tot functionaliteit en gegevens die door de organisatie wordt aangeboden. De gebruikersinterface van websites en -applicaties past zich aan aan de omvang en resolutie van het scherm van het apparaat (responsive design) zodat het op alle apparaten goed zichtbaar en bruikbaar is. De systemen die noodzakelijk zijn om digitale diensten aan klanten te kunnen leveren of mobiele medewerkers te ondersteunen zijn ook ’s avonds en in het weekend beschikbaar. Er is binnen de organisatie een draadloos netwerk met toegang tot Internet en met voldoende capaciteit voor gelijktijdig gebruik van meerdere apparaten per gebruiker."/>

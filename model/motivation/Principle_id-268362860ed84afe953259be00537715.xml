@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard infrastructuur"
+    id="id-268362860ed84afe953259be00537715"
+    documentation="De infrastructuur is gestandaardiseerd.&#xA;&#xA;Projecten vragen alleen functionaliteit en capaciteit met een bepaald serviceniveau zodat de infrastructuur zelf zo efficiënt mogelijk kan worden ingericht. De IT-infrastructuur is voorgesorteerd op alle realistische vragen van afnemers. Een vraag van een specifieke afnemer leidt niet tot een nieuwe infrastructuurservice. Voor alle infrastructuurservices worden technologiekeuzen gemaakt, waarbij voldoende vrijheid blijft voor het selecteren van (standaard) applicaties die gebruik maken van de infrastructuur. Bij aanbestedingen van IT-systemen wordt ondersteuning voor de gekozen technologie zoveel mogelijk als knock-out criterium meegenomen.  Er wordt slechts één versie van technologie ondersteund; applicaties die gebruik maken van een oudere versie worden gemigreerd naar nieuwere versies die gebruik maken van de nieuwe versie van de technologie."/>

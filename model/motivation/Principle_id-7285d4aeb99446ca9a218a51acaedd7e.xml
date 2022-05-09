@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centralisatie infrastructuur"
+    id="id-7285d4aeb99446ca9a218a51acaedd7e"
+    documentation="De IT-infrastructuur is gecentraliseerd en geconsolideerd.&#xA;&#xA;Centrale infrastructuur is eenvoudiger te beheren omdat beheer zich op één locatie kan richten. Het zorgt er ook voor dat je gebruik kunt maken van schaalvoordelen waardoor de door de regio's gewenste efficiëntievoordelen kunnen worden gehaald. Het consolideren van applicaties op een gedeelde infrastructuur leidt tot minder fysieke machines waardoor beheer wordt vereenvoudigd en goedkoper wordt. Onderzoek toont aan dat servers gemiddeld genomen een relatief lage bezetting hebben. Virtualisatie is een belangrijke ontwikkeling die consolidatie op een beheersbare en flexibele wijze mogelijk maakt."/>
