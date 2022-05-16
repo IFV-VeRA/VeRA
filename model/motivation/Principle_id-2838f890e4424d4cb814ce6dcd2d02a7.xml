@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sleutelbeheer"
+    name="(Cryptografisch) Sleutelbeheer"
     id="id-2838f890e4424d4cb814ce6dcd2d02a7"
     documentation="Er dient beleid te worden ontwikkeld en geïmplementeerd met betrekking tot&#xD;&#xA;het gebruik, de bescherming en de levensduur van cryptografische sleutels&#xD;&#xA;welke de gehele levensduur van de cryptografische sleutels omvat.">
   <properties

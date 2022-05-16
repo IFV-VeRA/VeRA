@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cap"
+    id="id-1c81695594e54368ac1fb6f6a322a2c3">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f5154eab17dd4d2bab95a86d9ba6e725">
+    <bounds
+        x="1116"
+        y="636"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-b47a12e1029842c792701404db5a561c.xml#id-b47a12e1029842c792701404db5a561c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
