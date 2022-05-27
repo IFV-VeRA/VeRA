@@ -134,6 +134,11 @@
         id="id-8eb94c7d8fad4961a342c2baa15e2711"
         source="id-e17f0353e9474fa38a688698b4017817"
         target="id-69665ea7ebd148d6a771e4b4d2764cdb">
+      <bendpoints
+          startX="300"
+          startY="-9"
+          endX="-12"
+          endY="-123"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-3b0a6d1dee8f41e4893de0f83b9c5811.xml#id-3b0a6d1dee8f41e4893de0f83b9c5811"/>
