@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Load balancing service"
-    id="id-14511786f4b94d568f43e41ac327000a"/>
+    id="id-14511786f4b94d568f43e41ac327000a"
+    documentation="Service die het mogelijk maakt om netwerkverkeer zodanig te beinvloeden dat er geen sprake is van teveel netwerk verkeer."/>

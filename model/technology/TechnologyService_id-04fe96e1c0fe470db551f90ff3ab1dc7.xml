@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtuele applicatie service"
-    id="id-04fe96e1c0fe470db551f90ff3ab1dc7"/>
+    id="id-04fe96e1c0fe470db551f90ff3ab1dc7"
+    documentation="rvice die het mogelijk maakt om een applicatie aan te bieden aan meerdere gebruikers zonder specifieke hardware en operating systeem maar met behulp van een [platform service]"/>

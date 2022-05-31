@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="WiFi"
-    id="id-adbf6a431da84d1fa974abb3a014e20c"/>
+    id="id-adbf6a431da84d1fa974abb3a014e20c"
+    documentation="Draadloos netwerk met beperkt bereik door middel van WiFi stations en daartoe geschikte apparaten (met name Werkplek gerelateerde apparaten)"/>

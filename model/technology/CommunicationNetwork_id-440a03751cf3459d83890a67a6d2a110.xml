@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VPN"
-    id="id-440a03751cf3459d83890a67a6d2a110"/>
+    id="id-440a03751cf3459d83890a67a6d2a110"
+    documentation="Een virtueel netwerk waarbij een lokaal netwerk wordt gecreeerd via een WAN en/of Internet"/>

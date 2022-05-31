@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Telefonie service"
-    id="id-39ace402dff941359e5cf77b862edd3f"/>
+    id="id-39ace402dff941359e5cf77b862edd3f"
+    documentation="Service die het mogelijk maakt om spraakverkeer te regelen"/>

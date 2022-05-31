@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Switch service"
-    id="id-17e2c9f20eca4af7ae239d3ccd8a3b40"/>
+    id="id-17e2c9f20eca4af7ae239d3ccd8a3b40"
+    documentation="Service die het mogelijk maakt om tussen verschillende netwerken te schakelen zoals tussen besloten netwerken onderling (LAN / WAN) en/of met het internet."/>

@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkplek hosting service"
-    id="id-e0ebfe4e252946ea8c05116aa8a90a91"/>
+    id="id-e0ebfe4e252946ea8c05116aa8a90a91"
+    documentation="Service die een complete werkplek levert met een fysieke computer (PC of laptop) waarop een operating systeem draait plus aangesloten scherm, toetsenbord en muis. Deze service maakt het ook mogelijk om lokaal applicaties te draaien. Het kan hier gaan om personal productivity applicaties zoals tekstverwerkers of client-applicaties die verbinding maken met een [applicatie hosting service] of een [Virtuele applicatie service]."/>

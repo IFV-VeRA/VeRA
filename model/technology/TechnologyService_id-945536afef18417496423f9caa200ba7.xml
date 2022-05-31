@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtuele werkplek service"
-    id="id-945536afef18417496423f9caa200ba7"/>
+    id="id-945536afef18417496423f9caa200ba7"
+    documentation="Service die een virtuele werkplek levert met operating systeem maar zonder een fysieke computer (PC of laptop) plus aangesloten scherm, toetsenbord en muis"/>

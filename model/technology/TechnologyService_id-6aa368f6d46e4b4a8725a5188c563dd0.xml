@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data hosting service"
     id="id-6aa368f6d46e4b4a8725a5188c563dd0"
-    documentation="database, files, media, etc."/>
+    documentation="Service die gebruik maakt van specifieke hardware en operating systeem waarmee data kan worden opgeslagen en beheerd. Deze data kan bestaan uit zowel gestructureerde als ongestructureerde gegevens."/>

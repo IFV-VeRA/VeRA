@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4G / 5G"
-    id="id-6a1b7ce1d65c4a079b84f4861eb8ed68"/>
+    id="id-6a1b7ce1d65c4a079b84f4861eb8ed68"
+    documentation="Draadloos netwerk met groot bereik specifiek voor daartoe geschikte apparaten die voorzien zijn van een aansluiting op een aanbieder van deze netwerken (met name Werkplek gerelateerde apparaten)"/>
