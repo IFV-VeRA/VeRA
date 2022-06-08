@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer van verwijderbare media"
+    id="id-d8a9eb8dc5a44f9f931939d072c5f91d"
+    documentation="Voor het beheren van verwijderbare media behoren procedures&#xD;&#xA;te worden geïmplementeerd in overeenstemming met het&#xD;&#xA;classificatieschema dat door de organisatie is vastgesteld.">
+  <properties
+      key="BIO 2019"
+      value="8.3.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.3.1"/>
+  <properties
+      key="NEN 7510"
+      value="8.3.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers toegang verlenen"
+    id="id-67d76b668e8f4625bde13c17c6d178ef"
+    documentation="Een formele gebruikerstoegangsverleningsprocedure behoort te worden&#xD;&#xA;geïmplementeerd om toegangsrechten voor alle typen gebruikers en&#xD;&#xA;voor alle systemen en diensten toe te wijzen of in te trekken.">
+  <properties
+      key="BIO 2019"
+      value="9.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="9.2.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

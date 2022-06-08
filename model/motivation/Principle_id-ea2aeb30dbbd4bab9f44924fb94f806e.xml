@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsvoorwaarden"
+    id="id-ea2aeb30dbbd4bab9f44924fb94f806e">
+  <properties
+      key="BIO 2019"
+      value="7.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="7.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="7.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvaardbaar gebruik van bedrijfsmiddelen"
+    id="id-235aa294f1284104aad7d1c9072dc24b"
+    documentation="Voor het aanvaardbaar gebruik van informatie en van bedrijfsmiddelen die&#xD;&#xA;samenhangen met informatie en informatie verwerkende faciliteiten behoren&#xD;&#xA;regels te worden geïdentificeerd, gedocumenteerd en geïmplementeerd.">
+  <properties
+      key="BIO 2019"
+      value="8.1.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.1.3"/>
+  <properties
+      key="NEN 7510"
+      value="8.1.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

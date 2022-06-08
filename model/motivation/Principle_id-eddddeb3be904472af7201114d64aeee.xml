@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teruggeven van bedrijfsmiddelen"
+    id="id-eddddeb3be904472af7201114d64aeee"
+    documentation="Alle medewerkers en externe gebruikers moeten alle bedrijfsmiddelen&#xD;&#xA;van de organisatie die ze in hun bezit hebben bij beëindiging van&#xD;&#xA;hun dienstverband, contract of overeenkomst terug te geven.">
+  <properties
+      key="BIO 2019"
+      value="8.1.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.1.4"/>
+  <properties
+      key="NEN 7510"
+      value="8.1.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

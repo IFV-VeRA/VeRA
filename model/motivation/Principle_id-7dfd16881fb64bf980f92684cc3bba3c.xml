@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening"
+    id="id-7dfd16881fb64bf980f92684cc3bba3c">
+  <properties
+      key="BIO 2019"
+      value="7.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="7.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="7.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

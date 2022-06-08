@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor het wissen van alle data op het medium, wordt de dataonherstelbaar verwijderd, bijvoorbeeld door minimaal twee keerte overschrijven met vaste data en één keer met random data. Erwordt gecontroleerd of alle data onherstelbaar verwijderd is."
+    id="id-81c86c7303744b1f8f684c6b244287c0">
+  <properties
+      key="BIO 2019"
+      value="8.3.2.3"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

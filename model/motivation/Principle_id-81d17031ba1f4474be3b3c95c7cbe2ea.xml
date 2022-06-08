@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventariseren van bedrijfsmiddelen"
+    id="id-81d17031ba1f4474be3b3c95c7cbe2ea"
+    documentation="Informatie, andere bedrijfsmiddelen die samenhangen met&#xD;&#xA;informatie en informatie verwerkende faciliteiten behoren te&#xD;&#xA;worden geïdentificeerd, en van deze bedrijfsmiddelen behoort&#xD;&#xA;een inventaris te worden opgesteld en onderhouden">
+  <properties
+      key="BIO 2019"
+      value="8.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="8.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Classificatie van informatie"
+    id="id-e04afd65a36746d488b004bbdc120de8"
+    documentation="Informatie behoort te worden geclassificeerd met betrekking tot wettelijke eisen,&#xD;&#xA;waarde, belang en gevoeligheid voor onbevoegde bekendmaking of wijziging.">
+  <properties
+      key="BIO 2019"
+      value="8.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="8.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

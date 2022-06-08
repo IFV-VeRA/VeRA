@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang tot netwerken en netwerkdiensten"
+    id="id-d6dad5aa7a5246a5976a48fae7f07e6b"
+    documentation="Gebruikers behoren alleen toegang te krijgen tot het netwerk en&#xD;&#xA;de netwerkdiensten waarvoor zij specifiek bevoegd zijn.">
+  <properties
+      key="BIO 2019"
+      value="9.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="9.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

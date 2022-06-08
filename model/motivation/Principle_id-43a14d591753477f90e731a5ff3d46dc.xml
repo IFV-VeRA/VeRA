@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eigendom van bedrijfsmiddelen"
+    id="id-43a14d591753477f90e731a5ff3d46dc"
+    documentation="Bedrijfsmiddelen die in het inventarisoverzicht worden&#xD;&#xA;bijgehouden, behoren een eigenaar te hebben.">
+  <properties
+      key="BIO 2019"
+      value="8.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="8.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

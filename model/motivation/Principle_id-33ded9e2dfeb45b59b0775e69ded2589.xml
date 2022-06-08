@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen van bedrijfsmiddelen"
+    id="id-33ded9e2dfeb45b59b0775e69ded2589"
+    documentation="Procedures voor het behandelen van bedrijfsmiddelen behoren te&#xD;&#xA;worden ontwikkeld en geïmplementeerd in overeenstemming met het&#xD;&#xA;informatieclassificatieschema dat is vastgesteld door de organisatie.">
+  <properties
+      key="BIO 2019"
+      value="8.2.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.2.3"/>
+  <properties
+      key="NEN 7510"
+      value="8.2.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

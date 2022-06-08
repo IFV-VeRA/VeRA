@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De directie behoort van alle medewerkers en contractanten te eisendat ze informatiebeveiliging toepassen in overeenstemming met devastgestelde beleidsregels en procedures van de organisatie."
+    id="id-e0777570441d4147855be1c682bcec4c">
+  <properties
+      key="BIO 2019"
+      value="7.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="7.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="7.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

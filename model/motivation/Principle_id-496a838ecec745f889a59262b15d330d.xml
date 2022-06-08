@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewustzijn, opleiding en training ten aanzien van informatiebeveiliging"
+    id="id-496a838ecec745f889a59262b15d330d">
+  <properties
+      key="BIO 2019"
+      value="7.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="7.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="7.2.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

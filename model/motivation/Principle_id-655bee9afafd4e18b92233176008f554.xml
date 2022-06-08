@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alleen geauthenticeerde apparatuur kan toegangkrijgen tot een vertrouwde zone"
+    id="id-655bee9afafd4e18b92233176008f554">
+  <properties
+      key="BIO 2019"
+      value="9.1.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

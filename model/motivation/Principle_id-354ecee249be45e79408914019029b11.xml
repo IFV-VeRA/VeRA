@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijderen van media"
+    id="id-354ecee249be45e79408914019029b11"
+    documentation="Media behoren op een veilige en beveiligde manier te worden verwijderd&#xD;&#xA;als ze niet langer nodig zijn, overeenkomstig formele procedures.">
+  <properties
+      key="BIO 2019"
+      value="8.3.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="8.3.2"/>
+  <properties
+      key="NEN 7510"
+      value="8.3.2"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

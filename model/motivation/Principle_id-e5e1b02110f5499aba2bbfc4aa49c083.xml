@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid voor toegangsbeveiliging"
+    id="id-e5e1b02110f5499aba2bbfc4aa49c083"
+    documentation="Een beleid voor toegangsbeveiliging behoort te worden&#xD;&#xA;vastgesteld, gedocumenteerd en beoordeeld op basis&#xD;&#xA;van bedrijfs- en informatiebeveiligingseisen.">
+  <properties
+      key="BIO 2019"
+      value="9.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="9.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>
