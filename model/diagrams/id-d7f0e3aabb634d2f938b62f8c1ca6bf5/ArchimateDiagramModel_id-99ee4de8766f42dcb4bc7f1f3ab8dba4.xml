@@ -37,7 +37,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-dfc9411295ba4a5d9b24acf75a6f78a0"
         source="id-7a9e557e647949429f8a1c1121cd4198"
-        target="id-5808a77d7a4d4eef810e8f2c8a698d4e">
+        target="id-b6747008459c48e3bd36b8f3dfc03356">
       <bendpoints
           startX="-12"
           startY="-87"
@@ -59,7 +59,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ae094724fcaf490a9d3d7542183822b2"
-      targetConnections="id-2d9cfe9ee49a4253b5e15fefa74c7bab id-394c8d275bea4eaea2d576ec5564450e id-1a52c227767c40e79b47a2e8d7509b8d id-429090dbc8a646e38f3c6b430b1719fa">
+      targetConnections="id-2d9cfe9ee49a4253b5e15fefa74c7bab id-394c8d275bea4eaea2d576ec5564450e id-1a52c227767c40e79b47a2e8d7509b8d id-429090dbc8a646e38f3c6b430b1719fa id-70f03bf9668e4ad78d6db38fbad700eb">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c75a3a511b05446eac5c4af3d55d8163"
@@ -317,7 +317,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-971cfda80e3549eaa9be2f463dcbe4ce"
         source="id-07875475702449c0aef83451807860e2"
-        target="id-c7a03f4b9b9e4c72974123a1d3b0f51d">
+        target="id-923dca1513c245cea6dd438c84195f2a">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-6bb9022fe306466680e92336fe5ebc8c.xml#id-6bb9022fe306466680e92336fe5ebc8c"/>
@@ -568,22 +568,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5808a77d7a4d4eef810e8f2c8a698d4e"
-      targetConnections="id-dfc9411295ba4a5d9b24acf75a6f78a0">
-    <features
-        name="labelExpression"
-        value="${name}&#xD;&#xA;${properties}"/>
-    <bounds
-        x="17"
-        y="228"
-        width="296"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-6cfd61beeafe4ca7b6c72139c4009170.xml#id-6cfd61beeafe4ca7b6c72139c4009170"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21b386e210c640b892649c598d384336"
       targetConnections="id-e54c87cf29c14f88803d018bf83e7b3a id-79844f5bf549437c983d4c55ed24b85f">
     <features
@@ -600,18 +584,60 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c7a03f4b9b9e4c72974123a1d3b0f51d"
+      id="id-7f497e594f6c47858c5834de704da2f7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-70f03bf9668e4ad78d6db38fbad700eb"
+        source="id-7f497e594f6c47858c5834de704da2f7"
+        target="id-ae094724fcaf490a9d3d7542183822b2">
+      <bendpoints
+          startX="-180"
+          startY="9"
+          endX="11"
+          endY="-165"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-3dc8fbf65f94447492d5e81acd5d9cf8.xml#id-3dc8fbf65f94447492d5e81acd5d9cf8"/>
+    </sourceConnections>
+    <bounds
+        x="1644"
+        y="696"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-6dcc967d838b4224bf5cb5e5b59f425f.xml#id-6dcc967d838b4224bf5cb5e5b59f425f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b6747008459c48e3bd36b8f3dfc03356"
+      targetConnections="id-dfc9411295ba4a5d9b24acf75a6f78a0">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="20"
+        y="207"
+        width="289"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-616cee678f1e45a4b41285df355ef0c7.xml#id-616cee678f1e45a4b41285df355ef0c7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-923dca1513c245cea6dd438c84195f2a"
       targetConnections="id-971cfda80e3549eaa9be2f463dcbe4ce">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="17"
-        y="744"
-        width="296"
+        x="20"
+        y="732"
+        width="289"
         height="97"/>
     <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-9808b92868e2476891d41ade58862a2c.xml#id-9808b92868e2476891d41ade58862a2c"/>
+        xsi:type="archimate:Principle"
+        href="Principle_id-ca45af45f0764555a1f8a7dc26dfcbfb.xml#id-ca45af45f0764555a1f8a7dc26dfcbfb"/>
   </children>
 </archimate:ArchimateDiagramModel>

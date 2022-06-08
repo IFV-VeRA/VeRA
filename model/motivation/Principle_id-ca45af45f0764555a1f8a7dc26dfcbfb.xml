@@ -1,7 +1,7 @@
-<archimate:Goal
+<archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheersing van operationele software"
-    id="id-9808b92868e2476891d41ade58862a2c">
+    id="id-ca45af45f0764555a1f8a7dc26dfcbfb">
   <properties
       key="BIO 2019"
       value="12.5"/>
@@ -11,4 +11,7 @@
   <properties
       key="NEN 7510"
       value="12.5"/>
-</archimate:Goal>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

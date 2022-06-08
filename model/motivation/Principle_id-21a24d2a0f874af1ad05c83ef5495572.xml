@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De opvolging van bevindingen is gedocumenteerd en wordt behandeld als beveiligingsincident."
+    id="id-21a24d2a0f874af1ad05c83ef5495572">
+  <properties
+      key="BIO 2019"
+      value="9.2.5.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

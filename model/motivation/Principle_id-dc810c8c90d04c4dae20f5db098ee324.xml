@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsrechten intrekken of aanpassen"
+    id="id-dc810c8c90d04c4dae20f5db098ee324"
+    documentation="De toegangsrechten van alle medewerkers en externe gebruikers&#xD;&#xA;voor informatie en informatie verwerkende faciliteiten behoren bij&#xD;&#xA;beëindiging van hun dienstverband, contract of overeenkomst te worden&#xD;&#xA;verwijderd, en bij wijzigingen behoren ze te worden aangepast.">
+  <properties
+      key="BIO 2019"
+      value="9.2.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.2.6"/>
+  <properties
+      key="NEN 7510"
+      value="9.2.6"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

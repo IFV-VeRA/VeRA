@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren van speciale toegangsrechten"
+    id="id-c7bce99a4b0041b9866effb4d64726e0"
+    documentation="Het toewijzen en gebruik van speciale toegangsrechten&#xD;&#xA;behoren te worden beperkt en beheerst.">
+  <properties
+      key="BIO 2019"
+      value="9.2.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.2.3"/>
+  <properties
+      key="NEN 7510"
+      value="9.2.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

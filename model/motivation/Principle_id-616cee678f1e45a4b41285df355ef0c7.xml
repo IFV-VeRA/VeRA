@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bescherming tegen malware"
+    id="id-616cee678f1e45a4b41285df355ef0c7">
+  <properties
+      key="BIO 2019"
+      value="12.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.2"/>
+  <properties
+      key="NEN 7510"
+      value="12.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

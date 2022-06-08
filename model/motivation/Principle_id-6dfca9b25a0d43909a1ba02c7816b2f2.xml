@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling van toegangsrechten van gebruikers"
+    id="id-6dfca9b25a0d43909a1ba02c7816b2f2"
+    documentation="Eigenaren van bedrijfsmiddelen behoren toegangsrechten&#xD;&#xA;van gebruikers regelmatig te beoordelen.">
+  <properties
+      key="BIO 2019"
+      value="9.2.5"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.2.5"/>
+  <properties
+      key="NEN 7510"
+      value="9.2.5"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

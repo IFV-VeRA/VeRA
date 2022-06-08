@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld."
+    id="id-6c5c9b553298443d9eb754a3e13ff724">
+  <properties
+      key="BIO 2019"
+      value="9.2.5.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>
