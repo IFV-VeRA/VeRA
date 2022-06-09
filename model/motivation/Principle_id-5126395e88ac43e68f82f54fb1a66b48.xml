@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Schaalbare infrastructuur"
-    id="id-5126395e88ac43e68f82f54fb1a66b48"
-    documentation="De IT-infrastructuur is schaalbaar.&#xA;&#xA;IT-systemen worden geselecteerd op hun ondersteuning voor schaling. Het capacity management proces is ingericht. IT systemen worden geschaald op de huidige volumes en de volumegroei wordt periodiek ge-evalueerd. Er wordt overeenstemming bereikt over een afdoende overcapaciteit om te kunnen voldoen aan korte termijn, onvoorspelbare groei. Er wordt bij verwachte extreme piekbelastingen overwogen om gebruik te maken van clouddiensten om deze pieken op te vangen. Er zal mogelijk een iets hogere eerste investering nodig zijn om schaalbaarheid mogelijk te maken."/>

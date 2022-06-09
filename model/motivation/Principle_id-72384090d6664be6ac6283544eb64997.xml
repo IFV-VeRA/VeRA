@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hoge beschikbaarheid basisinfrastructuur"
-    id="id-72384090d6664be6ac6283544eb64997"
-    documentation="De basisinfrastructuur is hoog beschikbaar.&#xA;&#xA;Er moet voorkomen worden dat de bedrijfsprocessen stil vallen. Gebruikers verwachten ook dat IT-systemen gewoon beschikbaar zijn. Basisinfrastructuur is die infrastructuur die wordt gedeeld door alle applicaties en de beschikbaarheid van deze basisinfrastructuur is dan ook bepalend voor de beschikbaarheid van applicaties. Het is dan ook belangrijk in ieder geval deze basisinfrastructuur hoog beschikbaar in te richten."/>

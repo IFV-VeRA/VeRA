@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zero trust (Filtering tussen zones)"
-    id="id-7b7b27689e2a4459a5bf0124f9f79efc"
-    documentation="Het netwerk is ingedeeld in zones met verschillende beveilignsniveau's met filtering op de zonegrenzen.&#xA;&#xA;Netwerkzones worden aangebracht om verschillen in beveiligingsniveau's aan te brengen en om toegangspaden voor netwerkverkeer af te dwingen. Daarnaast zorgt het voor meerdere lagen van verdediging tegen aanvallen. Om zonering goed te laten werken is het noodzakelijk om te controleren dat netwerkverkeer tussen zones past binnen de regels die horen bij de zonering."/>
