@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wachtwoorden die voldoen aan het wachtwoordbeleid, hebben een maximale geldigheidsduur van een jaar. Daar waar het beleid niettoepasbaar is, geldt een maximale geldigheidsduur van zes maanden."
+    id="id-e719b4fca003490d8263db2c3c8b1ef8">
+  <properties
+      key="BIO 2019"
+      value="9.4.3.5"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

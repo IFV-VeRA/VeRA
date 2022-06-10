@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beperking toegang tot informatie"
+    id="id-468b28a6df53467a8c69575ddc810286"
+    documentation="Toegang tot informatie en systeemfuncties van toepassingen behoort te worden&#xD;&#xA;beperkt in overeenstemming met het beleid voor toegangsbeveiliging.">
+  <properties
+      key="BIO 2019"
+      value="9.4.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.4.1"/>
+  <properties
+      key="NEN 7510"
+      value="9.4.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

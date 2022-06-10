@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsbeveiliging op programmabroncode"
+    id="id-c764a797de904f589fe373bb42e63068"
+    documentation="Toegang tot de programmabroncode behoort te worden beperkt.">
+  <properties
+      key="BIO 2019"
+      value="9.4.5"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.4.5"/>
+  <properties
+      key="NEN 7510"
+      value="9.4.5"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

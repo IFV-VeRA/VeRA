@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geheime authenticatie-informatie gebruiken"
+    id="id-bab03a98f9f74ad1a847578c6ee9480c"
+    documentation="Van gebruikers behoort te worden verlangd dat zij zich bij het gebruiken van geheime authenticatie-informatie houden aan de praktijk van de organisatie.">
+  <properties
+      key="BIO 2019"
+      value="9.3.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.3.1"/>
+  <properties
+      key="NEN 7510"
+      value="9.3.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

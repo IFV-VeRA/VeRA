@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systeem voor wachtwoordbeheer"
+    id="id-df67c2d25b1840c9b52d9a9de0cff1bf"
+    documentation="Systemen voor wachtwoordbeheer behoren interactief te&#xD;&#xA;zijn en sterke wachtwoorden te waarborgen.">
+  <properties
+      key="BIO 2019"
+      value="9.4.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.4.3"/>
+  <properties
+      key="NEN 7510"
+      value="9.4.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

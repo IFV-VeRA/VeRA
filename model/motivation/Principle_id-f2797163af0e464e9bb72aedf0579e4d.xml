@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De eisen aan wachtwoorden moeten geautomatiseerd worden afgedwongen."
+    id="id-f2797163af0e464e9bb72aedf0579e4d">
+  <properties
+      key="BIO 2019"
+      value="9.4.3.3"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

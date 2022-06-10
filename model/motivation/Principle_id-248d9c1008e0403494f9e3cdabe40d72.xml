@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiligde inlogprocedures"
+    id="id-248d9c1008e0403494f9e3cdabe40d72"
+    documentation="Indien het beleid voor toegangsbeveiliging dit vereist,&#xD;&#xA;behoort toegang tot systemen en toepassingen te worden&#xD;&#xA;beheerst door een beveiligde inlogprocedure.">
+  <properties
+      key="BIO 2019"
+      value="9.4.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="9.4.2"/>
+  <properties
+      key="NEN 7510"
+      value="9.4.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

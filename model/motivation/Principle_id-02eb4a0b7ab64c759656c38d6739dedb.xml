@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Als vanuit een onvertrouwde zone toegang wordt verleend naar een vertrouwdezone, gebeurt dit alleen op basis van minimaal two-factor authenticatie."
+    id="id-02eb4a0b7ab64c759656c38d6739dedb">
+  <properties
+      key="BIO 2019"
+      value="9.4.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>
