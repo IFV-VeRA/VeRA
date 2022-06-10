@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BIO Toegangsbeveiliging (9)"
+    name="BIO Bedrijfseisen voor toegangsbeveiliging (9.1) en BIO Beheer van toegangsrechten van gebruikers (9.2)"
     id="id-b91db0d9b55e4e91a29683f90cfd961f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -11,7 +11,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="24"
-        y="36"
+        y="72"
         width="421"
         height="85"/>
     <archimateElement
@@ -26,7 +26,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="24"
-        y="144"
+        y="168"
         width="421"
         height="85"/>
     <archimateElement
@@ -41,7 +41,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="24"
-        y="252"
+        y="264"
         width="421"
         height="85"/>
     <archimateElement
@@ -205,8 +205,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1548"
+        x="12"
+        y="1524"
         width="421"
         height="85"/>
     <archimateElement
@@ -250,8 +250,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1644"
+        x="12"
+        y="1620"
         width="421"
         height="85"/>
     <archimateElement
@@ -265,8 +265,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1740"
+        x="12"
+        y="1716"
         width="421"
         height="85"/>
     <archimateElement
@@ -280,8 +280,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="48"
-        y="1836"
+        x="12"
+        y="1812"
         width="421"
         height="85"/>
     <archimateElement
