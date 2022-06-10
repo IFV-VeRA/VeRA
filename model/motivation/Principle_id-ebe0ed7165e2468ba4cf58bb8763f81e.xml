@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intellectuele-eigendomsrechten"
+    id="id-ebe0ed7165e2468ba4cf58bb8763f81e"
+    documentation="Om de naleving van wettelijke, regelgevende en contractuele&#xD;&#xA;eisen in verband met intellectuele eigendomsrechten en het&#xD;&#xA;gebruik van eigendomssoftwareproducten te waarborgen behoren&#xD;&#xA;passende procedures te worden geïmplementeerd.">
+  <properties
+      key="BIO 2019"
+      value="18.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="18.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

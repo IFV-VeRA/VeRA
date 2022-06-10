@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling van technische naleving"
+    id="id-24a5feead6b04d97aa4781dd766f21a8"
+    documentation="Informatiesystemen behoren regelmatig te worden beoordeeld op naleving van&#xD;&#xA;de beleidsregels en normen van de organisatie voor informatiebeveiliging">
+  <properties
+      key="BIO 2019"
+      value="18.2.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.2.3"/>
+  <properties
+      key="NEN 7510"
+      value="18.2.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

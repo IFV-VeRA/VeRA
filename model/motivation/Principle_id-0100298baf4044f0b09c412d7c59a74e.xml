@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy en bescherming van persoonsgegevens"
+    id="id-0100298baf4044f0b09c412d7c59a74e"
+    documentation="Privacy en bescherming van persoonsgegevens behoren,&#xD;&#xA;voor zover van toepassing, te worden gewaarborgd in&#xD;&#xA;overeenstemming met relevante wet- en regelgeving.">
+  <properties
+      key="BIO 2019"
+      value="18.1.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.1.4"/>
+  <properties
+      key="NEN 7510"
+      value="18.1.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

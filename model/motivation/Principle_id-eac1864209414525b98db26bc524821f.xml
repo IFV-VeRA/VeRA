@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiesystemen worden jaarlijks gecontroleerd op technischenaleving van beveiligingsnormen en risico’s ten aanzien van defeitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde)kwetsbaarheidsanalyses of penetratietesten"
+    id="id-eac1864209414525b98db26bc524821f">
+  <properties
+      key="BIO 2019"
+      value="18.2.3.1"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

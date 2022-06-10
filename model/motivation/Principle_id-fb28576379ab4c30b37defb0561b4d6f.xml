@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onafhankelijke beoordeling van informatiebeveiliging"
+    id="id-fb28576379ab4c30b37defb0561b4d6f"
+    documentation="De aanpak van de organisatie ten aanzien van het beheer van&#xD;&#xA;informatiebeveiliging en de implementatie ervan (bijv. beheerdoelstellingen,&#xD;&#xA;beheersmaatregelen, beleidsregels, processen en procedures voor&#xD;&#xA;informatiebeveiliging), behoren onafhankelijk en met geplande tussenpozen&#xD;&#xA;of zodra zich belangrijke veranderingen voordoen te worden beoordeeld.">
+  <properties
+      key="BIO 2019"
+      value="18.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="18.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

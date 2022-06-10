@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lering uit informatiebeveiligingsincidenten"
+    id="id-5f6883c6191c427b9b5107cab641a74e"
+    documentation="Kennis die is verkregen door informatiebeveiligingsincidenten te&#xD;&#xA;analyseren en op te lossen behoort te worden gebruikt om de&#xD;&#xA;waarschijnlijkheid of impact van toekomstige incidenten te verkleinen.">
+  <properties
+      key="BIO 2019"
+      value="16.1.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="16.1.6"/>
+  <properties
+      key="NEN 7510"
+      value="16.1.6"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

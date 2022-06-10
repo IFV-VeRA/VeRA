@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststellen van toepasselijke wetgeving en contractuele eisen"
+    id="id-029ac8916b0c438f959ab523925a9670"
+    documentation="Alle relevante wettelijke statutaire, regelgevende, contractuele eisen&#xD;&#xA;en de aanpak van de organisatie om aan deze eisen te voldoen&#xD;&#xA;behoren voor elk informatiesysteem en de organisatie expliciet te&#xD;&#xA;worden vastgesteld, gedocumenteerd en actueel gehouden.">
+  <properties
+      key="BIO 2019"
+      value="18.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="18.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

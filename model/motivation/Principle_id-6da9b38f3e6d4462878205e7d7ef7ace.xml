@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiligingscontinuïteit implementeren"
+    id="id-6da9b38f3e6d4462878205e7d7ef7ace"
+    documentation="De organisatie behoort processen, procedures en beheersmaatregelen&#xD;&#xA;vast te stellen, te documenteren, te implementeren en te handhaven&#xD;&#xA;om het vereiste niveau van continuïteit voor informatiebeveiliging&#xD;&#xA;tijdens een ongunstige situatie te waarborgen.">
+  <properties
+      key="BIO 2019"
+      value="17.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="17.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="17.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

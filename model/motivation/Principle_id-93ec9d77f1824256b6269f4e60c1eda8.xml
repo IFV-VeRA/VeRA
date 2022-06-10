@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De analyses van de beveiligingsincidenten worden gedeeld met de relevantepartners om herhaling en toekomstige incidenten te voorkomen."
+    id="id-93ec9d77f1824256b6269f4e60c1eda8">
+  <properties
+      key="BIO 2019"
+      value="16.1.6.2"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

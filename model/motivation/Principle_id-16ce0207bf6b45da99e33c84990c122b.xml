@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naleving van beveiligingsbeleid en -normen"
+    id="id-16ce0207bf6b45da99e33c84990c122b"
+    documentation="De directie behoort regelmatig de naleving van de informatieverwerking&#xD;&#xA;en - procedures binnen haar verantwoordelijkheidsgebied te&#xD;&#xA;beoordelen aan de hand van de desbetreffende beleidsregels,&#xD;&#xA;normen en andere eisen betreffende beveiliging.">
+  <properties
+      key="BIO 2019"
+      value="18.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="18.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="18.2.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

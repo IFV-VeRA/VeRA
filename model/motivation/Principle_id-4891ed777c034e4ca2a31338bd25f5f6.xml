@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaarheid van informatie verwerkende faciliteiten"
+    id="id-4891ed777c034e4ca2a31338bd25f5f6"
+    documentation="Informatie verwerkende faciliteiten behoren met voldoende redundantie&#xD;&#xA;te worden geïmplementeerd om aan beschikbaarheidseisen te voldoen.">
+  <properties
+      key="BIO 2019"
+      value="17.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="17.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="17.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>
