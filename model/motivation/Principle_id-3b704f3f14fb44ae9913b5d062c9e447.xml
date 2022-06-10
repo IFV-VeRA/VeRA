@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomsten over informatietransport"
+    id="id-3b704f3f14fb44ae9913b5d062c9e447"
+    documentation="Overeenkomsten behoren betrekking te hebben op het beveiligd transporteren&#xD;&#xA;van bedrijfsinformatie tussen de organisatie en externe partijen.">
+  <properties
+      key="BIO 2019"
+      value="13.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="13.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="13.2.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

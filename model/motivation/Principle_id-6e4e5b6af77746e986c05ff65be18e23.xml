@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principes voor engineering van beveiligde systemen"
+    id="id-6e4e5b6af77746e986c05ff65be18e23"
+    documentation="Principes voor de engineering van beveiligde systemen behoren te worden&#xD;&#xA;vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle&#xD;&#xA;verrichtingen betreffende het implementeren van informatiesystemen.">
+  <properties
+      key="BIO 2019"
+      value="14.2.5"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.2.5"/>
+  <properties
+      key="NEN 7510"
+      value="14.2.5"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

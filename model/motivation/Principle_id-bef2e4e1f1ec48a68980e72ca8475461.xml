@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fysieke beveiligingszone"
+    id="id-bef2e4e1f1ec48a68980e72ca8475461"
+    documentation="Beveiligingszones behoren te worden gedefinieerd en gebruikt om&#xD;&#xA;gebieden te beschermen die gevoelige of essentiële informatie&#xD;&#xA;en informatie verwerkende faciliteiten bevatten">
+  <properties
+      key="BIO 2019"
+      value="11.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="11.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

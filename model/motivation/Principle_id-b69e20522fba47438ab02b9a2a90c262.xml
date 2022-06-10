@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het dataverkeer dat de organisatie binnenkomt of uitgaat wordt bewaakt/ geanalyseerd op kwaadaardige elementen middels detectievoorzieningen"
+    id="id-b69e20522fba47438ab02b9a2a90c262"
+    documentation="(zoals beschreven in de richtlijn voor implementatie van detectieoplossingen),&#xD;&#xA;zoals het Nationaal Detectie Netwerk (alleen voor rijksoverheidsorganisaties)&#xD;&#xA;of GDI, die worden ingezet op basis van een risico-inschatting, mede aan de&#xD;&#xA;hand van de aard van de te beschermen gegevens en informatiesystemen.">
+  <properties
+      key="BIO 2019"
+      value="13.1.2.1"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

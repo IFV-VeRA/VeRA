@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor de beveiliging van elektronische (e-mail)berichten gelden de vastgesteldeopen standaarden tegen phishing en afluisteren op de ‘pas toe of leg uit’-lijst van het Forum. Voor beveiliging van websiteverkeer gelden de openstandaarden tegen afluisteren op de ‘pas toe of leg uit’-lijst van het Forum."
+    id="id-d6fd3847e2e342af8a4d0ad0f9fc2a63">
+  <properties
+      key="BIO 2019"
+      value="13.2.3.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

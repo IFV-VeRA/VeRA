@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een meldloket waar beveiligingsincidenten kunnen worden gemeld."
+    id="id-f41616d1a6a84f17a06c78ada7ef23e2">
+  <properties
+      key="BIO 2019"
+      value="16.1.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

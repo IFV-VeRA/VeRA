@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapportage van zwakke plekken in de informatiebeveiliging"
+    id="id-c6c334672b5e43bf9ed2438ae2b5a768"
+    documentation="Van medewerkers en contractanten die gebruikmaken van de&#xD;&#xA;informatiesystemen en -diensten van de organisatie behoort te worden&#xD;&#xA;geëist dat zij de in systemen of diensten waargenomen of vermeende&#xD;&#xA;zwakke plekken in de informatiebeveiliging registreren en rapporteren.">
+  <properties
+      key="BIO 2019"
+      value="16.1.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="16.1.3"/>
+  <properties
+      key="NEN 7510"
+      value="16.1.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

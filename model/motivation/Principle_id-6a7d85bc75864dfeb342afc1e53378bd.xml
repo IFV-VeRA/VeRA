@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring en beoordeling van dienstverlening van leveranciers"
+    id="id-6a7d85bc75864dfeb342afc1e53378bd"
+    documentation="Organisaties behoren regelmatig de dienstverlening van&#xD;&#xA;leveranciers te monitoren, te beoordelen en te auditen.">
+  <properties
+      key="BIO 2019"
+      value="15.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="15.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="15.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onbeheerde gebruikersapparatuur"
+    id="id-4f3e8f31c7fd4691a1e3f05e02f961f7"
+    documentation="Gebruikers moeten ervoor zorgen dat onbeheerde&#xD;&#xA;apparatuur voldoende beschermd is.">
+  <properties
+      key="BIO 2019"
+      value="11.2.8"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.8"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.8"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werken in beveiligde gebieden"
+    id="id-8f06e6ce09114c74bb046b2a84468ed9"
+    documentation="Voor het werken in beveiligde gebieden behoren&#xD;&#xA;procedures te worden ontwikkeld en toegepast.">
+  <properties
+      key="BIO 2019"
+      value="11.1.5"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.1.5"/>
+  <properties
+      key="NEN 7510"
+      value="11.1.5"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

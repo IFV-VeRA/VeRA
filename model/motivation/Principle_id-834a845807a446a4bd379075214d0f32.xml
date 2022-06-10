@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systeemacceptatietests"
+    id="id-834a845807a446a4bd379075214d0f32"
+    documentation="Voor nieuwe informatiesystemen, upgrades en nieuwe versies&#xD;&#xA;behoren programma’s voor het uitvoeren van acceptatietests&#xD;&#xA;en gerelateerde criteria te worden vastgesteld.">
+  <properties
+      key="BIO 2019"
+      value="14.2.9"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.2.9"/>
+  <properties
+      key="NEN 7510"
+      value="14.2.9"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

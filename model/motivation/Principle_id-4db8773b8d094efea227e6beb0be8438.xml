@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veilig verwijderen of hergebruiken van apparatuur"
+    id="id-4db8773b8d094efea227e6beb0be8438"
+    documentation="Alle onderdelen van de apparatuur die opslagmedia bevatten, behoren&#xD;&#xA;te worden geverifieerd om te waarborgen dat gevoelige gegevens&#xD;&#xA;en in licentie gegeven software voorafgaand aan verwijdering of&#xD;&#xA;hergebruik zijn verwijderd of betrouwbaar veilig zijn overschreven.">
+  <properties
+      key="BIO 2019"
+      value="11.2.7"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.7"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.7"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

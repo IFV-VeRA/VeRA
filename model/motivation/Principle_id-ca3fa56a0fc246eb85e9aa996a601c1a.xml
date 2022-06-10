@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiligingsincidenten die hebben geleid tot een vermoedelijk ofmogelijk opzettelijke inbreuk op de beschikbaarheid, vertrouwelijkheid ofintegriteit van informatieverwerkende systemen, behoren zo snel mogelijk(binnen 72 uur) al dan niet geautomatiseerd te worden gemeld aan hetNCSC (alleen voor rijksoverheidsorganisaties) of de sectorale CERT."
+    id="id-ca3fa56a0fc246eb85e9aa996a601c1a">
+  <properties
+      key="BIO 2019"
+      value="16.1.4.1"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

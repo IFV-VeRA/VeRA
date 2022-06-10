@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een informatiebeveiligingsbeleid opgesteld door deorganisatie"
+    id="id-a526777b5532436dbf48d65407263cc8"
+    documentation="Dit beleid is vastgesteld door de leiding van de&#xD;&#xA;organisatie en bevat ten minste de volgende punten:&#xD;&#xA;a. De strategische uitgangspunten en randvoorwaarden die&#xD;&#xA;de organisatie hanteert voor informatiebeveiliging en in het&#xD;&#xA;bijzonder de inbedding in en afstemming op het algemene&#xD;&#xA;beveiligingsbeleid en het informatievoorzieningsbeleid.&#xD;&#xA;b. De organisatie van de informatiebeveiligingsfunctie, waaronder&#xD;&#xA;verantwoordelijkheden, taken en bevoegdheden.&#xD;&#xA;c. De toewijzing van de verantwoordelijkheden voor ketens&#xD;&#xA;van informatiesystemen aan lijnmanagers.&#xD;&#xA;d. De gemeenschappelijke betrouwbaarheidseisen en normen&#xD;&#xA;die op de organisatie van toepassing zijn.&#xD;&#xA;e. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.&#xD;&#xA;f. De bevordering van het beveiligingsbewustzijn.">
+  <properties
+      key="BIO 2019"
+      value="5.1.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

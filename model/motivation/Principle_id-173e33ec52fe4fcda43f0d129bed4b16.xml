@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderhoud van apparatuur"
+    id="id-173e33ec52fe4fcda43f0d129bed4b16"
+    documentation="Apparatuur behoort correct te worden onderhouden om de&#xD;&#xA;continue beschikbaarheid en integriteit ervan te waarborgen.">
+  <properties
+      key="BIO 2019"
+      value="11.2.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.4"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

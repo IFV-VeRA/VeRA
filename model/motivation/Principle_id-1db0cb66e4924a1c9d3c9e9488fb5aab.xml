@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plaatsing en bescherming van apparatuur"
+    id="id-1db0cb66e4924a1c9d3c9e9488fb5aab"
+    documentation="Apparatuur behoort zo te worden geplaatst en beschermd&#xD;&#xA;dat risico’s van bedreigingen en gevaren van buitenaf, alsook&#xD;&#xA;de kans op onbevoegde toegang worden verkleind.">
+  <properties
+      key="BIO 2019"
+      value="11.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

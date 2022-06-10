@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapportage van informatiebeveiligingsgebeurtenissen"
+    id="id-56c198ce5ac04db786bf8c82b67d16e7"
+    documentation="Informatiebeveiligingsgebeurtenissen behoren zo snel mogelijk via&#xD;&#xA;de juiste leidinggevende niveaus te worden gerapporteerd.">
+  <properties
+      key="BIO 2019"
+      value="16.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="16.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="16.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

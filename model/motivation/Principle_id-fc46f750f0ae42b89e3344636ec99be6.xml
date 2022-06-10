@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheiding in netwerken"
+    id="id-fc46f750f0ae42b89e3344636ec99be6"
+    documentation="Groepen van informatiediensten, -gebruikers en -systemen&#xD;&#xA;behoren in netwerken te worden gescheiden.">
+  <properties
+      key="BIO 2019"
+      value="13.1.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="13.1.3"/>
+  <properties
+      key="NEN 7510"
+      value="13.1.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

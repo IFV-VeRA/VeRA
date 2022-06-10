@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laad- en loslocatie"
+    id="id-cb0791ff7a8b43d48ca34d5d52dd938a"
+    documentation="Toegangspunten zoals laad- en loslocaties en andere punten waar&#xD;&#xA;onbevoegde personen het terrein kunnen betreden, behoren te worden&#xD;&#xA;beheerst, en zo mogelijk te worden afgeschermd van informatie&#xD;&#xA;verwerkende faciliteiten om onbevoegde toegang te vermijden.">
+  <properties
+      key="BIO 2019"
+      value="11.1.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.1.6"/>
+  <properties
+      key="NEN 7510"
+      value="11.1.6"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verslaglegging en monitoren"
+    id="id-71cd7737372d47328b707da8659a9854">
+  <properties
+      key="BIO 2019"
+      value="12.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="12.4"/>
+  <properties
+      key="NEN 7510"
+      value="12.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

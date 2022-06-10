@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij hetverwijderen van het token de toegangsbeveiligingslock automatisch geactiveerd."
+    id="id-bb89589c39ad46f6b764ed3f976a0dbc">
+  <properties
+      key="BIO 2019"
+      value="11.2.9.5"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling van en besluitvorming overinformatiebeveiligingsgebeurtenissen"
+    id="id-2594b0f359df43088582b72ca3e9afbe"
+    documentation="Informatiebeveiligingsgebeurtenissen behoren te worden&#xD;&#xA;beoordeeld en er behoort te worden geoordeeld of zij moeten&#xD;&#xA;worden geclassificeerd als informatiebeveiligingsincidenten.">
+  <properties
+      key="BIO 2019"
+      value="16.1.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="16.1.4"/>
+  <properties
+      key="NEN 7510"
+      value="16.1.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

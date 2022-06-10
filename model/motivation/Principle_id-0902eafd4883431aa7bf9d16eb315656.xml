@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bescherming van testgegevens"
+    id="id-0902eafd4883431aa7bf9d16eb315656"
+    documentation="Testgegevens behoren zorgvuldig te worden&#xD;&#xA;gekozen, beschermd en gecontroleerd.">
+  <properties
+      key="BIO 2019"
+      value="14.3.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.3.1"/>
+  <properties
+      key="NEN 7510"
+      value="14.3.1"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transacties van toepassingen beschermen"
+    id="id-16926653d8e7439a9f5ed00917a4028a"
+    documentation="Informatie die deel uitmaakt van transacties van toepassingen behoort&#xD;&#xA;te worden beschermd ter voorkoming van onvolledige overdracht,&#xD;&#xA;foutieve routering, onbevoegd wijzigen van berichten, onbevoegd&#xD;&#xA;openbaar maken, onbevoegd vermenigvuldigen of afspelen.">
+  <properties
+      key="BIO 2019"
+      value="14.1.3"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.1.3"/>
+  <properties
+      key="NEN 7510"
+      value="14.1.3"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

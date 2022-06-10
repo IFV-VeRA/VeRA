@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoordelijkheden en procedures"
+    id="id-e455782a456f4d1eb60e844cb7d63236"
+    documentation="Directieverantwoordelijkheden en -procedures behoren te worden&#xD;&#xA;vastgesteld om een snelle, doeltreffende en ordelijke respons&#xD;&#xA;op informatiebeveiligingsincidenten te bewerkstelligen.">
+  <properties
+      key="BIO 2019"
+      value="16.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="16.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="16.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

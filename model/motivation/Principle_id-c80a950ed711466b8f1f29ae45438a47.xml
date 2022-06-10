@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij ontdekte nieuwe dreigingen vanuit 13.1.2.1 worden deze, verplicht gedeeld"
+    id="id-c80a950ed711466b8f1f29ae45438a47"
+    documentation="Bij ontdekte nieuwe dreigingen vanuit 13.1.2.1 worden deze,&#xD;&#xA;rekening houdend met de geldende juridische kaders, verplicht&#xD;&#xA;gedeeld binnen de overheid, waaronder met het NCSC (alleen voor&#xD;&#xA;rijksoverheidsorganisaties) of de sectorale CERT, bij voorkeur door&#xD;&#xA;geautomatiseerde mechanismen (threat intelligence sharing).">
+  <properties
+      key="BIO 2019"
+      value="13.1.2.2"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

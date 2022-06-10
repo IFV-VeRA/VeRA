@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse en specificatie van informatiebeveiligingseisen"
+    id="id-61a6b300bb12431e8579c5c07e81569e"
+    documentation="De eisen die verband houden met informatiebeveiliging behoren te&#xD;&#xA;worden opgenomen in de eisen voor nieuwe informatiesystemen&#xD;&#xA;of voor uitbreidingen van bestaande informatiesystemen.">
+  <properties
+      key="BIO 2019"
+      value="14.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="14.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

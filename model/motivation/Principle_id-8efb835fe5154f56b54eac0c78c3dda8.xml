@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiligde ontwikkelomgeving"
+    id="id-8efb835fe5154f56b54eac0c78c3dda8"
+    documentation="Organisaties behoren beveiligde ontwikkelomgevingen vast te&#xD;&#xA;stellen en passend te beveiligen voor verrichtingen op het gebied&#xD;&#xA;van systeemontwikkeling en integratie, die betrekking hebben&#xD;&#xA;op de gehele levenscyclus van de systeemontwikkeling.">
+  <properties
+      key="BIO 2019"
+      value="14.2.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.2.6"/>
+  <properties
+      key="NEN 7510"
+      value="14.2.6"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

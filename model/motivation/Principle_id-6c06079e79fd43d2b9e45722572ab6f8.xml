@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschermen tegen bedreigingen van buitenaf"
+    id="id-6c06079e79fd43d2b9e45722572ab6f8"
+    documentation="egen natuurrampen, kwaadwillige aanvallen of ongelukken behoort&#xD;&#xA;fysieke bescherming te worden ontworpen en toegepast.">
+  <properties
+      key="BIO 2019"
+      value="11.1.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.1.4"/>
+  <properties
+      key="NEN 7510"
+      value="11.1.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

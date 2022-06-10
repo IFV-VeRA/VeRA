@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging van apparatuur en bedrijfsmiddelen buiten het terrein"
+    id="id-a7a3af1237ba4ef58fa1439dfc8a5f04"
+    documentation="Bedrijfsmiddelen die zich buiten het terrein bevinden, behoren te&#xD;&#xA;worden beveiligd, waarbij rekening behoort te worden gehouden met de&#xD;&#xA;verschillende risico’s van werken buiten het terrein van de organisatie.">
+  <properties
+      key="BIO 2019"
+      value="11.2.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.6"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.6"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

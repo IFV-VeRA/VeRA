@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordeling van het informatiebeveiligingsbeleid"
+    id="id-212547e5105a4e468a1f1a6380c3ac55"
+    documentation="Het beleid voor informatiebeveiliging behoort met geplande tussenpozen of&#xD;&#xA;als zich significante veranderingen voordoen, te worden beoordeeld om te&#xD;&#xA;waarborgen dat het voortdurend passend, adequaat en doeltreffend is.">
+  <properties
+      key="BIO 2019"
+      value="5.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="5.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="5.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

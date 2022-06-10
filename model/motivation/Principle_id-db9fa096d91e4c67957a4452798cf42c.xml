@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijzigingsbeheer vindt plaats op basis van een algemeengeaccepteerd beheerframework."
+    id="id-db9fa096d91e4c67957a4452798cf42c">
+  <properties
+      key="BIO 2019"
+      value="14.2.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

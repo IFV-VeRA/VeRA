@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In koppelpunten met externe of onvertrouwde zones zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden (bijvoorbeeld DDoS-aanvallen,Distributed Denial of Service attacks) te signaleren en hierop te reageren."
+    id="id-70641ef43e4644c0a60de72bd8d7b533">
+  <properties
+      key="BIO 2019"
+      value="13.1.2.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

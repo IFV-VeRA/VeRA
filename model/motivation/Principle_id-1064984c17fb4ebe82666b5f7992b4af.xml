@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer van veranderingen in dienstverlening van leveranciers"
+    id="id-1064984c17fb4ebe82666b5f7992b4af"
+    documentation="Veranderingen in de dienstverlening van leveranciers, met inbegrip van&#xD;&#xA;handhaving en verbetering van bestaande beleidslijnen, procedures en&#xD;&#xA;beheersmaatregelen voor informatiebeveiliging, behoren te worden,&#xD;&#xA;beheerd, rekening houdend met de kritikaliteit van bedrijfsinformatie,&#xD;&#xA;betrokken systemen en processen en herbeoordeling van risico’s.">
+  <properties
+      key="BIO 2019"
+      value="15.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="15.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="15.2.2"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

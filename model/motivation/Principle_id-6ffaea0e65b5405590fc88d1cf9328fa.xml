@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vertrouwelijkheids- of geheimhoudingsovereenkomst"
+    id="id-6ffaea0e65b5405590fc88d1cf9328fa"
+    documentation="Eisen voor vertrouwelijkheids- of geheimhoudingsovereenkomsten&#xD;&#xA;die de behoeften van de organisatie betreffende het beschermen&#xD;&#xA;van informatie weerspiegelen, behoren te worden vastgesteld,&#xD;&#xA;regelmatig te worden beoordeeld en gedocumenteerd.">
+  <properties
+      key="BIO 2019"
+      value="13.2.4"/>
+  <properties
+      key="ISO 27002 2017"
+      value="13.2.4"/>
+  <properties
+      key="NEN 7510"
+      value="13.2.4"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

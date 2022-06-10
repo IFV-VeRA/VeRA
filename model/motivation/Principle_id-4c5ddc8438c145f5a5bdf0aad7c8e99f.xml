@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging in projectbeheer"
+    id="id-4c5ddc8438c145f5a5bdf0aad7c8e99f"
+    documentation="Informatiebeveiliging behoort aan de orde te komen in projectbeheer, ongeacht het soort project.">
+  <properties
+      key="BIO 2019"
+      value="6.1.5"/>
+  <properties
+      key="ISO 27002 2017"
+      value="6.1.5"/>
+  <properties
+      key="NEN 7510"
+      value="6.1.5"/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiligingsbeleid voor leveranciersrelaties"
+    id="id-2662cb2faf88438ea55d55810913f50b"
+    documentation="Met de leverancier behoren de informatiebeveiligingseisen&#xD;&#xA;om risico’s te verlagen die verband houden met de toegang&#xD;&#xA;van de leverancier tot de bedrijfsmiddelen van de organisatie,&#xD;&#xA;te worden overeengekomen en gedocumenteerd.">
+  <properties
+      key="BIO 2019"
+      value="15.1.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="15.1.1"/>
+  <properties
+      key="NEN 7510"
+      value="15.1.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

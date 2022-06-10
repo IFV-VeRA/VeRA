@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="‘Clear desk’- en ‘clear screen’-beleid"
+    id="id-4aa15212e12c4355be091dbb70b1cfdd"
+    documentation="Er behoort een ‘clear desk’-beleid voor papieren documenten&#xD;&#xA;en verwijderbare opslagmedia en een ‘clear screen’-beleid voor&#xD;&#xA;informatie verwerkende faciliteiten te worden ingesteld.">
+  <properties
+      key="BIO 2019"
+      value="11.2.6"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.6"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.6"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid voor beveiligd ontwikkelen"
+    id="id-e8a13c53aa34430094eb86fc62749d18"
+    documentation="Voor het ontwikkelen van software en systemen behoren&#xD;&#xA;regels te worden vastgesteld en op ontwikkelactiviteiten&#xD;&#xA;binnen de organisatie te worden toegepast.">
+  <properties
+      key="BIO 2019"
+      value="14.2.1"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.2.1"/>
+  <properties
+      key="NEN 7510"
+      value="14.2.1"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

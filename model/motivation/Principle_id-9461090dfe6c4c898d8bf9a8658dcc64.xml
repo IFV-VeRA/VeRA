@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheiding van taken"
+    id="id-9461090dfe6c4c898d8bf9a8658dcc64"
+    documentation="Conflicterende taken en verantwoordelijkheden behoren te worden&#xD;&#xA;gescheiden om de kans op onbevoegd of onbedoeld wijzigen of misbruik&#xD;&#xA;van de bedrijfsmiddelen van de organisatie te verminderen">
+  <properties
+      key="BIO 2019"
+      value="6.1.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="6.1.2"/>
+  <properties
+      key="NEN 7510"
+      value="6.1.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Testen van systeembeveiliging"
+    id="id-53c6fce072b84bb2af4a0efe6d3fbbd9"
+    documentation="Tijdens ontwikkelactiviteiten behoort de&#xD;&#xA;beveiligingsfunctionaliteit te worden getest.">
+  <properties
+      key="BIO 2019"
+      value="14.2.8"/>
+  <properties
+      key="ISO 27002 2017"
+      value="14.2.8"/>
+  <properties
+      key="NEN 7510"
+      value="14.2.8"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>

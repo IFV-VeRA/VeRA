@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nutsvoorzieningen"
+    id="id-3a26d1b3dcf94878a9693d2c9f07c4d5"
+    documentation="Apparatuur behoort te worden beschermd tegen stroomuitval en andere&#xD;&#xA;verstoringen die worden veroorzaakt door ontregelingen in nutsvoorzieningen.">
+  <properties
+      key="BIO 2019"
+      value="11.2.2"/>
+  <properties
+      key="ISO 27002 2017"
+      value="11.2.2"/>
+  <properties
+      key="NEN 7510"
+      value="11.2.2"/>
+  <properties
+      key="BBN"
+      value="1"/>
+</archimate:Principle>
