@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile device service"
+    id="id-eb93cf165f034a3dadef78748ea0467c"
+    documentation="Service die een mobiel apparaat levert zoals een smartphone of tablet inclusief operating systeem. Deze service maakt het ook mogelijk om lokaal applicaties te draaien. Het kan hier gaan om personal productivity applicaties zoals tekstverwerkers of client-applicaties die verbinding maken met een [applicatie hosting service] of een [Virtuele applicatie service]."/>

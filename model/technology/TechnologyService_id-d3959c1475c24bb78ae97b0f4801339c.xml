@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxy service"
+    id="id-d3959c1475c24bb78ae97b0f4801339c"
+    documentation="Service die als intermediair het verkeer regelt tussen een end-point apparaat en een client die de service aanvraagt met als doel o.a. het filteren van informatie, beveiliging en het verhogen van netwerkprestaties."/>

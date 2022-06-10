@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall service"
+    id="id-b603210afa394a7aa701d56824239c8c"
+    documentation="Service die het mogelijk maakt om netwerkverkeer te controleren en eventueel te blokkeren tussen besloten netwerken onderling (LAN / WAN) en/of met het internet.."/>

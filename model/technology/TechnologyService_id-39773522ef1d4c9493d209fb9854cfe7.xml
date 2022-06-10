@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Routering service"
+    id="id-39773522ef1d4c9493d209fb9854cfe7"
+    documentation="Service die de netwerk functies realiseert ten behoeve van de routering van netwerk verkeer zoals DNS, DHCP, etc. Zowel binnen een enkel netwerk als over verschillende netwerken heen."/>
