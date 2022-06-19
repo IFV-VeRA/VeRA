@@ -11,7 +11,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="72"
-        y="444"
+        y="336"
         width="379"
         height="88"/>
     <archimateElement
@@ -28,7 +28,7 @@
         x="72"
         y="36"
         width="379"
-        height="109"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-029ac8916b0c438f959ab523925a9670.xml#id-029ac8916b0c438f959ab523925a9670"/>
@@ -41,9 +41,9 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="72"
-        y="324"
+        y="240"
         width="379"
-        height="109"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-f9234e40b6324493b073ca02e6a3a82c.xml#id-f9234e40b6324493b073ca02e6a3a82c"/>
@@ -55,10 +55,10 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="82"
-        y="192"
+        x="72"
+        y="144"
         width="379"
-        height="109"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-ebe0ed7165e2468ba4cf58bb8763f81e.xml#id-ebe0ed7165e2468ba4cf58bb8763f81e"/>
@@ -71,7 +71,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="72"
-        y="672"
+        y="528"
         width="379"
         height="88"/>
     <archimateElement
@@ -86,9 +86,9 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="72"
-        y="552"
+        y="432"
         width="379"
-        height="109"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-0100298baf4044f0b09c412d7c59a74e.xml#id-0100298baf4044f0b09c412d7c59a74e"/>
@@ -100,8 +100,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="60"
-        y="1008"
+        x="72"
+        y="876"
         width="379"
         height="88"/>
     <archimateElement
@@ -115,8 +115,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="60"
-        y="888"
+        x="72"
+        y="756"
         width="379"
         height="109"/>
     <archimateElement
@@ -130,10 +130,10 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="82"
-        y="780"
+        x="72"
+        y="624"
         width="379"
-        height="88"/>
+        height="120"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-cfe0d8c48f40466ba33179e4b3ad4c45.xml#id-cfe0d8c48f40466ba33179e4b3ad4c45"/>
@@ -145,8 +145,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1331"
+        x="72"
+        y="1199"
         width="379"
         height="88"/>
     <archimateElement
@@ -160,8 +160,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="48"
-        y="1104"
+        x="72"
+        y="972"
         width="379"
         height="109"/>
     <archimateElement
@@ -175,8 +175,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1777"
+        x="72"
+        y="1668"
         width="379"
         height="88"/>
     <archimateElement
@@ -190,8 +190,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1657"
+        x="72"
+        y="1548"
         width="379"
         height="109"/>
     <archimateElement
@@ -205,10 +205,10 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1549"
+        x="72"
+        y="1417"
         width="379"
-        height="88"/>
+        height="120"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-0fd03c45398547caa37fc537f8d0d857.xml#id-0fd03c45398547caa37fc537f8d0d857"/>
@@ -220,8 +220,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="36"
-        y="1429"
+        x="72"
+        y="1297"
         width="379"
         height="109"/>
     <archimateElement
@@ -235,8 +235,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="48"
-        y="1224"
+        x="72"
+        y="1092"
         width="379"
         height="88"/>
     <archimateElement

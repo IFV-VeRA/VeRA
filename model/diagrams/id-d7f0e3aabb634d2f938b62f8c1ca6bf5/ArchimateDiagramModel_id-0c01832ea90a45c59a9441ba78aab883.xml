@@ -86,7 +86,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="120"
-        y="696"
+        y="684"
         width="481"
         height="109"/>
     <archimateElement
@@ -131,7 +131,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="120"
-        y="1068"
+        y="1044"
         width="481"
         height="109"/>
     <archimateElement
@@ -221,7 +221,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="120"
-        y="1800"
+        y="1788"
         width="481"
         height="109"/>
     <archimateElement
@@ -272,5 +272,17 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-c764a797de904f589fe373bb42e63068.xml#id-c764a797de904f589fe373bb42e63068"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5849936535844e1eb3d70397ff024599">
+    <bounds
+        x="864"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-15935bc4ec2449678516de9f839f9c79.xml#id-15935bc4ec2449678516de9f839f9c79"/>
   </children>
 </archimate:ArchimateDiagramModel>

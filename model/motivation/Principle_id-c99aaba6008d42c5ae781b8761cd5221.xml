@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="In geval van een (vermoed) informatiebeveiligingsincident is debewaartermijn van de gelogde incidentinformatie minimaal drie jaar."
+    name="In geval van een (vermoed) informatiebeveiligingsincident is de bewaartermijn van de gelogde incidentinformatie minimaal drie jaar."
     id="id-c99aaba6008d42c5ae781b8761cd5221">
   <properties
       key="BIO 2019"

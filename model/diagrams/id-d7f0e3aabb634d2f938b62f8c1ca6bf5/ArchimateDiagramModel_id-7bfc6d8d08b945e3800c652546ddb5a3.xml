@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BIO Acquisitie, ontwikkelingen onderhoud vaninformatiesystemen (14)"
+    name="BIO Acquisitie, ontwikkelingen onderhoud van informatiesystemen (14)"
     id="id-7bfc6d8d08b945e3800c652546ddb5a3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -10,8 +10,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
-        y="180"
+        x="60"
+        y="168"
         width="379"
         height="88"/>
     <archimateElement
@@ -25,8 +25,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="84"
-        y="36"
+        x="60"
+        y="48"
         width="379"
         height="109"/>
     <archimateElement

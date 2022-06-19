@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Er is uitsluitend toegang verleend tot informatiesystemenna autorisatie door een bevoegde functionaris."
+    name="Er is uitsluitend toegang verleend tot informatiesystemen na autorisatie door een bevoegde functionaris."
     id="id-38e403101a344337acd0b274159446ac">
   <properties
       key="BIO 2019"
