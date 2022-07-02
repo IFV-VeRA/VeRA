@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Initiële wachtwoorden en wachtwoorden die gereset zijn,hebben een maximale geldigheidsduur van een werkdag enmoeten bij het eerste gebruik worden gewijzigd."
+    name="Initiële wachtwoorden en wachtwoorden die gereset zijn, hebben een maximale geldigheidsduur van een werkdag en moeten bij het eerste gebruik worden gewijzigd."
     id="id-bc7b994cc65c401f9e418d7457ea38b6">
   <properties
       key="BIO 2019"

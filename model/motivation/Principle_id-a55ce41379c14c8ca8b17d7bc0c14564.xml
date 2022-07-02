@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maak gebruik van PKIoverheid-certificaten bij web- en mailverkeer vangevoelige gegevens. Gevoelige gegevens zijn onder andere digitale documentenbinnen de overheid waar gebruikers rechten aan kunnen ontlenen."
+    name="Maak gebruik van PKIoverheid-certificaten bij web- en mailverkeer van gevoelige gegevens. Gevoelige gegevens zijn onder andere digitale documenten binnen de overheid waar gebruikers rechten aan kunnen ontlenen."
     id="id-a55ce41379c14c8ca8b17d7bc0c14564">
   <properties
       key="BIO 2019"

@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ten behoeve van de loganalyse is op basis van een explicieterisicoafweging de bewaarperiode van de logging bepaald. Binnen dezeperiode is de beschikbaarheid van de loginformatie gewaarborgd."
+    name="Ten behoeve van de loganalyse is op basis van een expliciete risicoafweging de bewaarperiode van de logging bepaald. Binnen deze periode is de beschikbaarheid van de loginformatie gewaarborgd."
     id="id-f1ddb37b1af648fda412e8cef00afe94">
   <properties
       key="BIO 2019"

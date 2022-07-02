@@ -27,7 +27,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
+        x="48"
         y="-96"
         width="379"
         height="109"/>
@@ -217,7 +217,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
+        x="48"
         y="24"
         width="379"
         height="109"/>
@@ -249,8 +249,8 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
-        y="141"
+        x="48"
+        y="144"
         width="379"
         height="88"/>
     <archimateElement

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logregel bevat:"
     id="id-bc890589d0be44fcae7e17590bbe0020"
-    documentation="(a) de gebeurtenis;&#xD;&#xA;(b) de benodigde informatie die nodig is om het incident met hogemate van zekerheid te herleiden tot een natuurlijk persoon;&#xD;&#xA;(c) het gebruikte apparaat;&#xD;&#xA;(d) het resultaat van de handeling;(e) een datum en tijdstip van de gebeurtenis.&#xD;&#xA;&#xD;&#xA;">
+    documentation="(a) de gebeurtenis;&#xD;&#xA;(b) de benodigde informatie die nodig is om het incident met hoge mate van zekerheid te herleiden tot een natuurlijk persoon;&#xD;&#xA;(c) het gebruikte apparaat;&#xD;&#xA;(d) het resultaat van de handeling;(e) een datum en tijdstip van de gebeurtenis.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="BIO 2019"
       value="12.4.1.1"/>

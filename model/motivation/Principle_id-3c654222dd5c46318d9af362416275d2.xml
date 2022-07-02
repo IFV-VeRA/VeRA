@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Als er geen gebruik wordt gemaakt van two-factor authenticatie, is dewachtwoordlengte minimaal 8 posities en complex van samenstelling. Vanafeen wachtwoordlengte van 20 posities vervalt de complexiteitseis. Het aantalfoutieve inlogpogingen is maximaal 10. De tijdsduur dat een account wordtgeblokkeerd na overschrijding van het aantal keer foutief inloggen, is vastgelegd."
+    name="Als er geen gebruik wordt gemaakt van two-factor authenticatie, is de wachtwoordlengte minimaal 8 posities en complex van samenstelling. Vanaf een wachtwoordlengte van 20 posities vervalt de complexiteitseis. Het aantal foutieve inlogpogingen is maximaal 10. De tijdsduur dat een account wordt geblokkeerd na overschrijding van het aantal keer foutief inloggen, is vastgelegd."
     id="id-3c654222dd5c46318d9af362416275d2">
   <properties
       key="BIO 2019"
