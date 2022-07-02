@@ -1,6 +1,6 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gebruikers met eigen of ongeauthenticeerde apparatuur (Bring YourOwn Device) krijgen alleen toegang tot een onvertrouwde zone."
+    name="Gebruikers met eigen of ongeauthenticeerde apparatuur (Bring Your Own Device) krijgen alleen toegang tot een onvertrouwde zone."
     id="id-1b8accfcb3f64408b4a44d08ace9418c">
   <properties
       key="BIO 2019"

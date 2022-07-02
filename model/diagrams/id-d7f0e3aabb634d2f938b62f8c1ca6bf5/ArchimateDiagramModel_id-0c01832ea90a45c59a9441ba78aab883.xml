@@ -283,7 +283,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="108"
+        x="120"
         y="2076"
         width="481"
         height="109"/>
