@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c476c383bf344b769de99f0260816888"
-      targetConnections="id-1fc0749a9e8447ee95e0c6cf46cf9792">
+      targetConnections="id-1fc0749a9e8447ee95e0c6cf46cf9792 id-8e95bf04b6374c7c823a5ff2a551d0a5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3fadef8a5baa4b93b8d6b4ee8f3201e6"
@@ -191,10 +191,10 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
-        y="732"
+        x="69"
+        y="714"
         width="260"
-        height="122"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-2f18d864a353423d8f973b4fb4da2049.xml#id-2f18d864a353423d8f973b4fb4da2049"/>
@@ -214,17 +214,6 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-2838f890e4424d4cb814ce6dcd2d02a7.xml#id-2838f890e4424d4cb814ce6dcd2d02a7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-8fbc8f70d0b849f08ddd61d90e4859af"
-      textAlignment="1"
-      content="10.1.2.1 2 Ingeval van PKIoverheid-certificaten: hanteer de PKIoverheid-eisen&#xD;&#xA;ten aanzien van het sleutelbeheer. In overige situaties: hanteer de&#xD;&#xA;standaard ISO 11770 voor het beheer van cryptografische sleutels.&#xD;&#xA;10.1.2.2 2 Er zijn (contractuele) afspraken over reservecertificaten van een alternatieve&#xD;&#xA;leverancier als uit risicoafweging blijkt dat deze noodzakelijk zijn.">
-    <bounds
-        x="912"
-        y="72"
-        width="373"
-        height="163"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -260,9 +249,31 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-255460158e6a4517ac2162218f85cc6a.xml#id-255460158e6a4517ac2162218f85cc6a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-63040c9a1b764db4ba87075696171320"
+        source="id-d3496ca0af57468096952c47363a815b"
+        target="id-8c072413c43945ce9a1c37d33e061d7f">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-49295ac40ce94759a277ed3c8a75fd20.xml#id-49295ac40ce94759a277ed3c8a75fd20"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-54b8693fe499489299669775d8bf0632"
+        source="id-d3496ca0af57468096952c47363a815b"
+        target="id-3869c276d47a4bd897200e2a5f0f9d7d">
+      <bendpoints
+          startX="-19"
+          startY="174"
+          endX="1110"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-671430d49bde460199e4dfcf77b6369b.xml#id-671430d49bde460199e4dfcf77b6369b"/>
+    </sourceConnections>
     <bounds
-        x="1272"
-        y="768"
+        x="1260"
+        y="804"
         width="134"
         height="61"/>
     <archimateElement
@@ -306,5 +317,58 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-a7bf8d07f6574095b13b3c5372723d74.xml#id-a7bf8d07f6574095b13b3c5372723d74"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-082dfb2d124148278ae9ca262104dcc3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8e95bf04b6374c7c823a5ff2a551d0a5"
+        source="id-082dfb2d124148278ae9ca262104dcc3"
+        target="id-c476c383bf344b769de99f0260816888">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-1ec4e84c5bda4eff803aab406cceaeb1.xml#id-1ec4e84c5bda4eff803aab406cceaeb1"/>
+    </sourceConnections>
+    <bounds
+        x="1008"
+        y="456"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-76e0cb9805a447ab948c6f96fe309eff.xml#id-76e0cb9805a447ab948c6f96fe309eff"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8c072413c43945ce9a1c37d33e061d7f"
+      targetConnections="id-63040c9a1b764db4ba87075696171320">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="72"
+        y="804"
+        width="260"
+        height="133"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-c357870037274c1590cfe3d2a10c959e.xml#id-c357870037274c1590cfe3d2a10c959e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3869c276d47a4bd897200e2a5f0f9d7d"
+      targetConnections="id-54b8693fe499489299669775d8bf0632">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="72"
+        y="948"
+        width="253"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-8f220f5464a2474a9074617d3f1912ba.xml#id-8f220f5464a2474a9074617d3f1912ba"/>
   </children>
 </archimate:ArchimateDiagramModel>
