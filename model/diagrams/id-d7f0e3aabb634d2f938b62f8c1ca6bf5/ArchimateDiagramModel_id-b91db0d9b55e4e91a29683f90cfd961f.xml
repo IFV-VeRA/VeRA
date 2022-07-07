@@ -459,8 +459,8 @@
           href="RealizationRelationship_id-eaf4f61930da497695cbf12829c8c014.xml#id-eaf4f61930da497695cbf12829c8c014"/>
     </sourceConnections>
     <bounds
-        x="900"
-        y="930"
+        x="948"
+        y="936"
         width="120"
         height="55"/>
     <archimateElement
@@ -738,7 +738,7 @@
           href="FlowRelationship_id-25998deef3174f31b7038bddd413a82b.xml#id-25998deef3174f31b7038bddd413a82b"/>
     </sourceConnections>
     <bounds
-        x="780"
+        x="804"
         y="1584"
         width="120"
         height="55"/>
@@ -1252,17 +1252,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-268e7d762f4f4fefb541dc95c7637230.xml#id-268e7d762f4f4fefb541dc95c7637230"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-49bbfb891701424abbb816c7de827a10"
-      textAlignment="1"
-      content="Functie - Rol -recht&#xD;&#xA;">
-    <bounds
-        x="759"
-        y="972"
-        width="114"
-        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

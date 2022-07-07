@@ -27,7 +27,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
+        x="48"
         y="-96"
         width="379"
         height="109"/>
@@ -219,7 +219,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
+        x="48"
         y="24"
         width="379"
         height="109"/>
@@ -251,7 +251,7 @@
         name="labelExpression"
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
-        x="72"
+        x="48"
         y="141"
         width="379"
         height="88"/>
@@ -901,16 +901,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-d5f9ef8d1e93402bbb79354d84f5313c.xml#id-d5f9ef8d1e93402bbb79354d84f5313c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-76c0013d13c6404090cb43812bbd00f0"
-      textAlignment="1"
-      content="lifecyclemanagement&#xD;&#xA;">
-    <bounds
-        x="1491"
-        y="889"
-        width="185"
-        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
