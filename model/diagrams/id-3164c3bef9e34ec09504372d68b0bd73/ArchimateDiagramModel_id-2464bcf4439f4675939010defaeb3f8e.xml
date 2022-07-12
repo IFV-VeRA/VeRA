@@ -824,4 +824,6 @@
   <properties
       key="Publiceren"
       value="GEMMA Online"/>
+  <properties
+      key="Object ID"/>
 </archimate:ArchimateDiagramModel>
