@@ -1,4 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Partroon landelijk koppelvlak"
-    id="id-0949b1c57bbb4ec68b5c63377bd5dd26"/>
+    id="id-0949b1c57bbb4ec68b5c63377bd5dd26">
+  <properties
+      key="Publiceren"
+      value="GEMMA Online"/>
+</archimate:ArchimateDiagramModel>

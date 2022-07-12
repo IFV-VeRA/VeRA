@@ -821,4 +821,7 @@
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_id-b6f9383866b64e22b68f29ecbaa09503.xml#id-b6f9383866b64e22b68f29ecbaa09503"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online"/>
 </archimate:ArchimateDiagramModel>
