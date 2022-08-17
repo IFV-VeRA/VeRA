@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Electronisch handtekeningcomponent"
-    id="id-1d05ecd6ddd54dc98af12ff9c44df6a6"/>
+    id="id-1d05ecd6ddd54dc98af12ff9c44df6a6"
+    documentation="Component waar electronische handtekeningen mee kunnen worden gezet"/>

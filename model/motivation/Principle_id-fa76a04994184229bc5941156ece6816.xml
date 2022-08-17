@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Er is een verwijderinstructie waarin is opgenomen dat van verwijderbaremedia die herbruikbaar zijn en die de organisatie verlaten de onnodige inhoudonherstelbaar verwijderd is (ISO 27002 – implementatierichtlijn 8.3.1.a)."
+    name="Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten de onnodige inhoud onherstelbaar verwijderd is (ISO 27002 – implementatierichtlijn 8.3.1.a)."
     id="id-fa76a04994184229bc5941156ece6816">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="8.3.1.1"/>
   <properties
       key="BBN"

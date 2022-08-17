@@ -1227,17 +1227,6 @@
         href="CommunicationNetwork_id-ae23b8298be04c729667d14b2659aeea.xml#id-ae23b8298be04c729667d14b2659aeea"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-e59c265b19b145b88e2ffc891c279f91"
-      textAlignment="1"
-      content="Digikoppeling nakijken">
-    <bounds
-        x="1385"
-        y="1613"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-751ea99bbd7d4f6ba2a8f5bb4392f1eb"
       targetConnections="id-9669fa6a8e924483bdcd746f20ee045b">

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logregel"
-    id="id-9b68321896b34dfb857a0b6c3de28bdc"/>
+    id="id-9b68321896b34dfb857a0b6c3de28bdc"
+    documentation="Regel in een logfile"/>

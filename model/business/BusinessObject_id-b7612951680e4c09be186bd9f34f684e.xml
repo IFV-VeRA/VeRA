@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Auditplan"
-    id="id-b7612951680e4c09be186bd9f34f684e"/>
+    id="id-b7612951680e4c09be186bd9f34f684e"
+    documentation="Een gestructureerde, planmatige (auditplan) wijze van controle en verificatie om te onderzoeken of de onderneming voldoet aan de zelf opgestelde eisen ter borging van de kwaliteit om te voldoen aan de eisen van de klant, de van toepassing zijnde wet- en regelgeving, de op de onderneming, de processen en systemen van toepassingen nationale- en international (ISO)standaarden, EU wet- en regelgeving."/>

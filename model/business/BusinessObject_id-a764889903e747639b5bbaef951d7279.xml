@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sleutelplan"
-    id="id-a764889903e747639b5bbaef951d7279"/>
+    id="id-a764889903e747639b5bbaef951d7279"
+    documentation="Plan die beschrijft hoe met fysieke sleutels wordt omgegaan"/>

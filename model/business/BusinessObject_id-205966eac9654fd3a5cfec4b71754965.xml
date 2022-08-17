@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cryptografiebeleid"
-    id="id-205966eac9654fd3a5cfec4b71754965"/>
+    id="id-205966eac9654fd3a5cfec4b71754965"
+    documentation="Beleid rondom het gebruik van crytografie"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiebeveiligingsbeleid"
-    id="id-e34b714b614546dabacdabc9dfbc712d"/>
+    id="id-e34b714b614546dabacdabc9dfbc712d"
+    documentation="Algemene regels waarmee een organisatie beveiligingsrisico’s zo klein mogelijk wil maken. Van tevoren spreekt men af hoe groot de beveiligingsrisico’s mogen zijn."/>

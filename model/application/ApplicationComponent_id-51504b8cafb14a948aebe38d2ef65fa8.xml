@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PEN test component"
-    id="id-51504b8cafb14a948aebe38d2ef65fa8"/>
+    id="id-51504b8cafb14a948aebe38d2ef65fa8"
+    documentation="Component voor het uitvoeren van PEN testen"/>

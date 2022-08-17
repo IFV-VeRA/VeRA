@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logbestand"
-    id="id-9575cf5cfb3a455cb5c226a58bc3a356"/>
+    id="id-9575cf5cfb3a455cb5c226a58bc3a356"
+    documentation="Een digitaal logboek. Bestand waarin een digitaal&#xD;&#xA;systeem automatisch veranderingen en gebeurtenissen bijhoudt.&#xD;&#xA;"/>

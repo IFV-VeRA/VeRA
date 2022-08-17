@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligd netwerk"
-    id="id-94933c6a863c42a68ebce31a01445975"/>
+    id="id-94933c6a863c42a68ebce31a01445975"
+    documentation="Alle beleid, functies, processen en technlogie die zorgen voor een voldoende beveiligd netwerk"/>

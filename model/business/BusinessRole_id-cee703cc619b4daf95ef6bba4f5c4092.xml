@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manager"
-    id="id-cee703cc619b4daf95ef6bba4f5c4092"/>
+    id="id-cee703cc619b4daf95ef6bba4f5c4092"
+    documentation="Taken en bevoegdheden van een manager"/>

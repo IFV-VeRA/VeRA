@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Priveleged Account Management"
-    id="id-d9305ff994f140a3af0836635c39bf5c"/>
+    id="id-d9305ff994f140a3af0836635c39bf5c"
+    documentation="Dit is een beveiligde omgeving die geprivilegieerde toegang tot de IT infrastructuur en het netwerk helpt beveiligen, controleren, beheren en bewaken; het account op een digitaal systeem dat meer rechten geeft om bepaalde dingen&#xD;&#xA;te doen. Bijvoorbeeld bestanden en instellingen veranderen. In Windowssystemen&#xD;&#xA;heet dit account de administrator. In Unix en&#xD;&#xA;Linuxsystemen de root.&#xD;&#xA;"/>

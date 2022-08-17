@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voor acceptatietesten van systemen worden gestructureerde testmethodiekengebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd"
+    name="Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd"
     id="id-b909a16b10d04b56af8ee499b82b044f">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="14.2.9.1"/>
   <properties
       key="BBN"

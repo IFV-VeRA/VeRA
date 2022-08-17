@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BIO Back-up (12.3)"
-    id="id-b47a12e1029842c792701404db5a561c">
+    id="id-b47a12e1029842c792701404db5a561c"
+    documentation="Totaal van beleid, processen en componenten die zorgdragen voor een back-up van bedrijfsinformatie">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e842e14d53db4cff8e2312d37def3380"

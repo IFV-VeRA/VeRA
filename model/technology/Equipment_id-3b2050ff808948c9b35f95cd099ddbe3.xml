@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hardwaredestructie"
-    id="id-3b2050ff808948c9b35f95cd099ddbe3"/>
+    id="id-3b2050ff808948c9b35f95cd099ddbe3"
+    documentation="Destructie van hardware waardoor deze niet meer bruikbaar is"/>

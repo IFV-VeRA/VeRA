@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Monitoring en control"
-    id="id-4c4731116d0a42f2b3b6d9ca41a4e0b2"/>
+    id="id-4c4731116d0a42f2b3b6d9ca41a4e0b2"
+    documentation="Monitoring; Continu bewaken van een computer of digitaal netwerk.&#xD;&#xA;Bijvoorbeeld of het nog helemaal goed werkt, of er fouten voorkomen, enzovoort&#xD;&#xA;Control; Een activiteit met als doel om de oorzaak of het gevolg van een ongewenste gebeurtenis te voorkomen, weg te nemen, of te verkleinen.&#xD;&#xA;"/>

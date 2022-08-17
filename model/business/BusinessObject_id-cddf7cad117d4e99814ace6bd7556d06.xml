@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligingszone plan"
-    id="id-cddf7cad117d4e99814ace6bd7556d06"/>
+    id="id-cddf7cad117d4e99814ace6bd7556d06"
+    documentation="Bij het indelen in beveiligde zones (zonering) gaat het enerzijds om het scheiden van verantwoordelijkheidsgebieden en anderzijds het mogelijk maken van gecontroleerde doorgang tussen de gedefinieerde gebieden. Voor huisvesting Informatievoorzieningen (IV) gaat het om fysieke barrières met de verschillende doorgangen daarin."/>

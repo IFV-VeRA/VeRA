@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Directie"
-    id="id-b07c33f33d3a49e6a053172caab97c63"/>
+    id="id-b07c33f33d3a49e6a053172caab97c63"
+    documentation="Taken en bevoegdheden van de directie"/>

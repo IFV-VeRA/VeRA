@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewuste gebruiker"
-    id="id-ab1c46ca4daf4c638fba81fe7ac9a405"/>
+    id="id-ab1c46ca4daf4c638fba81fe7ac9a405"
+    documentation="Gebruiker die opgeleid is op informatieveiligheid en zich bewust is van informatieveiligheid bij het gebruik van bedrijfsmiddelen en bedrijfsinformatie"/>

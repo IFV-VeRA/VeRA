@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Back-up beleid"
-    id="id-f5d7439fd0a74a0988569b6a4a30f586"/>
+    id="id-f5d7439fd0a74a0988569b6a4a30f586"
+    documentation="Het doel van dit document is om te waarborgen dat back-up kopieën worden gemaakt op de gedefinieerde intervallen en regelmatig worden getest."/>

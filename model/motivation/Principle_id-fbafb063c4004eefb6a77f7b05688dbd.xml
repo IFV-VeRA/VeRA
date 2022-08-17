@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Het overnemen van sessies op remote werkplekken op een andere werkplek isalleen mogelijk via dezelfde beveiligde loginprocedure als waarmee de sessie isgecreëerd. Na een expliciete risicoafweging mag hiervan worden afgeweken."
+    name="Het overnemen van sessies op remote werkplekken op een andere werkplek is alleen mogelijk via dezelfde beveiligde loginprocedure als waarmee de sessie isgecreëerd. Na een expliciete risicoafweging mag hiervan worden afgeweken."
     id="id-fbafb063c4004eefb6a77f7b05688dbd">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="11.2.9.4"/>
   <properties
       key="BBN"

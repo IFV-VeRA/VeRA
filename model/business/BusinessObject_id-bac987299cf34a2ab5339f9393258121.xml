@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Media procedure"
-    id="id-bac987299cf34a2ab5339f9393258121"/>
+    id="id-bac987299cf34a2ab5339f9393258121"
+    documentation="Procedure die beschrijft hoe om te gaan met Media"/>

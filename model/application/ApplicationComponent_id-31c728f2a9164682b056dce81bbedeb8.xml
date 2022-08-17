@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mobile Device Management"
-    id="id-31c728f2a9164682b056dce81bbedeb8"/>
+    id="id-31c728f2a9164682b056dce81bbedeb8"
+    documentation="Mobile Device Management is het beheren en beveiligen van alle mobiele devices, opdat er veilig gewerkt kan worden en geen informatie in handen van onbevoegden kan vallen"/>

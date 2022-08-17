@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geheimhoudingsverklaring"
-    id="id-d64a80b6f0a14c66b84705976cdb070b"/>
+    id="id-d64a80b6f0a14c66b84705976cdb070b"
+    documentation="Een contract waarin de andere partij akkoord gaat om bepaalde informatie van u niet door te vertellen of openbaar te maken."/>

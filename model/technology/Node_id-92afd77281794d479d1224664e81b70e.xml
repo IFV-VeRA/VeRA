@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Certificaat authority"
-    id="id-92afd77281794d479d1224664e81b70e"/>
+    id="id-92afd77281794d479d1224664e81b70e"
+    documentation="Erkende instantie die digitale certificaten uitgeeft. Daarvoor stelt ze eerst vast dat de aanvrager is wie hij zegt te zijn"/>

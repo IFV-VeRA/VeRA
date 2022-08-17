@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Om zekerheid te bieden over de integriteit van het elektronischebericht, wordt voor elektronische handtekeningen gebruikgemaakt van de AdES Baseline Profile standaard."
+    name="Om zekerheid te bieden over de integriteit van het elektronische bericht, wordt voor elektronische handtekeningen gebruikgemaakt van de AdES Baseline Profile standaard."
     id="id-5f1cc84376cf45419f8c834f217b6dd8">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="13.2.3.4"/>
   <properties
       key="BBN"

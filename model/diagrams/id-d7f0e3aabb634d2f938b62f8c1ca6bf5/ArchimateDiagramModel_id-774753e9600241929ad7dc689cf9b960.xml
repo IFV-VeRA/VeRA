@@ -170,7 +170,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="180"
-        y="1140"
+        y="1248"
         width="421"
         height="80"/>
     <archimateElement
@@ -409,7 +409,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="180"
-        y="900"
+        y="1008"
         width="421"
         height="127"/>
     <archimateElement
@@ -425,23 +425,12 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="180"
-        y="1236"
+        y="1344"
         width="421"
         height="121"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-545f70c819b34a8db29a36572c67fd59.xml#id-545f70c819b34a8db29a36572c67fd59"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-0f2c63102c66447e9651998e8833512f"
-      textAlignment="1"
-      content="12.4.1.4 2 Bij ontdekte nieuwe dreigingen (aanvallen) via 12.4.1.3 worden deze&#xD;&#xA;binnen geldende juridische kaders verplicht gedeeld binnen de overheid,&#xD;&#xA;waaronder met het NCSC (alleen voor rijksoverheidsorganisaties) of&#xD;&#xA;via de sectorale CERT (voor andere overheidsorganisaties), middels (bij&#xD;&#xA;voorkeur geautomatiseerde) threat intelligence sharing mechanismen.&#xD;&#xA;12.4.1.5 2 De SIEM en/of SOC hebben heldere regels over wanneer een incident&#xD;&#xA;moet worden gerapporteerd aan het verantwoordelijk management.&#xD;&#xA;">
-    <bounds
-        x="1428"
-        y="-70"
-        width="337"
-        height="269"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -576,7 +565,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="180"
-        y="1038"
+        y="1146"
         width="421"
         height="85"/>
     <archimateElement
@@ -632,7 +621,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="180"
-        y="780"
+        y="888"
         width="421"
         height="109"/>
     <archimateElement
@@ -834,5 +823,57 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-71cd7737372d47328b707da8659a9854.xml#id-71cd7737372d47328b707da8659a9854"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e9e6981abaa7416299225c96eb1587c2"
+      targetConnections="id-4916413ce7a440f6abf5217a4f57309d">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="180"
+        y="1476"
+        width="421"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-f18d1a2cee8f4114afaa0a75a8684e1c.xml#id-f18d1a2cee8f4114afaa0a75a8684e1c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d48ba02b20e842a3be2b30242470c336">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;${properties}"/>
+    <bounds
+        x="180"
+        y="786"
+        width="421"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-b13c5351f5d34e73a6ab1bf8a7699a50.xml#id-b13c5351f5d34e73a6ab1bf8a7699a50"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b589c30bb8ec438fbb3add5027822dad">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4916413ce7a440f6abf5217a4f57309d"
+        source="id-b589c30bb8ec438fbb3add5027822dad"
+        target="id-e9e6981abaa7416299225c96eb1587c2">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-b79a8f4f8c7e4d598a289e7dbb1682c7.xml#id-b79a8f4f8c7e4d598a289e7dbb1682c7"/>
+    </sourceConnections>
+    <bounds
+        x="840"
+        y="1488"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-2380c89b44144ba29d6a206109cb231c.xml#id-2380c89b44144ba29d6a206109cb231c"/>
   </children>
 </archimate:ArchimateDiagramModel>

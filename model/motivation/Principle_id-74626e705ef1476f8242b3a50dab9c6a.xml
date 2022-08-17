@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="De informatie in alle informatiesystemen is door middel van een explicieterisicoafweging geclassificeerd, zodat duidelijk is welke bescherming nodig is."
+    name="De informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd, zodat duidelijk is welke bescherming nodig is."
     id="id-74626e705ef1476f8242b3a50dab9c6a">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="8.2.1.1"/>
   <properties
       key="BBN"

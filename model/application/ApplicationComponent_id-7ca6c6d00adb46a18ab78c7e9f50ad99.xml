@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cryptografische toepassingscomponent"
-    id="id-7ca6c6d00adb46a18ab78c7e9f50ad99"/>
+    id="id-7ca6c6d00adb46a18ab78c7e9f50ad99"
+    documentation="Component die cryptografie toepast"/>

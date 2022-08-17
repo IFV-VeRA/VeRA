@@ -156,7 +156,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="48"
-        y="1224"
+        y="1248"
         width="379"
         height="109"/>
     <archimateElement
@@ -172,9 +172,9 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="48"
-        y="1128"
+        y="1140"
         width="379"
-        height="88"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-372876c28f8a4959a3e490443d9d0b85.xml#id-372876c28f8a4959a3e490443d9d0b85"/>
@@ -188,7 +188,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="48"
-        y="1464"
+        y="1488"
         width="379"
         height="112"/>
     <archimateElement
@@ -204,7 +204,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="48"
-        y="1344"
+        y="1368"
         width="379"
         height="109"/>
     <archimateElement
@@ -236,7 +236,7 @@
         value="${name}&#xD;&#xA;${properties}"/>
     <bounds
         x="48"
-        y="1584"
+        y="1608"
         width="379"
         height="109"/>
     <archimateElement
@@ -613,9 +613,9 @@
           href="RealizationRelationship_id-d44eed3aa78549b3a44e0914e941a753.xml#id-d44eed3aa78549b3a44e0914e941a753"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="480"
         y="858"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"

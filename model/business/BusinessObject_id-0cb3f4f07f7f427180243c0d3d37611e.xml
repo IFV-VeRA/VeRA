@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arbeidsvoorwaarden"
-    id="id-0cb3f4f07f7f427180243c0d3d37611e"/>
+    id="id-0cb3f4f07f7f427180243c0d3d37611e"
+    documentation="Arbeidsvoorwaarden zijn de voorwaarden waarop een medewerker werkt. De meest bekende arbeidsvoorwaarden zijn arbeidsduur, salaris en vakantiedagen."/>

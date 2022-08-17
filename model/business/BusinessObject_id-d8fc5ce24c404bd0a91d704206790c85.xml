@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meldprocedure"
-    id="id-d8fc5ce24c404bd0a91d704206790c85"/>
+    id="id-d8fc5ce24c404bd0a91d704206790c85"
+    documentation="Procedure die beschrijft hoe informatie beveiligingsincidenten kunnen worden gemeld"/>

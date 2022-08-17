@@ -1169,17 +1169,6 @@
         href="BusinessFunction_id-0fa590544b3b3f404a43b6ab48f6c375.xml#id-0fa590544b3b3f404a43b6ab48f6c375"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-226cd15d5d084130baa8679494311898"
-      textAlignment="1"
-      content="Onderste 3 nog onduidelijk hoe weer te geven">
-    <bounds
-        x="2064"
-        y="84"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d98eb69d2e9b458ea5297294845e93da"
       targetConnections="id-de1483b9c9cf49439d9ff398f4f26b2f">

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirement management"
-    id="id-b6c6bd07456d4ba3a8009a2ef80fd246"/>
+    id="id-b6c6bd07456d4ba3a8009a2ef80fd246"
+    documentation="Dit is het proces van documenteren, analyseren, traceren, prioriteren en overeenstemming bereiken over vereisten en vervolgens de verandering controleren en communiceren met relevante belanghebbenden."/>

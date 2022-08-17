@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fysiek transport procedure"
-    id="id-2933366fb956479e8b5753470ed00e86"/>
+    id="id-2933366fb956479e8b5753470ed00e86"
+    documentation="De procedure die beschrijft hoe fysiek transport dient plaats te vinden."/>

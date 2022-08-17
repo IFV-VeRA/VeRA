@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schermbeveiliging/vergerendeling"
-    id="id-d51c2add144544c18cc480c4eea61f1b"/>
+    id="id-d51c2add144544c18cc480c4eea61f1b"
+    documentation="Component die het scherm vergrendelt na een ingestelde tijd"/>

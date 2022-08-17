@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligingseisen"
-    id="id-0ab0ce26a73945798d75ef8478fb7352"/>
+    id="id-0ab0ce26a73945798d75ef8478fb7352"
+    documentation="Eisen die aan het geheel van maatregelen worden gesteld om een te beveiligen doel te beschermen tegen schadelijke invloeden "/>

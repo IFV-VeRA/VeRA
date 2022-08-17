@@ -1,4 +1,5 @@
 <archimate:DistributionNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Redundante Nutsvoorziening"
-    id="id-4bcd6c7891c24b779050320d440c4ec7"/>
+    id="id-4bcd6c7891c24b779050320d440c4ec7"
+    documentation="Nutsvoorzieningen die redundant zijn aangesloten om zo hoog beschikbaarheid te kunnen bieden"/>

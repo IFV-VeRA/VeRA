@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertrouwde zone"
-    id="id-244a9ed7ba634d0aa3dc93a2516fd227"/>
+    id="id-244a9ed7ba634d0aa3dc93a2516fd227"
+    documentation="Deze zone bevat alle informatieverwerkende systemen voor de primaire bedrijfsvoering en staat onder het beheer en controle van de organisatie. Bij grotere organisaties wordt deze zone soms onderverdeeld in de (sub)zones: Frontoffice, Midoffice en Backoffice. Deze onderverdeling sluit tevens goed aan bij het ontwerp van Multi-tier oplossingen. De vertrouwde zone omvat in volume het overgrote deel van de bedrijfsinformatie."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementatie beleid telewerken"
-    id="id-b6d14a9208434d9fb9dbc87df7ab877e"/>
+    id="id-b6d14a9208434d9fb9dbc87df7ab877e"
+    documentation="Beschrijving van de te implementeren processen en componenten ter ondersteuning van het beleid rondom telewerken"/>

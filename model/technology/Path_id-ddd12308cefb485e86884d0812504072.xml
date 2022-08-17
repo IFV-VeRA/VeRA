@@ -1,4 +1,5 @@
 <archimate:Path
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiegebruikersnetwerk"
-    id="id-ddd12308cefb485e86884d0812504072"/>
+    id="id-ddd12308cefb485e86884d0812504072"
+    documentation="Netwerk waarover alleen verkeer van gebruikers wordt vervoerd"/>

@@ -1,4 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkel omgeving"
-    id="id-a86cda16cadd4e2d86312863d3f5d7a3"/>
+    id="id-a86cda16cadd4e2d86312863d3f5d7a3"
+    documentation="Hierin wordt de programmacode ontwikkeld. Om te voorkomen dat ontwikkelingen het productieproces kunnen beïnvloed is deze omgeving gescheiden van de productie omgeving."/>

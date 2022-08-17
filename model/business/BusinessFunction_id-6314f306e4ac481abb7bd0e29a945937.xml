@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie risicoanalyse"
-    id="id-6314f306e4ac481abb7bd0e29a945937"/>
+    id="id-6314f306e4ac481abb7bd0e29a945937"
+    documentation="Methode om inzicht te krijgen in de risico’s die je loopt. De onderzoeker kijkt daarbij onder andere naar het volgende:&#xD;&#xA;- hoe groot is de kans dat&#xD;&#xA;iets gebeurt?&#xD;&#xA;- hoe groot zijn de gevolgen&#xD;&#xA;"/>

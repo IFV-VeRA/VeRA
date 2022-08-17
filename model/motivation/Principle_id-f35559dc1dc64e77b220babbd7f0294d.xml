@@ -1,10 +1,10 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technische beoordeling van toepassingen nawijzigingen besturingsplatform"
+    name="Technische beoordeling van toepassingen na wijzigingen besturingsplatform"
     id="id-f35559dc1dc64e77b220babbd7f0294d"
     documentation="Als besturingsplatforms zijn veranderd, behoren bedrijfskritische toepassingen&#xD;&#xA;te worden beoordeeld en getest om te waarborgen dat er geen nadelige&#xD;&#xA;impact is op de activiteiten of de beveiliging van de organisatie.">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="14.2.3"/>
   <properties
       key="ISO 27002 2017"

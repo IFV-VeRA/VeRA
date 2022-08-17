@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitstroom"
-    id="id-07ac8717501c4342b1ba5f5e669803d5"/>
+    id="id-07ac8717501c4342b1ba5f5e669803d5"
+    documentation="Het proces wat gevolgd wordt bij uitdiensttreding. "/>

@@ -2,9 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitbestede softwareontwikkeling"
     id="id-f1d945798a6f4a729a7b45c961dd3788"
-    documentation="Uitbestede systeemontwikkeling behoort onder supervisie te&#xD;&#xA;staan van en te worden gemonitord door de organisatie.">
+    documentation="Uitbestede systeemontwikkeling behoort onder supervisie te staan van en te worden gemonitord door de organisatie.">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="14.2.7"/>
   <properties
       key="ISO 27002 2017"
@@ -14,5 +14,5 @@
       value="14.2.7"/>
   <properties
       key="BBN"
-      value="2"/>
+      value="1"/>
 </archimate:Principle>

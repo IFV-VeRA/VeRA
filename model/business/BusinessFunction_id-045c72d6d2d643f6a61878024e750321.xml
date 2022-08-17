@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hardening"
-    id="id-045c72d6d2d643f6a61878024e750321"/>
+    id="id-045c72d6d2d643f6a61878024e750321"
+    documentation="Niet gebruikte functies in hardware en software uitzetten of weghalen. En de&#xD;&#xA;rechten van andere functies waar mogelijk beperken. Zo verkleint men het aanvalsoppervlak en daarmee het risico van aanvallen.&#xD;&#xA;"/>

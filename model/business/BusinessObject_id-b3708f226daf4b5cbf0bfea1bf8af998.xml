@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Coordinated Vulnerability Disclosure procedure"
-    id="id-b3708f226daf4b5cbf0bfea1bf8af998"/>
+    id="id-b3708f226daf4b5cbf0bfea1bf8af998"
+    documentation="Standaard proces waarmee security onderzoekers&#xD;&#xA;zwakke plekken in computersystemen en producten&#xD;&#xA;kunnen melden. Ze mogen dat alleen doen als ze zich&#xD;&#xA;houden aan de spelregels van de organisatie voor&#xD;&#xA;dit soort meldingen. Het Nationaal Cyber Security&#xD;&#xA;Centrum (NCSC) heeft een handleiding waarin staat&#xD;&#xA;waaraan de spelregels moeten voldoen. Deze methode&#xD;&#xA;is de opvolger vande Responsible Disclosure.&#xD;&#xA;Het belangrijkste verschil met vroeger is dat de onderzoeker&#xD;&#xA;nu niet meer alleen verantwoordelijk is voor de gevolgen van een beveiligingslek.&#xD;&#xA;"/>

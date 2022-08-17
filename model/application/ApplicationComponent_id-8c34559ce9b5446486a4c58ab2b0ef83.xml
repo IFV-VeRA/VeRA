@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ISMS Component"
-    id="id-8c34559ce9b5446486a4c58ab2b0ef83"/>
+    id="id-8c34559ce9b5446486a4c58ab2b0ef83"
+    documentation="Een SIEM-beheercomponent (Securiy Information &amp; Event management) voor het beheren van technische beveiliginginformatie"/>

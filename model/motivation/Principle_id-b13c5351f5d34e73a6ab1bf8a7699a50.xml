@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De SIEM en/of SOC hebben heldere regels over wanneer een incidentmoet worden gerapporteerd aan het verantwoordelijk management."
+    id="id-b13c5351f5d34e73a6ab1bf8a7699a50">
+  <properties
+      key="BIO 104zv"
+      value="12.4.1.5 2 "/>
+  <properties
+      key="BBN"
+      value="2"/>
+</archimate:Principle>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Exitstrategie"
-    id="id-49048b1f893c4db898006472abb9b4b3"/>
+    id="id-49048b1f893c4db898006472abb9b4b3"
+    documentation="Aan het einde van de levenscyclus van een softwarepakket (met name software in de cloud) moeten er mogelijkheden bestaan om bestaande contracten te ontbinden en een nieuwe leverancier te kiezen. Vendor lock-in moet worden voorkomen. Voor de transitiefase en een probleemloze overdracht van bedrijfsgegevens moeten vooraf bindende afspraken worden gemaakt tussen de klant en de leverancier."/>

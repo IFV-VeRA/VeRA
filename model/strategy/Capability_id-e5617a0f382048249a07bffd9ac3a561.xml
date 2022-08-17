@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cryptografie"
-    id="id-e5617a0f382048249a07bffd9ac3a561"/>
+    id="id-e5617a0f382048249a07bffd9ac3a561"
+    documentation="Informatie omzetten in een code zodat een ander het niet kan lezen. Dit doet men als men gevoelige informatie veilig wil bewaren of versturen. Meestal bestaat cryptografie uit een algoritme voor versleutelen en ontsleutelen en één of meerdere sleutels."/>

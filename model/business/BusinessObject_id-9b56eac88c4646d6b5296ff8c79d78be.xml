@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screeningsbeleid"
-    id="id-9b56eac88c4646d6b5296ff8c79d78be"/>
+    id="id-9b56eac88c4646d6b5296ff8c79d78be"
+    documentation="Beleid wat aangeeft welke screening er nodig is voor welke functie"/>

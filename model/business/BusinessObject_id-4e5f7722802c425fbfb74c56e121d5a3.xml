@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="In Control Verklaring (IVC)"
-    id="id-4e5f7722802c425fbfb74c56e121d5a3"/>
+    id="id-4e5f7722802c425fbfb74c56e121d5a3"
+    documentation="Een verklaring dat de hoogste leiding ‘in control’ is. ‘In Control’ kan gedefinieerd worden als ‘de wijze van sturen, beheersen en toezicht houden, gericht op een effectieve en efficiënte realisatie van strategische en operationele doelstellingen alsmede het hierover op een open wijze communiceren en verantwoording afleggen ten behoeve van belanghebbenden’. In het statement wordt verwezen naar een set van normen waaraan de mate van beheersing getoetst is. Tevens zijn in het statement de aangetroffen tekortkomingen ten aanzien van de beheersing en de in de processen opgenomen internal controls, de oorzaken ervan en de voorgenomen maatregelen om de knelpunten op te lossen, opgenomen."/>

@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IDS/IPS service"
-    id="id-e08a3f17121448609c3f86be15d53572"/>
+    id="id-e08a3f17121448609c3f86be15d53572"
+    documentation="IDS: Alle data controleren die door een computernetwerk&#xD;&#xA;gaan of die een digitaal systeem verstuurt en ontvangt.&#xD;&#xA;En een waarschuwing geven als er iets niet in orde lijkt.&#xD;&#xA;IPS: Alle data controleren die door een computernetwerk&#xD;&#xA;gaan of die een digitaal systeem verstuurt en ontvangt.&#xD;&#xA;En deze data tegenhouden als er iets niet in orde lijkt.&#xD;&#xA;"/>

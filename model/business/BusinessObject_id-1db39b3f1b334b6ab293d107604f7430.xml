@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Continuiteitsplan"
-    id="id-1db39b3f1b334b6ab293d107604f7430"/>
+    id="id-1db39b3f1b334b6ab293d107604f7430"
+    documentation="Er moeten plannen worden ontwikkeld en geïmplementeerd om de bedrijfsactiviteiten te handhaven of te herstellen en om de beschikbaarheid van informatie op het vereiste niveau en in de vereiste tijdspanne te bewerkstelligen na onderbreking of uitval van kritische bedrijfsprocessen."/>

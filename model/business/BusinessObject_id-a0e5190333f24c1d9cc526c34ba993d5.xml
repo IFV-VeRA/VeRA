@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betrouwbaarheidseisen"
-    id="id-a0e5190333f24c1d9cc526c34ba993d5"/>
+    id="id-a0e5190333f24c1d9cc526c34ba993d5"
+    documentation="Eisen die gesteld worden aan de transporteur met betrekking tot betrouwbaarheid&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkoopvoorwaarden (Arvodi/Arbit)"
-    id="id-74ad8b36b2404f4dbe8c42955eb0bcac"/>
+    id="id-74ad8b36b2404f4dbe8c42955eb0bcac"
+    documentation="De meeste aanbestedende diensten hanteren inkoopvoorwaarden ('algemene voorwaarden') bij het plaatsen van een opdracht. Een kenmerk van de voorwaarden is dat deze in zijn algemeenheid gelden, de kernbedingen (prijs, looptijd, enzovoort) van een opdracht worden in de overeenkomst zelf geregeld."/>

@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijderbare media"
-    id="id-a295808521fd4170939c621e24344779"/>
+    id="id-a295808521fd4170939c621e24344779"
+    documentation="Media die kan worden verwijderd en meegenomen"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wachtwoordkluis"
-    id="id-15935bc4ec2449678516de9f839f9c79"/>
+    id="id-15935bc4ec2449678516de9f839f9c79"
+    documentation="Een digitale wachtwoordkluis is een verzamelplek van wachtwoorden."/>

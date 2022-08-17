@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" In geval van PKIoverheid-certificaten: hanteer de PKIoverheid-eisenten aanzien van het sleutelbeheer. In overige situaties: hanteer destandaard ISO 11770 voor het beheer van cryptografische sleutels."
+    name=" In geval van PKIoverheid-certificaten: hanteer de PKIoverheid-eisen ten aanzien van het sleutelbeheer. In overige situaties: hanteer de standaard ISO 11770 voor het beheer van cryptografische sleutels."
     id="id-c357870037274c1590cfe3d2a10c959e">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="10.1.2.1.2"/>
   <properties
       key="BBN"

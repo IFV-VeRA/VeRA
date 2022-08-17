@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Informatie) Beveiligingsincident"
-    id="id-0c96338144504a2a8116943f287e5fbf"/>
+    id="id-0c96338144504a2a8116943f287e5fbf"
+    documentation="Gebeurtenis of actie waarbij de beveiliging van hardware, software, informatie, een proces of organisatie mogelijk in gevaar is gebracht&#xD;&#xA;of geheel of gedeeltelijk is doorbroken.&#xD;&#xA;"/>

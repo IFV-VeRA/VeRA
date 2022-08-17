@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onvertrouwde zone"
-    id="id-65e4016b8d364eee8344522d3a1a67e2"/>
+    id="id-65e4016b8d364eee8344522d3a1a67e2"
+    documentation="Deze zone, ook bekend als de externe zone, bevat systemen, die niet onder het beveiligingsregime en de (beheer) verantwoordelijkheid vallen van de organisatie. Het internet is een voorbeeld van een niet vertrouwde zone, waarin klanten of partners vanuit hun eigen omgeving communiceren met de organisatie."/>

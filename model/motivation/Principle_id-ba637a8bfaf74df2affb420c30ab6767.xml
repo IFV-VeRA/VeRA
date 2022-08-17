@@ -1,9 +1,9 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bij nieuwe informatiesystemen en bij wijzigingen op bestaandeinformatiesystemen moet een expliciete risicoafweging worden uitgevoerd tenbehoeve van het vaststellen van de beveiligingseisen, uitgaande van de BIO."
+    name="Bij nieuwe informatie systemen en bij wijzigingen op bestaandeinformatiesystemen moet een expliciete risicoafweging worden uitgevoerd tenbehoeve van het vaststellen van de beveiligingseisen, uitgaande van de BIO."
     id="id-ba637a8bfaf74df2affb420c30ab6767">
   <properties
-      key="BIO 2019"
+      key="BIO 104zv"
       value="14.1.1.1"/>
   <properties
       key="BBN"

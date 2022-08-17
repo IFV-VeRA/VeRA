@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieclassificatie"
-    id="id-4f0634c6d08b4802ba7d5ae2c75372c4"/>
+    id="id-4f0634c6d08b4802ba7d5ae2c75372c4"
+    documentation="Beoordelen hoe gevoelig of belangrijk informatie of&#xD;&#xA;een systeem is. Dit is nodig om de juiste maatregelen te kunnen nemen om de informatie of het systeem&#xD;&#xA;"/>

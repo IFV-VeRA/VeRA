@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Webcomponent"
-    id="id-5445d7efc55e4bc8991baea7baf01065"/>
+    id="id-5445d7efc55e4bc8991baea7baf01065"
+    documentation="Component voor het publiceren van informatie op een website en het integreren van gespecialiseerde systemen."/>

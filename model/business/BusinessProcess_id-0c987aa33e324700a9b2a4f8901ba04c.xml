@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Audit proces"
-    id="id-0c987aa33e324700a9b2a4f8901ba04c"/>
+    id="id-0c987aa33e324700a9b2a4f8901ba04c"
+    documentation="Het door een (onafhankelijke) deskundige kritisch beoordelen van de opzet, het bestaan en de werking van de (beveiligings-) voorzieningen en de organisatie voor informatietechnologie op betrouwbaarheid, doeltreffendheid en doelmatigheid"/>

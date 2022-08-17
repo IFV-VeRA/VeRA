@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proceseigenaar"
-    id="id-76d33d94d7254e4eb76ade22f996911d"/>
+    id="id-76d33d94d7254e4eb76ade22f996911d"
+    documentation="De eigenaar van een proces; is vanuit het informatieveiligheidsbeleid verantwoordelijk voor het stellen van eisen en de inrichting van de controle hierop, zodat voldaan wordt aan het informatieveiligheidsbeleid en aan de wettelijke eisen."/>

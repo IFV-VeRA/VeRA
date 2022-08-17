@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CERT"
-    id="id-2380c89b44144ba29d6a206109cb231c"/>
+    id="id-2380c89b44144ba29d6a206109cb231c"
+    documentation="Beschermde term (afkorting voor Computer Emergency&#xD;&#xA;Response Team) van Carnegie Mellon voor het eerste&#xD;&#xA;CSIRT ter wereld. Deze term mag onder bepaalde voorwaarden ook door andere CSIRT’s worden gebruikt.&#xD;&#xA;"/>

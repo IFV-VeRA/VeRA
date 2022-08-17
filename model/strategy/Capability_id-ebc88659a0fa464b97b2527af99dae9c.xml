@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Malware protectie"
-    id="id-ebc88659a0fa464b97b2527af99dae9c"/>
+    id="id-ebc88659a0fa464b97b2527af99dae9c"
+    documentation="Beleid, processen en componenten voor bescherming tegen kwaadaardige software die aanvallers op een digitaal systeem zetten om er op afstand bij te kunnen, het te vernielen of informatie te stelen. Malware is een samentrekking van het Engelse malicious software.&#xD;&#xA;"/>
