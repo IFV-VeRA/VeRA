@@ -867,7 +867,8 @@
         font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="12"
           y="96"
@@ -883,7 +884,8 @@
         font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="15"
           y="432"
@@ -899,7 +901,8 @@
         font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="15"
           y="756"
@@ -915,7 +918,8 @@
         font="1|Segoe UI|12.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"
-        fillColor="#c9e7b7">
+        fillColor="#c9e7b7"
+        type="1">
       <bounds
           x="13"
           y="1068"
