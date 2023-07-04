@@ -3,7 +3,7 @@
     name="VeRA2.0 (IFV versie)"
     id="id-1234e26d"
     purpose="Standaarden Forum Standaardisatie"
-    version="4.9.0">
+    version="5.0.0">
   <properties
       key="Architectuurtool"
       value="Archi"/>
@@ -16,4 +16,7 @@
   <properties
       key="Publiceren"
       value="Softwarecatalogus en GEMMA Online en redactie"/>
+  <properties
+      key="Type model"
+      value="Kernmodel"/>
 </archimate:ArchimateModel>
